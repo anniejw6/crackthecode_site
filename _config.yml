@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+gems: [jekyll-paginate]
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Women of Progressive Tech
+tagline:          Wommen of Progressive Tech Conference
+description:      'A conference for women working in progressive data, analytics, and technology'
+#url:              http://hyde.getpoole.com
+baseurl:          /
+
+author:
+  name:           'Data Suffragettes'
+  # url:            https://twitter.com/mdo
+
+paginate:         5
+
+# Custom vars
+version:          0.0.1
+
+#github:
+#  repo:           https://github.com/poole/hyde

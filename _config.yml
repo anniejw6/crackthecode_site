@@ -7,9 +7,9 @@ gems: [jekyll-paginate]
 permalink:        pretty
 
 # Setup
-title:            Women of Progressive Tech
-tagline:          Wommen of Progressive Tech Conference
-description:      'A conference for women working in progressive data, analytics, and technology'
+title:            Cracking the Code
+tagline:          Cracking the Code - A conference for women in progressive data analytics and technology
+description:      'A conference for women in progressive data, analytics, and technology'
 #url:              http://hyde.getpoole.com
 baseurl:          /
 

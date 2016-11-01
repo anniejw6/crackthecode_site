@@ -7,8 +7,8 @@ gems: [jekyll-paginate]
 permalink:        pretty
 
 # Setup
-title:            Cracking the Code
-tagline:          Cracking the Code - A conference for women in progressive data analytics and technology
+title:            Crack the Code
+tagline:          Crack the Code - A conference for women in progressive data analytics and technology
 description:      'A conference for women in progressive data, analytics, and technology'
 #url:              http://hyde.getpoole.com
 baseurl:          /

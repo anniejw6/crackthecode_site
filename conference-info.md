@@ -13,13 +13,13 @@ Register to [attend or speak at the conference here](/register/)!
 
 * Introduction / Welcome Arrival
 
-* Industry Overview
-
-* Starting Your Career (Panel)
+* Industry Overview: Hear from women about what it's like to work in different fields and different roles
+ 
+* Starting Your Career (Panel): Discuss how to survive the interview process and beyond
 
 * Tea and Coffee Break
 
-* Lightning Talks
+* Lightning Talks: Listen to women present five-minute talks on cool things they did this cycle
 
 * Networking
 

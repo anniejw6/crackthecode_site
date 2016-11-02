@@ -3,7 +3,7 @@ layout: page
 title: Logistics & Schedule 
 ---
 
-This conference takes place in Washington, D.C. on **Friday 18 November 2016** from **12:30 PM to 5:30 PM EST** with happy hour to follow.
+This conference takes place at **2121 14th St NW, Washington, DC** at [Share Space](http://www.sharespacedc.com/) on **Friday 18 November 2016** from **12:30 PM to 5:30 PM EST** with happy hour to follow.
 
 The conference is **FREE** and welcomes all women and gender non-binary folks interested in careers in progressive data, analytics, and technology.
 

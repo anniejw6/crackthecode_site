@@ -1,9 +1,11 @@
 ---
 layout: page
-title: Registration
+title: Registration & Call for Speakers
 ---
 
 Register to attend or speak below. (It may take a second for the form to load.)
+
+We're looking for speakers for lightning talks! Spend 5 minutes talking about a cool project you worked on this cycle.
 
 <script type='text/javascript' src='https://d1aqhv4sn5kxtx.cloudfront.net/actiontag/at.js' crossorigin='anonymous'></script>
  <div class="ngp-form"

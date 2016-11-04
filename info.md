@@ -19,7 +19,7 @@ Register to [attend](/register/) or [speak](/speakers/)!
 
 * Tea and Coffee Break
 
-* Lightning Talks: Listen to women present five-minute talks on cool things they did this cycle ([We're looking for speakers!](speakers/))
+* Lightning Talks: Listen to women present five-minute talks on cool things they did this cycle ([We're looking for speakers!](/speakers/))
 
 * Networking
 

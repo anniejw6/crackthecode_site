@@ -1,11 +1,13 @@
 <div class="sidebar">
   <div class="container">
     <div class="sidebar-about">
-      <h2>
-        <a href="{{ site.baseurl }}">
+      
+<!--       <h2>
+        
           {{ site.title }}
         </a>
-      </h2>
+      </h2> -->
+      <a href="{{ site.baseurl }}"><img src="/public/logo.png" alt="logo" height = 75></a>
       <p class="lead">{{ site.description }}</p>
     </div>
 
@@ -29,7 +31,7 @@
 <!--       <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
       <span class="sidebar-nav-item">Currently v{{ site.version }}</span> -->
     </nav>
-
+    
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
   </div>
 </div>

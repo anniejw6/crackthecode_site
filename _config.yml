@@ -8,9 +8,9 @@ permalink:        pretty
 
 # Setup
 title:            Crack the Code
-tagline:          Crack the Code - A conference for women starting careers in progressive data analytics and technology
-description:      'A conference for women starting careers in progressive data, analytics, and technology'
-#url:              http://hyde.getpoole.com
+tagline:          Crack the Code - A conference for women interested in or currently pursuing careers in progressive data analytics and technology
+description:      'A conference for women interested in or currently pursuing careers in progressive data, analytics, and technology'
+url:              http://crackthecode.io
 baseurl:          /
 
 author:

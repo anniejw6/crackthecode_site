@@ -16,7 +16,7 @@ Here are some potential ideas:
 
 No slides or code necessary -- just talk about something you found cool.
 
-Register to speak below.
+Register to speak below. Please fill this out in addition to the registration form.
 
 If you have any questions, feel free to email Annie at anniejw6 at gmail dot com.
 

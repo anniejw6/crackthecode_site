@@ -3,7 +3,7 @@ layout: page
 title: Registration
 ---
 
-Register to attend or speak below. (It may take a second for the form to load.)
+Register to attend below. (It may take a second for the form to load, and you may have to turn off your ad-blocker.)
 
 [We're looking for speakers for lightning talks!](/speakers/)
 

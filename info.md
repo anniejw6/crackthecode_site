@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Logistics & Schedule 
+title: Agenda 
 ---
 
 Crack the Code (2016) is over. Stay tuned for next year...

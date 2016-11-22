@@ -3,15 +3,6 @@ layout: page
 title: Registration
 ---
 
-Register to attend below. (It may take a second for the form to load, and you may have to turn off your ad-blocker.)
+Crack the Code (2016) is over! Thanks for attending, and we hope to put on another conference soon. Stay tuned...
 
-[We're looking for speakers for lightning talks!](/speakers/)
-
-<script type='text/javascript' src='https://d1aqhv4sn5kxtx.cloudfront.net/actiontag/at.js' crossorigin='anonymous'></script>
- <div class="ngp-form"
-    data-form-url="https://actions.everyaction.com/v1/Forms/vl6zU9nYP0-2-jK2Pw0tEA2"
-    data-fastaction-endpoint="https://fastaction.ngpvan.com"
-    data-inline-errors="true"
-    data-fastaction-nologin="true"
-    data-databag="everybody">
-</div>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfJRWvtDyrp0DnKcy1ACoPj9H5G7EPN36x5BiSUNXNX5FXpVw/viewform?embedded=true" width="600" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>

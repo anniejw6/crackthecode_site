@@ -14,7 +14,7 @@ Please note that we have not reviewed every single resource below, and we do not
 * [Jobs that are LEFT](https://groups.google.com/forum/#!forum/jobsthatareleft) and [Wellstone Jobs](https://groups.google.com/forum/#!forum/noi-jobs) - general listservs for jobs, not specific data or analytics
 * [Inclusv](http://www.inclusv.com/) - job bank for people of color
 * [Shine Squad](http://shinesquad.org/) - "a space for story sharing, expressing needs, and action taking" related to discrimination in the workplace
-* [2016 Progressive Data Salary Survey](/salary_survey2016.pdf) - report on salaries in the progressive data, analytics, and technology
+* [2016 Progressive Data Salary Survey](/public/salary_survey2016.pdf) - report on salaries in the progressive data, analytics, and technology
 * [So you want to work in progressive analytics...](https://www.gitbook.com/read/book/anniejw6/jobs-proganalytics) - guide to getting a job in analytics, featuring how to write a resume, pass a phone interview, and ace a coding test
 
 ### Learning Hard Skills

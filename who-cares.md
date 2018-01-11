@@ -5,13 +5,7 @@ title: Errata
 
 ### Conference Organizers
 
-Listed in alphabetical order
-
-* Anna Cooper
-* Kassia DeVorsey
-* Dessa Gypalo
-* Cristina Sinclaire
-* Annie J. Wang
+2016: Anna Cooper, Kassia DeVorsey, Dessa Gypalo, Cristina Sinclaire, and Annie J. Wang
 
 ### About this site
 

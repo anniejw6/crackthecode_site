@@ -1,7 +1,6 @@
-source "https://rubygems.org"
+source "http://rubygems.org"
 
-gem 'jekyll', '~> 3.4.0'
-
-gem 'jekyll-paginate'
-
-gem 'redcarpet', '~> 3.0.0'
+gem 'github-pages'
+gem 'compass'
+gem 'sass-media_query_combiner'
+gem 'autoprefixer-rails'

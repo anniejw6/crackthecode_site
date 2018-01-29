@@ -1,6 +1,8 @@
 ---
-layout: page
-title: Resources 
+layout: post
+title: Resources
+permalink: /resources/
+isStaticPost: true
 ---
 
 The Crack the Code conference is just the beginning! We hope you left with a clear understanding of the types of data jobs available and an idea of where to start as you plan your career. We know there is lots more to learn and much more practice to do! The organizers and speakers and the entire data community are committed to supporting you as you grow your skills. Below please find some resources to continue your journey into data. 

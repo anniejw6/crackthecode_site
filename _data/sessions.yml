@@ -1,59 +1,51 @@
 -
-  id: 307
-  title: "Coffee Break"
+  id: 001
+  title: "Welcome and Introductions"
   place: "Hall"
   service: true
-  description: "The best time to talk with speakers and attendees"
+  description: ""
 -
-  id: 503
-  title: "Lunch Break"
-  place: "Dining room"
+  id: 999
+  title: "Break"
+  place: "Hall"
   service: true
 -
-  id: 001
-  title: "Material design: Visual style and imagery"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
-  subtype: workshop
-  speakers: [3, 6]
-  language: en
-  complexity: "Intermediate"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
   id: 002
-  title: "Building Cloud-powered wearable Apps"
-  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
-  subtype: presentation
-  speakers: [4, 5]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  title: "Organizing Networking"
+  place: "Hall"
+  service: true
 -
   id: 003
-  title: "Android L Animation"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
-  subtype: presentation
-  speakers: [4]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  title: "Happy Hour"
+  place: "TBD"
+  service: true
 -
   id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [6]
-  language: uk
-  complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  title: "Planning your career: different trajectories within data, analytics, and technology"
+  description: "The world of data & analytics is large. How do you know where you fit in? How do you know when it's time to go -- or stay?"
+  subtype: workshop
+  speakers: [0, 1]
 -
   id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [7]
-  language: en
-  complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  title: "Managing Up, Down, and Across"
+  description: "could potentially focus on managing a team, managing projects, or managing up. from the lens of being a woman/POC trying to do each and the extra hurdles you face."
+  subtype: workshop
+  speakers: [3, 6, 5, 4]
+-
+  id: 006
+  title: "Tutorials"
+  description: "1 or 2 tutorials of a technical skill, have people vote on what they want"
+  subtype: workshop
+  speakers: [3, 6, 5, 4]
+-
+  id: 007
+  title: "Open Session"
+  description: "Vote on at registration"
+  subtype: workshop
+  speakers: [3, 6, 5, 4]
+-
+  id: 008
+  title: "1:1 Consulting"
+  description: "Sign up for 1:1 slots with experts on topics like resumes, interviewing, and negotiation"
+  subtype: workshop
+  speakers: [3, 6, 5, 4]

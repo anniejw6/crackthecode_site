@@ -2,11 +2,11 @@
   id: 0
   name: "Kass"
   surname: "DeVorsey"
-  title: "Founder, Minerva Insights"
-  company: "Test"
+  title: "Founder"
+  company: "Minerva Insights"
   thumbnailUrl: kass.jpg
   team: true
-  bio: test
+  bio: ""
 #  ribbon: 
 #    - {abbr: "GDG", title: "Google Developer Group"}
   social: 
@@ -15,20 +15,44 @@
 
 - 
   id: 1
+  name: "Bridgit"
+  surname: "Donnelly"
+  title: "Director of Data and Analytics"
+  company: "Public Engagement Unit at City of New York"
+  thumbnailUrl: bridgit.jpg
+  team: true
+  bio: ""
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/bridgitdonnelly/"}
+
+- 
+  id: 2
+  name: "Jess"
+  surname: "Garson"
+  title: ""
+  company: ""
+  thumbnailUrl: jess.jpg
+  team: true
+  bio: ""
+  social: 
+    - {name: "twitter", link: "https://twitter.com/jessicagarson"}
+
+- 
+  id: 3
   name: "Cristina"
   surname: "Sinclaire"
-  title: "Clarity Campaign Labs"
+  company: "Clarity Campaign Labs"
   thumbnailUrl: cristina.jpg
   team: true
   social: 
     - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
     - {name: "github", link: "https://github.com/ozasadnyy"}
 - 
-  id: 2
+  id: 4
   name: "Annie"
   surname: "Wang"
-  title: "Yale Law School"
-  thumbnailUrl: OstapAndrusiv.jpg
+  company: "Yale Law School"
+  thumbnailUrl: annie.jpg
   team: true
   social: 
     - {name: "site", link: "https://anniejw.com/"}

@@ -11,8 +11,10 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "Crack the Code"
-email: "admin@crackthecode.io"
-description: "A conference for women in progressive data, analytics, and technology"
+email: "questions@crackthecode.io"
+description: > 
+  "A conference to promote the personal and professional growth of women and 
+  non-binary people working in progressive data, analytics, and technology"
 baseurl: ""
 url: "https://crackthecode.io"
 permalink: "/blog/:title"
@@ -21,39 +23,41 @@ googleAnalyticsSiteUrl: "crackthecode.io"
 # siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
-organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerName: "Crack the Code 2018"
+organizerAlternateName: "Crack the Code 2018"
+organizerDescription: >
+  "A conference to promote the personal and professional growth of women and 
+  non-binary people working in progressive data, analytics, and technology"
+organizerEmail: "questions@crackthecode.io"
+# organizerLogo: "/img/seo/organizer-logo.png"
+# organizerLink: "http://lviv.gdg.org.ua/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
-socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
-socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+metaKeywords: "crack the code, women, data, progressive, tech, analytics"
+# twitterAccount: "@DevFest"
+# socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
+# socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
+# socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4pUrl: "/blog/call-for-speakers"
+c4sponsorsUrl: "mailto:questions@crackthecode.io?subject=Sponsor"
 
 
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/logistics/", text: "Logistics"}
+ - {permalink: "/about/", text: "About"}
+# - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Team"}
  - {permalink: "/resources/", text: "Resources"}
 # - {permalink: "/blog/", text: "Blog"}
 
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "/blog/call-for-speakers", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "/blog/call-for-speakers", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -62,14 +66,14 @@ eventDate: "Friday March 16, 2018"
 typeoutTextValues: '"", "2018", "New York City", "Women in Progressive Tech"'
 typeoutFallback: "2018"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "/blog/call-for-speakers", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Register to Attend"}
 
 # About Block
 aboutTitle: "About Crack the Code"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The second annual conference for women and gender non-conforming people working in data, analytics, and technology in the progressive space!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
+ - {title: "Conference", image: "conference.jpg", text: "The second annual conference for women and gender non-conforming people working in data, analytics, and technology in the progressive space" }
+ - {title: "Workshops", image: "workshop.jpg", text: "Half-day of workshops on technical and non-technical topics related personal and professional growth" }
  - {title: "Community", image: "community.jpg", text: "Meet other awesome women and gender non-conforming people working in the field!" }
 
 # Statistic Block
@@ -92,14 +96,14 @@ rockstarSpeakersButtonText: "See all speakers"
 locationBlockTitle: "Location"
 eventLocationName: "TBD"
 #eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-#eventStreetAddress: "22 Teatral'na St"
+eventStreetAddress: "New York"
 eventAddressLocality: "New York"
 eventAddressLocalityRegion: "New York"
 #eventPostalCode: "79000"
 #eventAddressCountry: "Ukraine"
-eventStartTime: "2018-10-25T1:00"
+eventStartTime: "2018-03-16T1:00"
 eventDoorTime: "12:00"
-eventEndTime: "2018-10-25T7:00"
+eventEndTime: "2018-03-16T7:00"
 eventPlaceCoordinates: "40.7527302, -73.9794181"
 mapCenterCoordinates: "40.7527302, -73.9794181"
 mapMobileCenterCoordinates: "40.7527302, -73.9794181"
@@ -143,10 +147,10 @@ ticketsOffers:
   featured: true
   buyButtonLink: "http://dfua.ticketforevent.com/"
   buyButtonText: "Register Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2018-01-01T00:00"
+  #ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2018-02-14T00:00"
   validThrough: "2018-03-14T23:59"
-  disabled: false
+  disabled: true
 
 # Footer
 socialLinks:
@@ -155,11 +159,11 @@ socialLinks:
 #  - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
- -
-  title: "Links"
-  links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
+# -
+#  title: "Links"
+#  links:
+#   - {link: "https://www.progressivedatajobs.org/", text: "Progressive Data Jobs"}
+#   - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contacts"
   links:
@@ -167,19 +171,28 @@ footerBlocks:
  -
   title: "FAQ"
   links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+   - {permalink: "/about/", text: "About Us"}
 
 # Blog
 blogTitle: "Latest news"
 blogCommentsEnabled: false
-discusShortName: "devfestua"
+# discusShortName: "devfestua"
 
 # Speakers List Block
 showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "Crack the Code is a conference for women in progressive data, analytics, and technology."
+aboutUs: > 
+  "Crack the Code is a conference to promote the personal and professional 
+  growth of women and non-binary people working in progressive data, analytics, 
+  and technology. Last time, we focused on providing an introduction to the 
+  progressive data and analytics space for many newer practioners. This time, 
+  we're focusing on how to women and gender non-conforming people can 
+  personally and professional advance within the space. That means we're 
+  putting a bigger emphasis on managing up, down, and sideways; figuring out 
+  when it's the right time to move onto your next role; and pairing attendees 
+  with experts on resume and cover letter writing, negotiation, and more."
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"

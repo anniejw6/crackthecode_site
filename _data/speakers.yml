@@ -2,7 +2,8 @@
   id: 0
   name: "Kass"
   surname: "DeVorsey"
-  title: "Founder, Minerva Insights"
+  title: "Founder"
+  company: "Minerva Insights"
   bio: ""
   thumbnailUrl: kass.jpg
   team: true

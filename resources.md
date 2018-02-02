@@ -11,7 +11,7 @@ Contact [Cristina Sinclaire](mailto:cristina.sinclaire@gmail.com) if you want to
 
 Please note that we have not reviewed every single resource below, and we do not endorse the entirety of the content listed below. We have either used these resources personally, or they have been recommended to us by other users. If you want to add more resources, please add them as issues [here](https://github.com/anniejw6/crackthecodesite).
 
-### Working in Progressive Politics
+##### Working in Progressive Politics
 
 * [Jobs that are LEFT](https://groups.google.com/forum/#!forum/jobsthatareleft) and [Wellstone Jobs](https://groups.google.com/forum/#!forum/noi-jobs) - general listservs for jobs, not specific data or analytics
 * [Inclusv](http://www.inclusv.com/) - job bank for people of color
@@ -20,18 +20,18 @@ Please note that we have not reviewed every single resource below, and we do not
 * [So you want to work in progressive analytics...](https://www.gitbook.com/read/book/anniejw6/jobs-proganalytics) - guide to getting a job in analytics, featuring how to write a resume, pass a phone interview, and ace a coding test
 * [Resume Writing: Telling Your Story](https://medium.com/@hereiskass/resume-writing-telling-your-story-bf754cc3beb0) - an essay by Kassia DeVorsey on how to write a great resume
 
-### Learning Hard Skills
+##### Learning Hard Skills
 
 * [How to Learn How to Code](https://github.com/JessicaGarson/Crack-the-Code-Talk), Jess Garson (slides from Crack the Code 2016)
 * [Hear Me Code](http://hearmecode.com/) - "Free, beginner-friendly coding classes for over 2000 women in DC"
 * [History of Women and Computers](https://www.certstaff.com/classes/history-women-computers.html) h/t Amanda Lang
  
-#### Excel
+###### Excel
 
 * [Excel formulas](https://exceljet.net/formulas)
 * [Excel keyboard shortcuts](https://exceljet.net/keyboard-shortcuts)
 
-#### SQL/R/Python
+###### SQL/R/Python
 
 * [Code Academy](https://www.codecademy.com/)
 * [Data Camp](https://www.datacamp.com/courses)
@@ -40,7 +40,7 @@ Please note that we have not reviewed every single resource below, and we do not
 * [What is a Database Overview](https://www.youtube.com/watch?v=Ls_LzOZ7x0c) (Video)
 * [Choosing the Right Database (Postgres vs Redshift vs Vertica)](http://db-engines.com/en/system/Amazon+Redshift%3BVertica%3Bpostgresql)
 
-#### GIS & Maps
+###### GIS & Maps
 
 * [GIS 101](https://www.youtube.com/playlist?list=PLCuEIQl2BByhnFWu858xy5O0rfVAI94Hw) (Video)
 * [Map School](http://www.mapschool.io)
@@ -52,12 +52,12 @@ Please note that we have not reviewed every single resource below, and we do not
 * Organizations: [Maptime!](http://maptime.io/chapters/), [FOSS4G](http://foss4g.org/), [FOSS4G-NA](https://2016.foss4g-na.org/) (North America), [CUGOS](http://cugos.org/) (a regional club)
 * Software companies: [Mapzen](https://mapzen.com/), [Mapbox](https://www.mapbox.com/), [CartoDB](https://cartodb.com/), [ESRI](http://www.esri.com/),[ Tableau](http://kb.tableau.com/articles/knowledgebase/mapping-basics), and [Empower Engine](http://www.empowerengine.com/) (Julie was a speaker at Crack the Code 2016!)
 
-#### Graphing
+###### Graphing
 
 * [The Visual Display of Quantitative Information](http://www.edwardtufte.com/tufte/books_vdqi)
 * [Color Brewer](http://www.colorbrewer2.org)
 
-#### Graduate Programs and Additional Training for Advanced Statistical/Technical Training
+###### Graduate Programs and Additional Training for Advanced Statistical/Technical Training
 
 This is a limited selection of schools and programs, but they’ve all been helpful to people who work in progressive politics.
 
@@ -76,9 +76,9 @@ This is a limited selection of schools and programs, but they’ve all been help
 * [Masters in Data Science at Columbia University ](http://datascience.columbia.edu/master-of-science-in-data-science)
     * 2 years 
 
-### Soft Skills
+##### Soft Skills
 
-#### Project Management
+###### Project Management
 
 * [Asana](https://asana.com/) - Free task and project manager. Similar to JIRA but easier to set up; not quite the same level of detail as JIRA. People seem to be strongly pro or against Asana.
 * [JIRA](https://www.atlassian.com/software/jira) - Issue tracker. For under 10 users is about $200 a year; price scales up dramatically after that; Probably the most complicated of the options for setup but is great for both short term & long term once you are setup; Integrates with lots of things including hipchat & github
@@ -87,7 +87,7 @@ This is a limited selection of schools and programs, but they’ve all been help
 * [KanbanFlow](https://kanbanflow.com) - light-weight system that scales very well from a single person/independent contractor situation up to smallish teams; free to use, $5/month for premium features.
 * [Confluence](https://www.atlassian.com/software/confluence)  
 
-#### People Management
+###### People Management
 
 * [No Time to be Nice at Work](http://www.nytimes.com/2015/06/21/opinion/sunday/is-your-boss-mean.html?_r=1)
 * [How to be Emotionally Intelligent](http://www.nytimes.com/2015/04/12/education/edlife/how-to-be-emotionally-intelligent.html)
@@ -99,7 +99,7 @@ This is a limited selection of schools and programs, but they’ve all been help
 * [Ask the Grindstone: How Do I Manage People Who Aren’t Turning in Good Work?](https://thebillfold.com/ask-the-grindstone-how-do-i-manage-people-who-aren-t-turning-in-good-work-ae70db21cf11#.gakktestj)
 * [Funny Meetings Might Be More Productive Meetings](http://nymag.com/scienceofus/2015/02/funny-meetings-might-be-more-productive-meetings.html)
 
-#### Navigating Bias
+###### Navigating Bias
 
 * [How Poker Player Annie Duke Uses Gender Stereotypes to Win Matches](http://www.npr.org/2015/09/28/444236895/how-poker-player-annie-duke-used-gender-stereotypes-to-win-matches)
 * [National Center for Women and Information Technology](https://www.ncwit.org/)

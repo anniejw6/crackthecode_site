@@ -49,3 +49,9 @@
   description: "Sign up for 1:1 slots with experts on topics like resumes, interviewing, and negotiation"
   subtype: workshop
   speakers: 
+-
+  id: 009
+  title: "Lightning Talks!"
+  description: "Hear 5-7 minute talks about what people have been working on, cool scripts written, and problems solved!"
+  subtype: workshop
+  speakers: 

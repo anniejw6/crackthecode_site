@@ -2,6 +2,7 @@
 layout: post
 title: Resources
 permalink: /resources/
+color: "#00a3cc"
 isStaticPost: true
 ---
 

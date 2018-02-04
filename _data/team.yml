@@ -30,9 +30,13 @@
   company: "Minerva Insights"
   thumbnailUrl: kass.jpg
   team: true
-  bio: ""
-#  ribbon: 
-#    - {abbr: "GDG", title: "Google Developer Group"}
+  bio: > 
+    Kassia DeVorsey is the CEO and founder of Minerva Insights, a boutique
+    analytics consulting firm based in New York and Washington. She has held 
+    leading roles in data and analytics at The Messina Group, BlueLabs, the 
+    Democratic National Committee, and President Obama’s 2012 campaign. 
+    Kass devotes her spare time to travel, champagne, and accumulating 
+    parking tickets.
   social: 
     - {name: "facebook", link: "https://www.facebook.com/minervainsights/"}
     - {name: "twitter", link: "https://twitter.com/MinervaInsights"}
@@ -42,19 +46,29 @@
   name: "Bridgit"
   surname: "Donnelly"
   title: "Director of Data and Analytics"
-  company: "Public Engagement Unit at City of New York"
+  company: "NYC Mayor’s Public Engagement Unit"
   thumbnailUrl: bridgit.jpg
   team: true
-  bio: ""
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/bridgitdonnelly/"}
+  bio: >
+    Bridgit Donnelly is the Director of Data & Analytics for the NYC Mayor’s 
+    Public Engagement Unit. Her team supports proactive, data-driven outreach 
+    programs that help New Yorkers acquire city services, such as healthcare 
+    and housing resources. Prior to joining city government, Bridgit spent 
+    seven years in the political campaign space, most recently for Hillary 
+    for America as the data science project manager and head of the early 
+    vote data program. She also has run a number of data trainings over the 
+    last several years, starting with the New Organizing Institute as their 
+    Data Training Manager. Bridgit has an MS in Computational Analysis and 
+    Public Policy from the University of Chicago and a BA in Political Science 
+    from Barnard University. In her spare time, you’ll find Bridgit cooking her 
+    latest Blue Apron meal or traveling and exploring new cities. 
 
 - 
   id: 3
   name: "Jess"
   surname: "Garson"
-  title: ""
-  company: ""
+  title: "Adjunct Professor"
+  company: "New York University"
   thumbnailUrl: jess.jpg
   team: true
   bio: >
@@ -79,16 +93,24 @@
   id: 4
   name: "Dessa"
   surname: "Gypalo"
-  title: ""
-  company: ""
-  thumbnailUrl: kass.jpg
+  title: "Director of Data Services"
+  company: "NGP VAN / EveryAction"
+  thumbnailUrl: dessa.jpg
   team: true
-  bio: ""
-#  ribbon: 
-#    - {abbr: "GDG", title: "Google Developer Group"}
+  bio: >
+    Dessa Gypalo currently serves as the Director of Data Services at 
+    NGP VAN / EveryAction. There, her team supports a variety of client 
+    initiatives including large scale database migrations, ETL, and data 
+    hygiene. Previously, she was the National Data Manager at Enroll America 
+    where she built out a data program to connect people to healthcare under 
+    Obamacare (ACA). Over the last decade, Dessa has worked local to national 
+    level political campaigns and as well as provided data support for numerous 
+    non-profit organizations. In her spare time she enjoys playing with her 
+    dogs, creating feminist art, and listening to more NPR than is socially 
+    acceptable.
   social: 
-    - {name: "facebook", link: "https://www.facebook.com/minervainsights/"}
-    - {name: "twitter", link: "https://twitter.com/MinervaInsights"}
+    - {name: "instagram", link: "https://www.instagram.com/dessag"}
+    - {name: "twitter", link: "https://twitter.com/dmgypalo"}
 
 
 - 
@@ -149,13 +171,14 @@
   id: 7
   name: "Maya"
   surname: "Yair"
-  title: ""
-  company: ""
-  thumbnailUrl: kass.jpg
+  title: "Digital Data Manager"
+  company: "Indivisible"
+  thumbnailUrl: maya.jpg
   team: true
-  bio: ""
-#  ribbon: 
-#    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "facebook", link: "https://www.facebook.com/minervainsights/"}
-    - {name: "twitter", link: "https://twitter.com/MinervaInsights"}
+  bio: >
+    Maya Yair is the Digital Data Manager at Indivisible, where she enhances 
+    digital communications with analytics and testing. Previously she served 
+    as an Analyst and Associate Strategist at Analyst Institute. Maya's roots 
+    are in electoral campaigns, where she has worked in organizing and 
+    development roles. In her spare time, she can be found taking on demanding
+    cooking projects and hanging out with her cat. 

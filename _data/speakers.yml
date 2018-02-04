@@ -4,12 +4,15 @@
   surname: "DeVorsey"
   title: "Founder"
   company: "Minerva Insights"
-  bio: ""
   thumbnailUrl: kass.jpg
-  team: true
   rockstar: true
-#  ribbon: 
-#    - {abbr: "GDG", title: "Google Developer Group"}
+  bio: > 
+    Kassia DeVorsey is the CEO and founder of Minerva Insights, a boutique
+    analytics consulting firm based in New York and Washington. She has held 
+    leading roles in data and analytics at The Messina Group, BlueLabs, the 
+    Democratic National Committee, and President Obama’s 2012 campaign. 
+    Kass devotes her spare time to travel, champagne, and accumulating 
+    parking tickets.
   social: 
     - {name: "facebook", link: "https://www.facebook.com/minervainsights/"}
     - {name: "twitter", link: "https://twitter.com/MinervaInsights"}
@@ -18,7 +21,10 @@
   id: 1
   name: "Jess"
   surname: "Garson"
-  title: ""
+  title: "Adjunct Professor"
+  company: "New York University"
+  thumbnailUrl: jess.jpg
+  rockstar: true
   bio: >
     Jessica Garson is a Adjunct Professor at NYU. She’s also the organizer 
     of the Tech Lady Hackathon, and previously the organizer of Hack && Tell 
@@ -33,11 +39,29 @@
     ISSI Data, and Salsa Labs. Before working in technology, Jessica worked on 
     numerous campaigns throughout the country and got her degree in Political 
     Science at the University of Hartford.
-  thumbnailUrl: jess.jpg
-  team: true
-  rockstar: true
-#  ribbon: 
-#    - {abbr: "GDG", title: "Google Developer Group"}
   social: 
     - {name: "site", link: "http://jessicagarson.com/"}
     - {name: "twitter", link: "https://twitter.com/jessicagarson"}
+
+- 
+  id: 2
+  name: "Cristina"
+  surname: "Sinclaire"
+  title: "Senior Vice President"
+  company: "Clarity Campaign Labs"
+  thumbnailUrl: cristina.jpg
+  team: true
+  bio: >
+    Cristina Sinclaire recently joined Clarity Campaign Labs bringing 
+    high-quality analytics to campaigns and organizations of all sizes. 
+    Previously she served as Director of Client Services at Catalist, the 
+    progressive movement's data utility. Prior to that she researched 
+    voting laws and built civic data tools at the New Organizing Institute. 
+    She has managed electoral campaigns and organized communities from 
+    California to South Africa. She sits on the Boards of National 
+    Public Radio, the Center for Technology and Civic Life, the Alliance 
+    for CHANGE, and the Earthward Bound Foundation. In her spare time 
+    Cristina travels, plays cribbage, dances and chases her next favorite meal.
+  social: 
+    - {name: "twitter", link: "https://twitter.com/ninasin"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/cristinasinclaire"}

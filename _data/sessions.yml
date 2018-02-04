@@ -11,7 +11,7 @@
   service: true
 -
   id: 002
-  title: "Organizing Networking"
+  title: "Organized Networking"
   place: "Hall"
   service: true
 -
@@ -24,7 +24,7 @@
   title: "Planning your career: different trajectories within data, analytics, and technology"
   description: "The world of data & analytics is large. How do you know where you fit in? How do you know when it's time to go -- or stay?"
   subtype: workshop
-  speakers: [0]
+  speakers: [2]
 -
   id: 005
   title: "Managing Up, Down, and Across"
@@ -48,7 +48,7 @@
   title: "1:1 Consulting"
   description: "Sign up for 1:1 slots with experts on topics like resumes, interviewing, and negotiation"
   subtype: workshop
-  speakers: 
+  speakers: [0]
 -
   id: 009
   title: "Lightning Talks!"

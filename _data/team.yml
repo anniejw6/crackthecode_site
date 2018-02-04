@@ -1,5 +1,29 @@
 - 
   id: 0
+  name: "Anna M."
+  surname: "Cooper"
+  title: "Director of Data and Information Systems"
+  company: "Communications Workers of America"
+  thumbnailUrl: anna.png
+  team: true
+  bio: >
+    Anna recently joined CWA as their first Director of Data and Information
+    Systems, prior to which she worked in Data and Analytics at AFSCME. 
+    Before joining Labor, Anna was a member of the Obama Administration in 
+    the White House Presidential Personnel Office where she managed technology 
+    and operations for political appointments and Senate nominations. Anna's 
+    prior background is in electoral campaigns. She joined team data in 2014 
+    on the Senate race in Kentucky, before which she ran record setting voter 
+    contact and voter registration program in Virginia and found a knack for 
+    rural organizing in her home state of Ohio.  Anna trains in mixed martial 
+    arts, has great podcast recommendations, and always reads the book for 
+    book club.  She's proud to have been part of the first Crack the Code in 
+    2016 and is elated for the second iteration. Anna lives in Washington, DC. 
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/annamcooper"}
+
+- 
+  id: 1
   name: "Kass"
   surname: "DeVorsey"
   title: "Founder"
@@ -14,7 +38,7 @@
     - {name: "twitter", link: "https://twitter.com/MinervaInsights"}
 
 - 
-  id: 1
+  id: 2
   name: "Bridgit"
   surname: "Donnelly"
   title: "Director of Data and Analytics"
@@ -26,33 +50,112 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/bridgitdonnelly/"}
 
 - 
-  id: 2
+  id: 3
   name: "Jess"
   surname: "Garson"
   title: ""
   company: ""
   thumbnailUrl: jess.jpg
   team: true
-  bio: ""
+  bio: >
+    Jessica Garson is a Adjunct Professor at NYU. She’s also the organizer 
+    of the Tech Lady Hackathon, and previously the organizer of Hack && Tell 
+    DC. She is a frequent teacher at DC's Hear Me Code, beginner friendly 
+    classes for women by women and has run programming classes at DC area 
+    public libraries. Jessica also runs a self-published programming magazine 
+    called What's my Function. In 2015, she was named by DC FemTech as one 
+    of the most powerful Women in Tech. In 2017, one of her projects 
+    <a href = "http://www.nominateher.org/">nominateher.org</a> got named best 
+    web/mobile product of the year by technical.ly magazine. Previously she’s 
+    worked at ISL, Burson-Marstellar, The National Education Association, 
+    ISSI Data, and Salsa Labs. Before working in technology, Jessica worked on 
+    numerous campaigns throughout the country and got her degree in Political 
+    Science at the University of Hartford.
   social: 
+    - {name: "site", link: "http://jessicagarson.com/"}
     - {name: "twitter", link: "https://twitter.com/jessicagarson"}
 
 - 
-  id: 3
+  id: 4
+  name: "Dessa"
+  surname: "Gypalo"
+  title: ""
+  company: ""
+  thumbnailUrl: kass.jpg
+  team: true
+  bio: ""
+#  ribbon: 
+#    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "facebook", link: "https://www.facebook.com/minervainsights/"}
+    - {name: "twitter", link: "https://twitter.com/MinervaInsights"}
+
+
+- 
+  id: 5
   name: "Cristina"
   surname: "Sinclaire"
+  title: "Senior Vice President"
   company: "Clarity Campaign Labs"
   thumbnailUrl: cristina.jpg
   team: true
+  bio: >
+    Cristina Sinclaire recently joined Clarity Campaign Labs bringing 
+    high-quality analytics to campaigns and organizations of all sizes. 
+    Previously she served as Director of Client Services at Catalist, the 
+    progressive movement's data utility. Prior to that she researched 
+    voting laws and built civic data tools at the New Organizing Institute. 
+    She has managed electoral campaigns and organized communities from 
+    California to South Africa. She sits on the Boards of National 
+    Public Radio, the Center for Technology and Civic Life, the Alliance 
+    for CHANGE, and the Earthward Bound Foundation. In her spare time 
+    Cristina travels, plays cribbage, dances and chases her next favorite meal.
   social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
+    - {name: "twitter", link: "https://twitter.com/ninasin"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/cristinasinclaire"}
+
+
 - 
-  id: 4
-  name: "Annie"
+  id: 6
+  name: "Annie J."
   surname: "Wang"
+  title: "Student"
   company: "Yale Law School"
   thumbnailUrl: annie.jpg
   team: true
+  bio: >
+    Annie J. Wang is a first-year student at the Yale Law School.
+    Before law school, Annie served as the Director of Research and Analytics 
+    at the Analyst Institute where she led a team of seven analysts to 
+    conduct over 100 field experiments related to voter behavior and public 
+    opinion. Previously, she was a Senior Data Scientist at Civis Analytics.
+    Annie is a frequent speaker at political 
+    conferences and received a Rising Star award from 
+    Campaigns and Elections magazine.<br/><br/>
+    A passionate supporter of increasing opportunities for women in progressive
+    technology, Annie co-founded
+    <a href="https://www.progressivedatajobs.org/">Progressive Data Jobs</a> 
+    to aggregate job postings and wrote
+    <a href="https://www.guide.progressivedatajobs.org/">
+    a guide for job-seekers in progressive analytics</a>. She
+    has also analyzed the <a href="https://crackthecode.io/salary2017">
+    Progressive Data, Analytics, and Technology Salary Survey</a> for the last
+    two years.
   social: 
     - {name: "site", link: "https://anniejw.com/"}
+    - {name: "github", link: "https://github.com/anniejw6/"}
+
+- 
+  id: 7
+  name: "Maya"
+  surname: "Yair"
+  title: ""
+  company: ""
+  thumbnailUrl: kass.jpg
+  team: true
+  bio: ""
+#  ribbon: 
+#    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "facebook", link: "https://www.facebook.com/minervainsights/"}
+    - {name: "twitter", link: "https://twitter.com/MinervaInsights"}

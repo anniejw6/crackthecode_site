@@ -67,7 +67,7 @@ typeoutTextValues: '"", "2018", "New York City", "Women in Progressive Tech"'
 typeoutFallback: "2018"
 heroButtons:
  - {link: "/blog/call-for-speakers", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Register to Attend"}
+ - {permalink: "https://goo.gl/uVSVHh", text: "Register to Attend"}
 
 # About Block
 aboutTitle: "About Crack the Code"
@@ -145,7 +145,7 @@ ticketsOffers:
   ticketsNumber: "100"
   ribbon: "-20%"
   featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonLink: "https://goo.gl/uVSVHh"
   buyButtonText: "Register Now"
   #ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2018-02-14T00:00"
@@ -182,9 +182,9 @@ blogCommentsEnabled: false
 showSessions: true
 
 # Team Block
-teamBlockTitle: "About us"
+teamBlockTitle: "Our Goals"
 aboutUs: > 
-  "Crack the Code is a conference to promote the personal and professional 
+  Crack the Code is a conference to promote the personal and professional 
   growth of women and non-binary people working in progressive data, analytics, 
   and technology. Last time, we focused on providing an introduction to the 
   progressive data and analytics space for many newer practioners. This time, 
@@ -192,54 +192,54 @@ aboutUs: >
   personally and professional advance within the space. That means we're 
   putting a bigger emphasis on managing up, down, and sideways; figuring out 
   when it's the right time to move onto your next role; and pairing attendees 
-  with experts on resume and cover letter writing, negotiation, and more."
+  with experts on resume and cover letter writing, negotiation, and more.
 
 # Logistics Find Way Block
-findWayTitle: "Find your way here"
-findWayName: "Crack the Code"
-findWayDistance: "Distance"
-findWayDriving: "DRIVING"
-findWayWalking: "WALKING"
-findWayBicycling: "BICYCLING"
-findWayTransit: "TRANSIT"
-findWayFindFlight: "Find Flight"
-logisticsMapCenterCoordinates: "40.7527302, -73.9794181"
-logisticsMapMobileCenterCoordinates: "40.7527302, -73.9794181"
-logisticsMapAutoDirections: false
+# findWayTitle: "Find your way here"
+# findWayName: "Crack the Code"
+# findWayDistance: "Distance"
+# findWayDriving: "DRIVING"
+# findWayWalking: "WALKING"
+# findWayBicycling: "BICYCLING"
+# findWayTransit: "TRANSIT"
+# findWayFindFlight: "Find Flight"
+# logisticsMapCenterCoordinates: "40.7527302, -73.9794181"
+# logisticsMapMobileCenterCoordinates: "40.7527302, -73.9794181"
+# logisticsMapAutoDirections: false
 
-# Logistics Direction Details Block
-directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "Getting Here"
-directionDetailsCards:
- - {title: "From DC", information: "We're trying to arrange rideshares. Stay tuned!"}
- - {title: "From NYC", information: "Take the XX Train to XX stop"}
- - {title: "Sleeping", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
-directionDetailsWideCards:
- -
-  title: "Questions?"
-  text: test
-  subCards:
-   -
-    title: "Hotels"
-    links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-   -
-    title: "Registration"
-    links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-   -
-    title: "Attendance Details"
-    links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+# # Logistics Direction Details Block
+# directionDetailsImage: "direction-details.jpg"
+# directionDetailsTitle: "Getting Here"
+# directionDetailsCards:
+#  - {title: "From DC", information: "We're trying to arrange rideshares. Stay tuned!"}
+#  - {title: "From NYC", information: "Take the XX Train to XX stop"}
+#  - {title: "Sleeping", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
+# directionDetailsWideCards:
+#  -
+#   title: "Questions?"
+#   text: test
+#   subCards:
+#    -
+#     title: "Hotels"
+#     links:
+#      - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+#      - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
+#      - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+#      - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+#    -
+#     title: "Registration"
+#     links:
+#      - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+#      - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
+#      - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+#      - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+#    -
+#     title: "Attendance Details"
+#     links:
+#      - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+#      - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
+#      - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+#      - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
 
 # Hackathon
 hackathonTitle: "Hackathon"

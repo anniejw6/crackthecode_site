@@ -38,7 +38,7 @@ We're also looking for folks to serve on **panels** on the following topics:
 * Things Managers do other than manage: Hiring, Firing, and Negotiating
 * Career Planning: how to transition into new roles and how to know when to transition
 
-##### **[Sign up here to be a speaker](https://goo.gl/uVSVHh)** (this will take you to the registration page, where you will also be asked about speaking!)
+##### **[Sign up here to be a speaker](/#tickets)** (this will take you to the registration page, where you will also be asked about speaking!)
 
 **Please note**: While we would love to accommodate everyone, we may not have time for everyone to be on the agenda!
 

@@ -67,7 +67,7 @@ typeoutTextValues: '"", "2018", "New York City", "Women in Progressive Tech"'
 typeoutFallback: "2018"
 heroButtons:
  - {link: "/blog/call-for-speakers", text: "Become a speaker"}
- - {permalink: "https://goo.gl/uVSVHh", text: "Register to Attend"}
+ - {link: "/#tickets", text: "Register to Attend"}
 
 # About Block
 aboutTitle: "About Crack the Code"

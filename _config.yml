@@ -139,7 +139,7 @@ ticketsTitle: "Registration"
 # ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
-  name: "General"
+  name: "General: Saturday, March 18th 2017"
   price: "Free"
   priceCurrency: ""
   ticketsNumber: "100"
@@ -149,7 +149,7 @@ ticketsOffers:
   buyButtonText: "Register Now"
   #ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2018-02-11T00:00"
-  validThrough: "2018-03-14T23:59"
+  validThrough: "2018-03-15T23:59"
   disabled: false
 
 # Footer

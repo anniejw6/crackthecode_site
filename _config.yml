@@ -62,7 +62,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "Crack the Code: </br> <typeout>"
-eventDate: "Friday March 16, 2018"
+eventDate: "Saturday March 17, 2018"
 typeoutTextValues: '"", "2018", "New York City", "Women in Progressive Tech"'
 typeoutFallback: "2018"
 heroButtons:
@@ -80,8 +80,8 @@ aboutBlock:
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "80", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from all over the movement"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "to customize your experience"}
+ - {count: "10", specialCharacter: "+", info: "speakers", detail: "from all over the movement"}
+ - {count: "1+", specialCharacter: "", info: "parallel tracks", detail: "to customize your experience"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -148,9 +148,9 @@ ticketsOffers:
   buyButtonLink: "https://goo.gl/uVSVHh"
   buyButtonText: "Register Now"
   #ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2018-02-14T00:00"
+  validFrom: "2018-02-11T00:00"
   validThrough: "2018-03-14T23:59"
-  disabled: true
+  disabled: false
 
 # Footer
 socialLinks:

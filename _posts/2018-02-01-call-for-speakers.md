@@ -2,6 +2,7 @@
 layout: post
 title:  "Call for Speakers"
 date:   2018-02-01 22:59:09
+color: "#00a3cc"
 isStaticPost: false
 ---
 
@@ -29,9 +30,15 @@ We're looking for people who have solved cool projects in the last year or so to
 
 We're also looking for people who are more advanced in their careers to serve as "experts" for **one-on-one meetings** on topics such as resume reviews, interviewing, salary negotiations, and more.
 
-We're also looking for folks to serve on **panels** about career progression and discovering your passion.
+We're also looking for folks to serve on **panels** on the following topics:
 
-##### [Sign up here to be a speaker](https://goo.gl/DvbWrv)
+* Managing Up, Down, and Sideways
+* Self-Care
+* Best practices for learning technical skills on your own or on the job
+* Things Managers do other than manage: Hiring, Firing, and Negotiating
+* Career Planning: how to transition into new roles and how to know when to transition
+
+##### **[Sign up here to be a speaker](https://goo.gl/uVSVHh)** (this will take you to the registration page, where you will also be asked about speaking!)
 
 **Please note**: While we would love to accommodate everyone, we may not have time for everyone to be on the agenda!
 

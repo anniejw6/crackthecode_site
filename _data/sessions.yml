@@ -1,57 +1,57 @@
--
-  id: 001
-  title: "Welcome and Introductions"
-  place: "Hall"
-  service: true
-  description: ""
--
-  id: 999
-  title: "Break"
-  place: "Hall"
-  service: true
--
-  id: 002
-  title: "Organized Networking"
-  place: "Hall"
-  service: true
--
-  id: 003
-  title: "Happy Hour"
-  place: "TBD"
-  service: true
--
-  id: 004
-  title: "Planning your career: different trajectories within data, analytics, and technology"
-  description: "The world of data & analytics is large. How do you know where you fit in? How do you know when it's time to go -- or stay?"
-  subtype: workshop
-  speakers: [2]
--
-  id: 005
-  title: "Managing Up, Down, and Across"
-  description: "How to effectively work with teams, either as a manager, a staffer, or a colleague -- with a special focus on the experiences of women and peple of color."
-  subtype: workshop
-  speakers: 
--
-  id: 006
-  title: "Technical Tutorials"
-  description: "1 or 2 tutorials of a technical skill, which will be determined by popular vote!"
-  subtype: workshop
-  speakers: [1]
--
-  id: 007
-  title: "Open Session"
-  description: "Potential topic to be decided based on popular vote"
-  subtype: workshop
-  speakers: 
+# -
+#   id: 001
+#   title: "Welcome and Introductions"
+#   place: "Hall"
+#   service: true
+#   description: ""
+# -
+#   id: 999
+#   title: "Break"
+#   place: "Hall"
+#   service: true
+# -
+#   id: 002
+#   title: "Organized Networking"
+#   place: "Hall"
+#   service: true
+# -
+#   id: 003
+#   title: "Happy Hour"
+#   place: "TBD"
+#   service: true
+# -
+#   id: 004
+#   title: "Planning your career: different trajectories within data, analytics, and technology"
+#   description: "The world of data & analytics is large. How do you know where you fit in? How do you know when it's time to go -- or stay?"
+#   subtype: workshop
+#   speakers: [2]
+# -
+#   id: 005
+#   title: "Managing Up, Down, and Across"
+#   description: "How to effectively work with teams, either as a manager, a staffer, or a colleague -- with a special focus on the experiences of women and peple of color."
+#   subtype: workshop
+#   speakers: 
+# -
+#   id: 006
+#   title: "Technical Tutorials"
+#   description: "1 or 2 tutorials of a technical skill, which will be determined by popular vote!"
+#   subtype: workshop
+#   speakers: [1]
+# -
+#   id: 007
+#   title: "Open Session"
+#   description: "Potential topic to be decided based on popular vote"
+#   subtype: workshop
+#   speakers: 
 -
   id: 008
   title: "1:1 Consulting"
   description: "Sign up for 1:1 slots with experts on topics like resumes, interviewing, and negotiation"
   subtype: workshop
-  speakers: [0]
--
-  id: 009
-  title: "Lightning Talks!"
-  description: "Hear 5-7 minute talks about what people have been working on, cool scripts written, and problems solved!"
-  subtype: workshop
-  speakers: 
+  speakers: [0, 1, 2]
+# -
+#   id: 009
+#   title: "Lightning Talks!"
+#   description: "Hear 5-7 minute talks about what people have been working on, cool scripts written, and problems solved!"
+#   subtype: workshop
+#   speakers: 

@@ -2,7 +2,9 @@
 <section id="tickets" class="tickets-2">
 	<div class="content-wrapper">
 		<div class="col-lg-8 col-md-10 col-lg-offset-2 col-md-offset-1">
-			<h3>{{ site.ticketsTitle }}</h3>
+			<h3 style="margin-bottom:0px">{{ site.ticketsTitle }}</h3>
+			<h4>{{ site.ticketsInfo }}</h4>
+			</br>
 			<div class="tickets-table row animated hiding" data-animation="fadeInDown" data-delay="0">
 			{% assign animationDelay = 0 %}
             {% for ticketsOffer in site.ticketsOffers %}
@@ -38,7 +40,6 @@
 			{% assign animationDelay = animationDelay | plus:250 %}
             {% endfor %}
             </div>
-            <span class="tickets-info">{{ site.ticketsInfo }}</span>
 		</div>
 	</div>
 </section>

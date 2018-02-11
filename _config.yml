@@ -136,10 +136,10 @@ partnersC4sponsorsButton: "Become a sponsor"
 
 # Tickets Block
 ticketsTitle: "Registration"
-# ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+ticketsInfo: "Saturday, March 18th, 2018"
 ticketsOffers:
  -
-  name: "General: Saturday, March 18th 2017"
+  name: "General"
   price: "Free"
   priceCurrency: ""
   ticketsNumber: "100"

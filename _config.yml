@@ -37,9 +37,9 @@ organizerEmail: "questions@crackthecode.io"
 # Head
 metaKeywords: "crack the code, trans-men, women, women-identified, gender non-conforming, gender non-binary, data, progressive, tech, analytics"
 # twitterAccount: "@DevFest"
-# socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
-# socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-# socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+socialImageSrcGooglePlus: "/img/seo/img_share.png"
+socialImageSrcTwitter: "/img/seo/img_share.png"
+socialImageSrcFacebook: "/img/seo/img_share.png"
 
 # Documents
 c4pUrl: "/blog/call-for-speakers"

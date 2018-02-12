@@ -8,7 +8,7 @@ isStaticPost: false
 
 ##### Who are we looking for?
 
-People who work in progressive data, analytics, and technology and have lived gender oppression in a significant way! **First time speakers are particularly welcome!**
+Women and gender non-conforming people who work in progressive data, analytics, and technology! **First time speakers are particularly welcome!**
 
 You might be ...
 

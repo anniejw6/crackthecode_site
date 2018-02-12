@@ -6,9 +6,9 @@ color: "#00a3cc"
 isStaticPost: true
 ---
 
-The Crack the Code conference is just the beginning! We hope you left with a clear understanding of the types of data jobs available and an idea of where to start as you plan your career. We know there is lots more to learn and much more practice to do! The organizers and speakers and the entire data community are committed to supporting you as you grow your skills. Below please find some resources to continue your journey into data. 
+The Crack the Code conference is just the beginning! We know there is lots more to learn and much more practice to do! The organizers and speakers and the entire data community are committed to supporting you as you grow your skills. Below please find some resources to continue your journey into data. 
 
-Contact [Cristina Sinclaire](mailto:cristina.sinclaire@gmail.com) if you want to join the Data Ladies Alliance listserv.
+Contact [Cristina Sinclaire](mailto:cristina.sinclaire@gmail.com) if you want to join the Data Ladies Alliance listserv (unaffiliated with Crack the Code).
 
 Please note that we have not reviewed every single resource below, and we do not endorse the entirety of the content listed below. We have either used these resources personally, or they have been recommended to us by other users. If you want to add more resources, please add them as issues [here](https://github.com/anniejw6/crackthecodesite).
 

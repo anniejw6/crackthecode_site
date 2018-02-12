@@ -5,7 +5,7 @@ color: "#00a3cc"
 permalink: /schedule/
 ---
 
-We'll make the schedule based on your input when you [register](https://goo.gl/uVSVHh)!
+We'll make the schedule based on your input when you [register](/#tickets)!
 
 We're potentially planning multiple tracks for managers and individual contributors, and we also hope to pair participants 1:1 with experts on topics like resumes, cover letters, interviewing, negotiating.
 

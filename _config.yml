@@ -13,8 +13,9 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "Crack the Code"
 email: "questions@crackthecode.io"
 description: > 
-  "A conference to promote the personal and professional growth of women and 
-  non-binary people working in progressive data, analytics, and technology"
+  A conference to promote the personal and professional growth of 
+  people working in progressive data, analytics, and technology 
+  who have lived gendered oppression in a significant way
 baseurl: ""
 url: "https://crackthecode.io"
 permalink: "/blog/:title"
@@ -26,14 +27,15 @@ googleAnalyticsSiteUrl: "crackthecode.io"
 organizerName: "Crack the Code 2018"
 organizerAlternateName: "Crack the Code 2018"
 organizerDescription: >
-  "A conference to promote the personal and professional growth of women and 
-  non-binary people working in progressive data, analytics, and technology"
+  A conference to promote the personal and professional growth of 
+  people working in progressive data, analytics, and technology 
+  who have lived gendered oppression in a significant way
 organizerEmail: "questions@crackthecode.io"
 # organizerLogo: "/img/seo/organizer-logo.png"
 # organizerLink: "http://lviv.gdg.org.ua/"
 
 # Head
-metaKeywords: "crack the code, women, data, progressive, tech, analytics"
+metaKeywords: "crack the code, trans-men, women, women-identified, gender non-conforming, gender non-binary, data, progressive, tech, analytics"
 # twitterAccount: "@DevFest"
 # socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 # socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -48,10 +50,11 @@ c4sponsorsUrl: "mailto:questions@crackthecode.io?subject=Sponsor"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/about/", text: "About"}
-# - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/team/", text: "Team"}
  - {permalink: "/resources/", text: "Resources"}
+
 # - {permalink: "/blog/", text: "Blog"}
 
 bottomNavigationLinks:
@@ -63,7 +66,7 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "Crack the Code: </br> <typeout>"
 eventDate: "Saturday March 17, 2018"
-typeoutTextValues: '"", "2018", "New York City", "Women in Progressive Tech"'
+typeoutTextValues: '"", "2018", "New York City", "Equity and Inclusion"'
 typeoutFallback: "2018"
 heroButtons:
  - {link: "/blog/call-for-speakers", text: "Become a speaker"}
@@ -72,16 +75,16 @@ heroButtons:
 # About Block
 aboutTitle: "About Crack the Code"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The second annual conference for women and gender non-conforming people working in data, analytics, and technology in the progressive space" }
+ - {title: "Conference", image: "conference.jpg", text: "The second annual conference for people who work in data, analytics, and technology in the progressive space and have lived gendered oppression in a significant way" }
  - {title: "Workshops", image: "workshop.jpg", text: "Half-day of workshops on technical and non-technical topics related personal and professional growth" }
- - {title: "Community", image: "community.jpg", text: "Meet other awesome women and gender non-conforming people working in the field!" }
+ - {title: "Community", image: "community.jpg", text: "Meet other awesome folks working in the field! Get advice from leaders in the field, and share your knowledge with others." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "80", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "10", specialCharacter: "+", info: "speakers", detail: "from all over the movement"}
- - {count: "1+", specialCharacter: "", info: "parallel tracks", detail: "to customize your experience"}
+ - {count: "1", specialCharacter: "+", info: "parallel tracks", detail: "to customize your experience"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -136,7 +139,7 @@ partnersC4sponsorsButton: "Become a sponsor"
 
 # Tickets Block
 ticketsTitle: "Registration"
-ticketsInfo: "Saturday, March 18th, 2018"
+ticketsInfo: "Saturday, March 17th, 2018"
 ticketsOffers:
  -
   name: "General"
@@ -169,9 +172,10 @@ footerBlocks:
   links:
    - {link: "mailto:questions@crackthecode.io", text: "questions@crackthecode.io"}
  -
-  title: "FAQ"
+  title: "Frequently Asked Questions"
   links:
-   - {permalink: "/about/", text: "About Us"}
+    - {permalink: "/about/", text: "About the Conference"}
+    - {permalink: "/team/", text: "Team"}
 
 # Blog
 blogTitle: "Latest news"
@@ -182,17 +186,11 @@ blogCommentsEnabled: false
 showSessions: true
 
 # Team Block
-teamBlockTitle: "Our Goals"
+teamBlockTitle: ""
 aboutUs: > 
-  Crack the Code is a conference to promote the personal and professional 
-  growth of women and non-binary people working in progressive data, analytics, 
-  and technology. Last time, we focused on providing an introduction to the 
-  progressive data and analytics space for many newer practioners. This time, 
-  we're focusing on how to women and gender non-conforming people can 
-  personally and professional advance within the space. That means we're 
-  putting a bigger emphasis on managing up, down, and sideways; figuring out 
-  when it's the right time to move onto your next role; and pairing attendees 
-  with experts on resume and cover letter writing, negotiation, and more.
+  We're a group of volunteers who care about increasing equity and inclusion
+  within progressive data, analytics, and technology.
+
 
 # Logistics Find Way Block
 # findWayTitle: "Find your way here"

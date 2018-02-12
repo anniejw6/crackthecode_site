@@ -8,8 +8,6 @@ isStaticPost: false
 
 ##### Who are we looking for?
 
-Women and gender non-conforming people who work in progressive data, analytics, and technology! **First time speakers are particularly welcome!**
-
 You might be ...
 
 * an analyst, engineer, data manager, or another technical role

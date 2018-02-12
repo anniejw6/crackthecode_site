@@ -14,7 +14,7 @@ growth of women and gender non-conforming people working in progressive data, an
 
 ###### **Who's eligible to attend?**
 
-We're inviting everyone who (1) works in data, analytics, or technology in progressive politics or plans on working in the field during 2018 or 2020 **AND** (2) is a woman or gender non-conforming person. Crack the Code is a trans-friendly space.
+We're inviting folks who (1) work in data, analytics, or technology in progressive politics or plans on working in the field during 2018 or 2020 **AND** (2) are women, transgender, nonbinary, and/or genderqueer.
 
 To elaborate on (1), we're looking for folks who have experience in politics and looking at to advance their careers. If you've never worked in politics or in political data, you're still welcome, but you might find some of the talks confusing.
 

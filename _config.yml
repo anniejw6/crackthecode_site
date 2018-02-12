@@ -13,9 +13,9 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "Crack the Code"
 email: "questions@crackthecode.io"
 description: > 
-  Crack the Code is a conference to promote the personal and professional growth of 
-  women and gender non-conforming people working in progressive data, analytics, 
-  and technology. Crack the Code is a trans-friendly space.
+  Crack the Code is a conference to promote the personal and professional 
+  growth of women, transgender, nonbinary, and genderqueer people working in 
+  progressive data, analytics, and technology.
 baseurl: ""
 url: "https://crackthecode.io"
 permalink: "/blog/:title"
@@ -27,15 +27,15 @@ googleAnalyticsSiteUrl: "crackthecode.io"
 organizerName: "Crack the Code 2018"
 organizerAlternateName: "Crack the Code 2018"
 organizerDescription: >
-  A conference to promote the personal and professional growth of 
-  women and gender non-conforming people working in progressive data, analytics, 
-  and technology
+  Crack the Code is a conference to promote the personal and professional 
+  growth of women, transgender, nonbinary, and genderqueer people working in 
+  progressive data, analytics, and technology.
 organizerEmail: "questions@crackthecode.io"
 # organizerLogo: "/img/seo/organizer-logo.png"
 # organizerLink: "http://lviv.gdg.org.ua/"
 
 # Head
-metaKeywords: "crack the code, trans-men, women, women-identified, gender non-conforming, gender non-binary, data, progressive, tech, analytics"
+metaKeywords: "crack the code, data, progressive, tech, analytics, equity, inclusion"
 # twitterAccount: "@DevFest"
 # socialImageSrcGooglePlus: "/img/seo/img_share.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -75,7 +75,7 @@ heroButtons:
 # About Block
 aboutTitle: "About Crack the Code"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The second annual conference for women and gender non-conforming people who work in data, analytics, and technology in the progressive space. Crack the Code is a trans-friendly space." }
+ - {title: "Conference", image: "conference.jpg", text: "The second annual conference for women, transgender, nonbinary, and genderqueer people working in data, analytics, and technology in the progressive space." }
  - {title: "Workshops", image: "workshop.jpg", text: "Half-day of workshops on technical and non-technical topics related personal and professional growth." }
  - {title: "Community", image: "community.jpg", text: "Meet other awesome folks working in the field! Get advice from leaders in the field, and share your knowledge with others." }
 

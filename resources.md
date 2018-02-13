@@ -14,11 +14,12 @@ Please note that we have not reviewed every single resource below, and we do not
 
 ##### Working in Progressive Politics
 
+* [Progressive Data Jobs](https://www.progressivedatajobs.org/) - specific website / listserv for jobs in progressive data and analytics
 * [Jobs that are LEFT](https://groups.google.com/forum/#!forum/jobsthatareleft) and [Wellstone Jobs](https://groups.google.com/forum/#!forum/noi-jobs) - general listservs for jobs, not specific data or analytics
 * [Inclusv](http://www.inclusv.com/) - job bank for people of color
 * [Shine Squad](http://shinesquad.org/) - "a space for story sharing, expressing needs, and action taking" related to discrimination in the workplace
 * [2017](/salary2017) and [2016](/public/salary_survey2016.pdf) Progressive Data Salary Survey - report on salaries in the progressive data, analytics, and technology
-* [So you want to work in progressive analytics...](https://www.gitbook.com/read/book/anniejw6/jobs-proganalytics) - guide to getting a job in analytics, featuring how to write a resume, pass a phone interview, and ace a coding test
+* [So you want to work in progressive analytics...](https://www.guide.progressivedatajobs.org/) - guide to getting a job in analytics, featuring how to write a resume, pass a phone interview, and ace a coding test
 * [Resume Writing: Telling Your Story](https://medium.com/@hereiskass/resume-writing-telling-your-story-bf754cc3beb0) - an essay by Kassia DeVorsey on how to write a great resume
 
 ##### Learning Hard Skills

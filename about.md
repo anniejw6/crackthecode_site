@@ -7,7 +7,7 @@ permalink: /about/
 
 ###### **What are the goals of Crack the Code 2018?**
 
-Crack the Code is a conference to promote the personal and professional growth of women and genderqueer people working in progressive data, analytics, and technology. Crack the Code is a trans-friendly space. Last time, we focused on providing an introduction to the progressive data and analytics space for newer practioners. This time, we're focusing on how people can personally and professionally advance in the space. That means we're putting a bigger emphasis on managing up, down, and sideways; figuring out when it's the right time to move onto your next role; and pairing attendees with experts on resume and cover letter writing, negotiation, and more.
+Crack the Code is a conference to promote the personal and professional growth of women and genderqueer people working in progressive data, analytics, and technology. Crack the Code is a trans-friendly space. Last time, we focused on providing an introduction to the progressive data and analytics space for newer practitioners. This time, we're focusing on how people can personally and professionally advance in the space. That means we're putting a bigger emphasis on managing up, down, and sideways; figuring out when it's the right time to move onto your next role; and pairing attendees with experts on resume and cover letter writing, negotiation, and more.
 
 <br/>
 

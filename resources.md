@@ -26,8 +26,7 @@ Please note that we have not reviewed every single resource below, and we do not
 
 * [How to Learn How to Code](https://github.com/JessicaGarson/Crack-the-Code-Talk), Jess Garson (slides from Crack the Code 2016)
 * [Hear Me Code](http://hearmecode.com/) - "Free, beginner-friendly coding classes for over 2000 women in DC"
-* [History of Women and Computers](https://www.certstaff.com/classes/history-women-computers.html) h/t Amanda Lang
- 
+
 ###### Excel
 
 * [Excel formulas](https://exceljet.net/formulas)

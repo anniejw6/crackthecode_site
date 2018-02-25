@@ -174,7 +174,8 @@ footerBlocks:
  -
   title: "Frequently Asked Questions"
   links:
-    - {permalink: "/about/", text: "About the Conference"}
+    - {permalink: "/about/", text: "About"}
+    - {permalink: "/code-of-conduct/", text: "Code of Conduct"}
     - {permalink: "/team/", text: "Team"}
 
 # Blog

@@ -21,7 +21,11 @@ To elaborate on (2), we fall into category #4 in [Kat Marchán's guide on inclus
 
 <br/>
 
+###### **What is our Code of Conduct?**
 
+Our Code of Conduct is listed [here](/code-of-conduct/).
+
+<br/>
 
 
 

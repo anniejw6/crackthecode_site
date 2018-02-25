@@ -7,15 +7,15 @@ permalink: /code-of-conduct/
 
 During the Crack the Crack event you can expect:
 
-* A safe environment where participants are free to fully express their identities and views.
-* Participants respect the contributory value of others’ ideas, backgrounds and technical abilities.
-* Participants seek first to understand, then to be understood and to own the impact of their words and actions.
-* A place for collaboration, where participants -- regardless of experience level -- work together to discuss issues and explore ideas around data, technology, career planning, and the progressive movement.
-* The relationships and conversations remain respectful, participatory and productive. 
-* An environment where people are free from discrimination or harassment. If you are harassed or witness harassment, please refer to the anti-harassment policy below.
-* Participants will obey campaign finance and other applicable laws. 
-* Conversations stay within the community.
-* To have fun.
+* A **safe environment** where participants are free to fully express their identities and views.
+* Participants **respect the contributory value** of others’ ideas, backgrounds and technical abilities.
+* Participants **seek first to understand**, then to be understood and to own the impact of their words and actions.
+* A **place for collaboration**, where participants -- regardless of experience level -- work together to discuss issues and explore ideas around data, technology, career planning, and the progressive movement.
+* The relationships and conversations remain **respectful, participatory and productive**. 
+* An environment where people are **free from discrimination or harassment**. If you are harassed or witness harassment, please refer to the anti-harassment policy below.
+* Participants will **obey campaign finance and other applicable laws**. 
+* **Conversations stay within the community**.
+* To **have fun**.
 
 #### Anti-Harassment Policy
 

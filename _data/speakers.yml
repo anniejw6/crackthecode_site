@@ -1,42 +1,42 @@
-- 
-  id: 1
-  name: "Amanda"
-  surname: "Litman"
-  title: "Co-Founder and Executive Director"
-  company: "Run for Something"
-  thumbnailUrl: litman.jpg
-  rockstar: true
-  bio: >
-    Hillary Clinton’s email director. (The other emails.) Responsible for 
-    raising more than $330 million online. Charlie Crist’s digital director 
-    when he ran for governor in 2014. One of the first employees at Organizing 
-    for Action as deputy email director. Email writer for Barack Obama’s 
-    re-elect. Northwestern University graduate. Bookworm. Feminist. 
-    Nationals fan. Dog owner.
-  social: 
-    - {name: "site", link: "https://runforsomething.net/"}
-- 
-  id: 2
-  name: "Amanda"
-  surname: "Colombe"
-  title: "General Manager, Organizing"
-  company: "NGP VAN"
-  #thumbnailUrl: cristina.jpg
-  rockstar: true
-  # bio: >
-  #   Cristina Sinclaire recently joined Clarity Campaign Labs bringing 
-  #   high-quality analytics to campaigns and organizations of all sizes. 
-  #   Previously she served as Director of Client Services at Catalist, the 
-  #   progressive movement's data utility. Prior to that she researched 
-  #   voting laws and built civic data tools at the New Organizing Institute. 
-  #   She has managed electoral campaigns and organized communities from 
-  #   California to South Africa. She sits on the Boards of National 
-  #   Public Radio, the Center for Technology and Civic Life, the Alliance 
-  #   for CHANGE, and the Earthward Bound Foundation. In her spare time 
-  #   Cristina travels, plays cribbage, dances and chases her next favorite meal.
-  #social: 
-  #  - {name: "twitter", link: "https://twitter.com/ninasin"}
-  #  - {name: "linkedin", link: "https://www.linkedin.com/in/cristinasinclaire"}
+# - 
+#   id: 1
+#   name: "Amanda"
+#   surname: "Litman"
+#   title: "Co-Founder and Executive Director"
+#   company: "Run for Something"
+#   thumbnailUrl: litman.jpg
+#   rockstar: true
+#   bio: >
+#     Hillary Clinton’s email director. (The other emails.) Responsible for 
+#     raising more than $330 million online. Charlie Crist’s digital director 
+#     when he ran for governor in 2014. One of the first employees at Organizing 
+#     for Action as deputy email director. Email writer for Barack Obama’s 
+#     re-elect. Northwestern University graduate. Bookworm. Feminist. 
+#     Nationals fan. Dog owner.
+#   social: 
+#     - {name: "site", link: "https://runforsomething.net/"}
+# - 
+#   id: 2
+#   name: "Amanda"
+#   surname: "Colombe"
+#   title: "General Manager, Organizing"
+#   company: "NGP VAN"
+#   #thumbnailUrl: cristina.jpg
+#   rockstar: true
+#   # bio: >
+#   #   Cristina Sinclaire recently joined Clarity Campaign Labs bringing 
+#   #   high-quality analytics to campaigns and organizations of all sizes. 
+#   #   Previously she served as Director of Client Services at Catalist, the 
+#   #   progressive movement's data utility. Prior to that she researched 
+#   #   voting laws and built civic data tools at the New Organizing Institute. 
+#   #   She has managed electoral campaigns and organized communities from 
+#   #   California to South Africa. She sits on the Boards of National 
+#   #   Public Radio, the Center for Technology and Civic Life, the Alliance 
+#   #   for CHANGE, and the Earthward Bound Foundation. In her spare time 
+#   #   Cristina travels, plays cribbage, dances and chases her next favorite meal.
+#   #social: 
+#   #  - {name: "twitter", link: "https://twitter.com/ninasin"}
+#   #  - {name: "linkedin", link: "https://www.linkedin.com/in/cristinasinclaire"}
 - 
   id: 3
   name: "Kass"
@@ -105,67 +105,67 @@
     - {name: "twitter", link: "https://twitter.com/ninasin"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/cristinasinclaire"}
 
-- 
-  id: 6
-  name: "Esha"
-  surname: "Rakhit"
-  title: "Technical Product Manager"
-  company: "NGP VAN"
-  # thumbnailUrl: cristina.jpg
-  # rockstar: true
-  # bio: >
-  #   Cristina Sinclaire recently joined Clarity Campaign Labs bringing 
-  # social: 
-  #   - {name: "twitter", link: "https://twitter.com/ninasin"}
-  #   - {name: "linkedin", link: "https://www.linkedin.com/in/cristinasinclaire"}
+# - 
+#   id: 6
+#   name: "Esha"
+#   surname: "Rakhit"
+#   title: "Technical Product Manager"
+#   company: "NGP VAN"
+#   # thumbnailUrl: cristina.jpg
+#   # rockstar: true
+#   # bio: >
+#   #   Cristina Sinclaire recently joined Clarity Campaign Labs bringing 
+#   # social: 
+#   #   - {name: "twitter", link: "https://twitter.com/ninasin"}
+#   #   - {name: "linkedin", link: "https://www.linkedin.com/in/cristinasinclaire"}
 
-- 
-  id: 7
-  name: "Dessa"
-  surname: "Gypalo"
-  title: "Director of Data Services"
-  company: "NGP VAN / EveryAction"
-  thumbnailUrl: dessa.jpg
-  team: true
-  bio: >
-    Dessa Gypalo currently serves as the Director of Data Services at 
-    NGP VAN / EveryAction. There, her team supports a variety of client 
-    initiatives including large scale database migrations, ETL, and data 
-    hygiene. Previously, she was the National Data Manager at Enroll America 
-    where she built out a data program to connect people to healthcare under 
-    Obamacare (ACA). Over the last decade, Dessa has worked local to national 
-    level political campaigns and as well as provided data support for numerous 
-    non-profit organizations. In her spare time she enjoys playing with her 
-    dogs, creating feminist art, and listening to more NPR than is socially 
-    acceptable.
-  social: 
-    - {name: "instagram", link: "https://www.instagram.com/dessag"}
-    - {name: "twitter", link: "https://twitter.com/dmgypalo"}
+# - 
+#   id: 7
+#   name: "Dessa"
+#   surname: "Gypalo"
+#   title: "Director of Data Services"
+#   company: "NGP VAN / EveryAction"
+#   thumbnailUrl: dessa.jpg
+#   team: true
+#   bio: >
+#     Dessa Gypalo currently serves as the Director of Data Services at 
+#     NGP VAN / EveryAction. There, her team supports a variety of client 
+#     initiatives including large scale database migrations, ETL, and data 
+#     hygiene. Previously, she was the National Data Manager at Enroll America 
+#     where she built out a data program to connect people to healthcare under 
+#     Obamacare (ACA). Over the last decade, Dessa has worked local to national 
+#     level political campaigns and as well as provided data support for numerous 
+#     non-profit organizations. In her spare time she enjoys playing with her 
+#     dogs, creating feminist art, and listening to more NPR than is socially 
+#     acceptable.
+#   social: 
+#     - {name: "instagram", link: "https://www.instagram.com/dessag"}
+#     - {name: "twitter", link: "https://twitter.com/dmgypalo"}
 
-- 
-  id: 8
-  name: "Jennifer"
-  surname: "Matthews"
-  title: "Partner"
-  company: "AMM"
-  # thumbnailUrl: cristina.jpg
-  # rockstar: true
-  # bio: >
-  #   Cristina Sinclaire recently joined Clarity Campaign Labs bringing 
-  # social: 
-  #   - {name: "twitter", link: "https://twitter.com/ninasin"}
-  #   - {name: "linkedin", link: "https://www.linkedin.com/in/cristinasinclaire"}
-- 
-  id: 9
-  name: "Robin"
-  surname: "Terry"
-  title: ""
-  company: ""
-  # thumbnailUrl: cristina.jpg
-  # rockstar: true
-  # bio: >
-  #   Cristina Sinclaire recently joined Clarity Campaign Labs bringing 
-  # social: 
-  #   - {name: "twitter", link: "https://twitter.com/ninasin"}
-  #   - {name: "linkedin", link: "https://www.linkedin.com/in/cristinasinclaire"}
+# - 
+#   id: 8
+#   name: "Jennifer"
+#   surname: "Matthews"
+#   title: "Partner"
+#   company: "AMM"
+#   # thumbnailUrl: cristina.jpg
+#   # rockstar: true
+#   # bio: >
+#   #   Cristina Sinclaire recently joined Clarity Campaign Labs bringing 
+#   # social: 
+#   #   - {name: "twitter", link: "https://twitter.com/ninasin"}
+#   #   - {name: "linkedin", link: "https://www.linkedin.com/in/cristinasinclaire"}
+# - 
+#   id: 9
+#   name: "Robin"
+#   surname: "Terry"
+#   title: ""
+#   company: ""
+#   # thumbnailUrl: cristina.jpg
+#   # rockstar: true
+#   # bio: >
+#   #   Cristina Sinclaire recently joined Clarity Campaign Labs bringing 
+#   # social: 
+#   #   - {name: "twitter", link: "https://twitter.com/ninasin"}
+#   #   - {name: "linkedin", link: "https://www.linkedin.com/in/cristinasinclaire"}
 

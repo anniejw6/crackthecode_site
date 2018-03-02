@@ -14,6 +14,7 @@
   title: "Kickoff and Keynote"
   place: "Hall"
   subtype: keynote
+  service: true
   speakers: [1, 2]
 -
   id: 003
@@ -26,6 +27,7 @@
     inclusive teams. You’ll hear from managers of various types of teams - 
     large, team of one, technical, service based - as they discuss the 
     intricacies of effective management.
+  service: true
   subtype: panel
   speakers: [6, 7, 8, 9]
 -
@@ -37,6 +39,7 @@
     team members. This panel will cover topics including coalition building, 
     advocating for resources, managing technical vs non technical teams and 
     styles of management.
+  service: true
   subtype: workshop
   speakers: []
 -
@@ -55,27 +58,32 @@
   id: 006
   title: "Overview of the Individual Contributor Landscape"
   description: >
-    We will discuss what positions are available in the progressive space and 
-    how you obtain the right skills to get those jobs
+    We’ll discuss what positions are available in the progressive space and 
+    how you can obtain the right skills to get those jobs. Hear from leaders 
+    who have grown their skills in significant ways over the past few years.
+  service: true
   subtype: workshop
   speakers: []
 -
-  id: 007
-  title: "Open Session"
-  description: "Potential topic to be decided based on popular vote"
-  subtype: workshop
-  speakers: 
--
   id: 008
   title: "Challenges we face today & how do we tackle them"
-  description: "TBD"
+  description: >
+    From people not picking up their phones to ensuring we live our values 
+    through our modeling algorithms to writing code that understands emojis. 
+    We’ll also discuss technical challenges that exist in our everyday work 
+    as well. Hear from leaders in the space on the biggest challenges they 
+    are currently facing and how they can be overcome.  
   subtype: workshop
+  service: true
   speakers: []
 -
   id: 009
   title: "1:1 Advice"
-  description: "Sign up for 1:1 slots with experts on topics like resumes, interviewing, and negotiation"
+  description: >
+    Sign up for 1:1 slots with experts on topics like resumes, 
+    interviewing, and negotiation.
   subtype: workshop
+  service: true
   speakers: [3, 4, 5]
 -
   id: 010
@@ -86,6 +94,7 @@
 -
   id: 011
   title: "Happy Hour"
+  service: true
   # description: ""
   #subtype: workshop
   #speakers: [0, 1, 2]

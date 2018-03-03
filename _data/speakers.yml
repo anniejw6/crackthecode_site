@@ -352,6 +352,19 @@
   #  - {name: "linkedin", link: "https://www.linkedin.com/in/riki-conrey"}
 
 - 
+  id: 28
+  name: "Stephanie"
+  surname: "Hendrick"
+  title: "Regional Targeting Director"
+  company: "Democratic Congressional Campaign Committee"
+  thumbnailUrl: logos.png
+  #rockstar: true
+  #bio: >
+  #  Riki is a computational social scientist with a focus on attitude
+  #social: 
+  #  - {name: "linkedin", link: "https://www.linkedin.com/in/riki-conrey"}
+
+- 
   id: 26
   name: "Alissa"
   surname: "Stollwerk"

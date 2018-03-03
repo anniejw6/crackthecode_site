@@ -21,11 +21,18 @@ To elaborate on (2), we fall into category #4 in [Kat Marchán's guide on inclus
 
 <br/>
 
+###### **Where's it happening?**
+
+Crack the Code 2018 will take place at [ThoughtWorks](https://www.thoughtworks.com/) at 99 Madison Avenue.
+
+<br/>
+
 ###### **What is our Code of Conduct?**
 
 Our Code of Conduct is listed [here](/code-of-conduct/).
 
 <br/>
+
 
 
 

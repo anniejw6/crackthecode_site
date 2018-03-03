@@ -5,7 +5,7 @@
         <div class="col-lg-3 col-md-4 col-sm-6 col-md-offset-1 animated hiding location-description text-left" data-animation="fadeInLeft" data-delay="0">
             <div class="row">
                 <div class="pull-left">
-                    <h3>{{ site.locationBlockTitle }}</h3>
+                    <h4>{{ site.locationBlockTitle }}</h4>
                     <ul>
                         {% if site.eventLocationName %}<li>{{ site.eventLocationName }}</li>{% endif %}
                         <li>{{ site.eventStreetAddress }}, {{ site.eventAddressLocality }}</li>
@@ -18,7 +18,7 @@
                         </li>
                     </ul>
                 </div>
-                <a href="{{ site.baseurl | append: '/logistics/#find-way' }}" class="pull-right">
+                <a href="https://www.google.com/maps/place/ThoughtWorks,+Inc./@40.7446868,-73.9870685,17z/data=!3m1!4b1!4m5!3m4!1s0x89c259a7c4fab243:0x7a7b1b141a048edf!8m2!3d40.7446828!4d-73.9848745" class="pull-right" target="_blank">
                     <svg class="icon icon-direction" viewBox="0 0 32 32">
                         <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-direction"></use>
                     </svg>

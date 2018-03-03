@@ -17,7 +17,7 @@
   speakers: [1, 2]
 -
   id: 003
-  title: "What does management look like?"
+  title: "What Does Management Look Like?"
   place: "TBD"
   description: >
     We'll provide an inside look into the day to day of managers, touching on 
@@ -54,13 +54,13 @@
   speakers: [10, 11, 12]
 -
   id: 006
-  title: "What Does Being an Individual Contributor Look Like?"
+  title: "You Don't Have to Manage to Lead"
   description: >
-    How do you move up in the progressive space if you don't want to become 
-    a manager? We’ll discuss what it looks like to be an individual contributor 
-    in the progressive space and how you can obtain the right skills to get 
-    those jobs. Hear from leaders who have grown their skills in significant 
-    ways over the past few years.
+    If you’re not the manager of your team, how do you grow your skills and 
+    stand out? We’ll cover such topics as expanding technical skills such as 
+    learning SQL or Python, formal versus informal learning, and knowing our 
+    worth. We will also be discussing growing into a senior role and what 
+    opportunities exist for advancement outside of management.
   service: true
   subtype: workshop
   speakers: []

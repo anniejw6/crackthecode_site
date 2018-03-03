@@ -83,7 +83,7 @@ aboutBlock:
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "80", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "15", specialCharacter: "+", info: "speakers", detail: "from all over the movement"}
+ - {count: "20", specialCharacter: "+", info: "speakers", detail: "from all over the movement"}
  - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "to customize your experience"}
 
 # Latest News Block
@@ -96,20 +96,20 @@ rockstarSpeakersTitle: "Empowering Speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
-locationBlockTitle: "Location"
-eventLocationName: "TBD"
-#eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-eventStreetAddress: "New York"
+locationBlockTitle: "ThoughtWorks"
+# eventLocationName: "ThoughtWorks"
+eventLocationLink: "https://www.thoughtworks.com/"
+eventStreetAddress: "99 Madison Avenue"
 eventAddressLocality: "New York"
-eventAddressLocalityRegion: "New York"
+eventAddressLocalityRegion: "New York City"
 #eventPostalCode: "79000"
 #eventAddressCountry: "Ukraine"
-eventStartTime: "2018-03-16T1:00"
-eventDoorTime: "12:00"
-eventEndTime: "2018-03-16T7:00"
-eventPlaceCoordinates: "40.7527302, -73.9794181"
-mapCenterCoordinates: "40.7527302, -73.9794181"
-mapMobileCenterCoordinates: "40.7527302, -73.9794181"
+eventStartTime: "2018-03-17T1:00"
+eventDoorTime: "12:30"
+eventEndTime: "2018-03-17T6:00"
+eventPlaceCoordinates: "40.7446868, -73.9870685"
+mapCenterCoordinates: "40.7446868, -73.9870685"
+mapMobileCenterCoordinates: "40.7446868, -73.9870685"
 
 # Venue Block
 # venueBlockTitle: "Venue"

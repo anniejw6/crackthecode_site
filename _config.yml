@@ -83,8 +83,8 @@ aboutBlock:
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "80", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "10", specialCharacter: "+", info: "speakers", detail: "from all over the movement"}
- - {count: "1", specialCharacter: "+", info: "parallel tracks", detail: "to customize your experience"}
+ - {count: "20", specialCharacter: "+", info: "speakers", detail: "from all over the movement"}
+ - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "to customize your experience"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -96,9 +96,9 @@ rockstarSpeakersTitle: "Empowering Speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
-locationBlockTitle: "Location"
-eventLocationName: "ThoughtWorks"
-#eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
+locationBlockTitle: "ThoughtWorks"
+# eventLocationName: "ThoughtWorks"
+eventLocationLink: "https://www.thoughtworks.com/"
 eventStreetAddress: "99 Madison Avenue"
 eventAddressLocality: "New York"
 eventAddressLocalityRegion: "New York City"

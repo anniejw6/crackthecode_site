@@ -2,9 +2,9 @@
   date: "2018-03-17"
   dateReadable: "Saturday March 17, 2018"
   tracks: 
-    - {title: "Track 1", color: "#90be4e"}
-    - {title: "Track 2", color: "#03a9f4"}
-    - {title: "Track 3", color: "#e91e63"}
+    - {title: "Manager Track", color: "#90be4e"}
+    - {title: "Individual Contributor Track", color: "#03a9f4"}
+    - {title: "Advising Track", color: "#e91e63"}
   timeslots:
     - {
     	startTime: "12:30",

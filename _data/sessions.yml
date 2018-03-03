@@ -14,19 +14,16 @@
   title: "Kickoff and Keynote"
   place: "Hall"
   subtype: keynote
-  service: true
   speakers: [1, 2]
 -
   id: 003
   title: "What does management look like?"
   place: "TBD"
   description: >
-    To provide an inside look into the day to day of managers, touching on 
-    topics like hard conversations, balancing the needs of team members and 
-    higher ups, work life balance, norm setting, and hiring diverse and 
-    inclusive teams. You’ll hear from managers of various types of teams - 
-    large, team of one, technical, service based - as they discuss the 
-    intricacies of effective management.
+    We'll provide an inside look into the day to day of managers, touching on 
+    topics like hard conversations, work life balance, norm setting, and hiring 
+    diverse and inclusive teams. You’ll hear from managers of various types of 
+    teams as they discuss the intricacies of effective management.
   service: true
   subtype: panel
   speakers: [6, 7, 8, 9]
@@ -46,33 +43,36 @@
   id: 005
   title: "Lightning Talks"
   description: >
-    Short talks on a variety of topics: 
+    Short talks on a variety of topics: <br>
     <br>- Best Practices for 1:1s (Elyse Ross)
     <br>- How to Choose Your Next Adventure (Laila El Gohary)
+    <br>- Plan, Prep, Trust and Verify: How to Effectively Grow the Technical Skills of Junior Staff (Cindy Sui)
     <br>- Code Hopper (Annie Wang)
     <br>- Batch Endorsements on ActionKit (Maya Yair)
     <br>- Analytics Methods to Test Messaging (Riki Conrey)
   subtype: workshop
-  speakers: []
+  speakers: [10, 11, 12]
 -
   id: 006
-  title: "Overview of the Individual Contributor Landscape"
+  title: "What Does Being an Individual Contributor Look Like?"
   description: >
-    We’ll discuss what positions are available in the progressive space and 
-    how you can obtain the right skills to get those jobs. Hear from leaders 
-    who have grown their skills in significant ways over the past few years.
+    How do you move up in the progressive space if you don't want to become 
+    a manager? We’ll discuss what it looks like to be an individual contributor 
+    in the progressive space and how you can obtain the right skills to get 
+    those jobs. Hear from leaders who have grown their skills in significant 
+    ways over the past few years.
   service: true
   subtype: workshop
   speakers: []
 -
   id: 008
-  title: "Challenges we face today & how do we tackle them"
+  title: "Challenges We Face Today & How We Tackle Them"
   description: >
-    From people not picking up their phones to ensuring we live our values 
-    through our modeling algorithms to writing code that understands emojis. 
-    We’ll also discuss technical challenges that exist in our everyday work 
-    as well. Hear from leaders in the space on the biggest challenges they 
-    are currently facing and how they can be overcome.  
+    From people not picking up their phones to writing code that understands 
+    emojis to understanding when to buy software/build your own. We’ll also 
+    discuss technical challenges that exist in our everyday work as well. 
+    Hear from leaders in the space on the biggest challenges they are currently 
+    facing and how they can be overcome.    
   subtype: workshop
   service: true
   speakers: []
@@ -83,7 +83,6 @@
     Sign up for 1:1 slots with experts on topics like resumes, 
     interviewing, and negotiation.
   subtype: workshop
-  service: true
   speakers: [3, 4, 5]
 -
   id: 010

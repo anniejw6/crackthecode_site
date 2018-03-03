@@ -1,42 +1,42 @@
-# - 
-#   id: 1
-#   name: "Amanda"
-#   surname: "Litman"
-#   title: "Co-Founder and Executive Director"
-#   company: "Run for Something"
-#   thumbnailUrl: litman.jpg
-#   rockstar: true
-#   bio: >
-#     Hillary Clinton’s email director. (The other emails.) Responsible for 
-#     raising more than $330 million online. Charlie Crist’s digital director 
-#     when he ran for governor in 2014. One of the first employees at Organizing 
-#     for Action as deputy email director. Email writer for Barack Obama’s 
-#     re-elect. Northwestern University graduate. Bookworm. Feminist. 
-#     Nationals fan. Dog owner.
-#   social: 
-#     - {name: "site", link: "https://runforsomething.net/"}
-# - 
-#   id: 2
-#   name: "Amanda"
-#   surname: "Colombe"
-#   title: "General Manager, Organizing"
-#   company: "NGP VAN"
-#   #thumbnailUrl: cristina.jpg
-#   rockstar: true
-#   # bio: >
-#   #   Cristina Sinclaire recently joined Clarity Campaign Labs bringing 
-#   #   high-quality analytics to campaigns and organizations of all sizes. 
-#   #   Previously she served as Director of Client Services at Catalist, the 
-#   #   progressive movement's data utility. Prior to that she researched 
-#   #   voting laws and built civic data tools at the New Organizing Institute. 
-#   #   She has managed electoral campaigns and organized communities from 
-#   #   California to South Africa. She sits on the Boards of National 
-#   #   Public Radio, the Center for Technology and Civic Life, the Alliance 
-#   #   for CHANGE, and the Earthward Bound Foundation. In her spare time 
-#   #   Cristina travels, plays cribbage, dances and chases her next favorite meal.
-#   #social: 
-#   #  - {name: "twitter", link: "https://twitter.com/ninasin"}
-#   #  - {name: "linkedin", link: "https://www.linkedin.com/in/cristinasinclaire"}
+- 
+  id: 1
+  name: "Amanda"
+  surname: "Litman"
+  title: "Co-Founder and Executive Director"
+  company: "Run for Something"
+  thumbnailUrl: litman.jpg
+  rockstar: true
+  # bio: >
+  #   Hillary Clinton’s email director. (The other emails.) Responsible for 
+  #   raising more than $330 million online. Charlie Crist’s digital director 
+  #   when he ran for governor in 2014. One of the first employees at Organizing 
+  #   for Action as deputy email director. Email writer for Barack Obama’s 
+  #   re-elect. Northwestern University graduate. Bookworm. Feminist. 
+  #   Nationals fan. Dog owner.
+  social: 
+    - {name: "site", link: "https://runforsomething.net/"}
+- 
+  id: 2
+  name: "Amanda"
+  surname: "Coulombe"
+  title: "General Manager, Organizing"
+  company: "NGP VAN"
+  #thumbnailUrl: cristina.jpg
+  rockstar: true
+  # bio: >
+  #   Cristina Sinclaire recently joined Clarity Campaign Labs bringing 
+  #   high-quality analytics to campaigns and organizations of all sizes. 
+  #   Previously she served as Director of Client Services at Catalist, the 
+  #   progressive movement's data utility. Prior to that she researched 
+  #   voting laws and built civic data tools at the New Organizing Institute. 
+  #   She has managed electoral campaigns and organized communities from 
+  #   California to South Africa. She sits on the Boards of National 
+  #   Public Radio, the Center for Technology and Civic Life, the Alliance 
+  #   for CHANGE, and the Earthward Bound Foundation. In her spare time 
+  #   Cristina travels, plays cribbage, dances and chases her next favorite meal.
+  #social: 
+  #  - {name: "twitter", link: "https://twitter.com/ninasin"}
+  #  - {name: "linkedin", link: "https://www.linkedin.com/in/cristinasinclaire"}
 - 
   id: 3
   name: "Kass"
@@ -169,3 +169,58 @@
 #   #   - {name: "twitter", link: "https://twitter.com/ninasin"}
 #   #   - {name: "linkedin", link: "https://www.linkedin.com/in/cristinasinclaire"}
 
+- 
+  id: 10
+  name: "Riki"
+  surname: "Conrey"
+  title: "Senior Scientist"
+  company: "Catalist"
+  thumbnailUrl: riki.png
+  rockstar: true
+  bio: >
+    Riki is a computational social scientist with a focus on attitude 
+    measurement and change. She holds a PhD in Social Psychology from 
+    Northwestern University and worked as a survey methodologist for several 
+    years before she was drawn away by bigger data. Now, she builds predictive 
+    models and big data systems using voter files, poll results, social media, 
+    and anything else she finds lying around.
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/riki-conrey"}
+
+- 
+  id: 11
+  name: "Maya"
+  surname: "Yair"
+  title: "Digital Data Manager"
+  company: "Indivisible"
+  thumbnailUrl: maya.jpg
+  team: true
+  bio: >
+    Maya Yair is the Digital Data Manager at Indivisible, where she enhances 
+    digital communications with analytics and testing. Previously she served 
+    as an Analyst and Associate Strategist at Analyst Institute. Maya's roots 
+    are in electoral campaigns, where she has worked in organizing and 
+    development roles. In her spare time, she can be found taking on demanding
+    cooking projects and hanging out with her cat. 
+
+- 
+  id: 12
+  name: "Cindy"
+  surname: "Sui"
+  title: "Analyst + Data Science"
+  company: "Clarity Campaign Labs"
+  thumbnailUrl: cindy.jpg
+  team: true
+  bio: >
+    Cindy Sui is an Analyst at Clarity Campaign Labs and has worked on polling 
+    & modeling projects up and down the ballot since joining Clarity in 2015. 
+    Cindy loves to use data to figure out what's working, how better to 
+    communicate with people, and how to drive behavior change. Before catching 
+    the political bug, Cindy worked in global health nonprofits in Boston and 
+    Lima, Peru, as well as a healthcare technology company in Chicago. 
+    As part of her commitment to intersectionality, she currently advises a 
+    number of nonprofits and startups in DC working on criminal justice reform, 
+    peace education and digital organizing. Cindy loves to meet new people, 
+    drink keto coffee, and watch murder-mystery shows. 
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/cindy-sui-05665054/"}

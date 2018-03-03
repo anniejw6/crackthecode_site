@@ -38,7 +38,11 @@
                             {% for session in site.data.sessions %}
                                 {% if slot == session.id and session.service == null %}
                                 <div id="session-{{ session.id }}" class="slot col-md-{{ slotColWidth }} col-xs-12 flexbox-item-height" data-slot-detail="{{ day.tracks[slotIndex].title }}" data-toggle="modal" data-target="#sessionDetail-{{ session.id }}">
+                                    {% if session.colorline == null %}
                                     <div class="color-line" style="background: {{ day.tracks[slotIndex].color }}"></div>
+                                    {% else %}
+                                    <div class="color-line"></div>
+                                    {% endif %}
                                     <div class="slot-content" style="border-right-color: {{ day.tracks[slotIndex].color }}">
                                         <h5 class="slot-title" itemprop="name">{{ session.title }}</h5>
                                         <span class="slot-language">{{session.language | upcase}}</span>
@@ -55,6 +59,21 @@
                                                 {% endfor %}    
                                             {% endfor %}
                                         </ul>
+                                    </div>
+                                </div>
+                                {% elsif slot == session.id and session.service == "custom" %}
+                                <div id="session-{{ session.id }}" class="slot col-md-{{ slotColWidth }} col-xs-12 flexbox-item-height" data-slot-detail="{{ day.tracks[slotIndex].title }}" data-toggle="modal" data-target="#sessionDetail-{{ session.id }}">
+                                    {% if session.colorline != null %}
+                                    <div class="color-line" style="background: {{ day.tracks[slotIndex].color }}"></div>
+                                    {% else %}
+                                    <div class="color-line"></div>
+                                    {% endif %}
+                                    <div class="slot-content" style="border-right-color: {{ day.tracks[slotIndex].color }}">
+                                        <h5 class="slot-title" itemprop="name">{{ session.title }}</h5>
+                                        <span class="slot-language">{{session.language | upcase}}</span>
+                                        {% if session.description != null %}
+                                        <p class="service-description">{{ session.description }}</p>
+                                        {% endif %}
                                     </div>
                                 </div>
                                 {% elsif slot == session.id and session.service != null %}

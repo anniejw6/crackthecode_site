@@ -14,6 +14,7 @@
   title: "Kickoff and Keynote"
   place: "Hall"
   subtype: keynote
+  colorline: false
   speakers: [1, 2]
 -
   id: 003
@@ -24,7 +25,6 @@
     topics like hard conversations, work life balance, norm setting, and hiring 
     diverse and inclusive teams. You’ll hear from managers of various types of 
     teams as they discuss the intricacies of effective management.
-  service: true
   subtype: panel
   speakers: [6, 7, 8, 9]
 -
@@ -36,9 +36,8 @@
     team members. This panel will cover topics including coalition building, 
     advocating for resources, managing technical vs non technical teams and 
     styles of management.
-  service: true
   subtype: workshop
-  speakers: []
+  speakers: [22, 23, 24, 25]
 -
   id: 005
   title: "Lightning Talks"
@@ -51,7 +50,8 @@
     <br>- Batch Endorsements on ActionKit (Maya Yair)
     <br>- Analytics Methods to Test Messaging (Riki Conrey)
   subtype: workshop
-  speakers: [10, 11, 12]
+  service: custom
+  speakers: [14, 15, 16, 17, 18, 19, 20, 21]
 -
   id: 006
   title: "You Don't Have to Manage to Lead"
@@ -61,9 +61,8 @@
     learning SQL or Python, formal versus informal learning, and knowing our 
     worth. We will also be discussing growing into a senior role and what 
     opportunities exist for advancement outside of management.
-  service: true
   subtype: workshop
-  speakers: []
+  speakers: [10, 11, 12, 13]
 -
   id: 008
   title: "Challenges We Face Today & How We Tackle Them"
@@ -74,8 +73,7 @@
     Hear from leaders in the space on the biggest challenges they are currently 
     facing and how they can be overcome.    
   subtype: workshop
-  service: true
-  speakers: []
+  speakers: [26, 27]
 -
   id: 009
   title: "1:1 Advice"
@@ -83,6 +81,8 @@
     Sign up for 1:1 slots with experts on topics like resumes, 
     interviewing, and negotiation.
   subtype: workshop
+  service: custom
+  colorline: true
   speakers: [3, 4, 5]
 -
   id: 010

@@ -1,5 +1,399 @@
+# Current Max: 29
+
 - 
-  id: 0
+  id: 1
+  name: "Amanda"
+  surname: "Litman"
+  title: "Co-Founder and Executive Director"
+  company: "Run for Something"
+  thumbnailUrl: litman.jpg
+  rockstar: true
+  # bio: >
+  #   Hillary Clinton’s email director. (The other emails.) Responsible for 
+  #   raising more than $330 million online. Charlie Crist’s digital director 
+  #   when he ran for governor in 2014. One of the first employees at Organizing 
+  #   for Action as deputy email director. Email writer for Barack Obama’s 
+  #   re-elect. Northwestern University graduate. Bookworm. Feminist. 
+  #   Nationals fan. Dog owner.
+  social: 
+    - {name: "site", link: "https://runforsomething.net/"}
+- 
+  id: 2
+  name: "Amanda"
+  surname: "Coulombe"
+  title: "General Manager, Organizing"
+  company: "NGP VAN"
+  thumbnailUrl: logos.png
+  # rockstar: true
+  # bio: >
+  #   Cristina Sinclaire recently joined Clarity Campaign Labs bringing 
+  #   high-quality analytics to campaigns and organizations of all sizes. 
+  #   Previously she served as Director of Client Services at Catalist, the 
+  #   progressive movement's data utility. Prior to that she researched 
+  #   voting laws and built civic data tools at the New Organizing Institute. 
+  #   She has managed electoral campaigns and organized communities from 
+  #   California to South Africa. She sits on the Boards of National 
+  #   Public Radio, the Center for Technology and Civic Life, the Alliance 
+  #   for CHANGE, and the Earthward Bound Foundation. In her spare time 
+  #   Cristina travels, plays cribbage, dances and chases her next favorite meal.
+  #social: 
+  #  - {name: "twitter", link: "https://twitter.com/ninasin"}
+  #  - {name: "linkedin", link: "https://www.linkedin.com/in/cristinasinclaire"}
+
+- 
+  id: 6
+  name: "Esha"
+  surname: "Rakhit"
+  title: "Technical Product Manager"
+  company: "NGP VAN"
+  thumbnailUrl: logos.png
+  # rockstar: true
+  # bio: >
+  #   Cristina Sinclaire recently joined Clarity Campaign Labs bringing 
+  # social: 
+  #   - {name: "twitter", link: "https://twitter.com/ninasin"}
+  #   - {name: "linkedin", link: "https://www.linkedin.com/in/cristinasinclaire"}
+
+- 
+  id: 8
+  name: "Michelle"
+  surname: "Penson"
+  title: "Senior Strategist and Data Lead"
+  company: "AFL-CIO"
+  thumbnailUrl: logos.png
+  # rockstar: true
+  # bio: >
+  #   Cristina Sinclaire recently joined Clarity Campaign Labs bringing 
+  # social: 
+  #   - {name: "twitter", link: "https://twitter.com/ninasin"}
+  #   - {name: "linkedin", link: "https://www.linkedin.com/in/cristinasinclaire"}
+- 
+  id: 9
+  name: "Kate"
+  surname: "Dahl"
+  title: "National Data & Analytics Director"
+  company: "For Our Future"
+  thumbnailUrl: logos.png
+  # rockstar: true
+  # bio: >
+  #   Cristina Sinclaire recently joined Clarity Campaign Labs bringing 
+  # social: 
+  #   - {name: "twitter", link: "https://twitter.com/ninasin"}
+  #   - {name: "linkedin", link: "https://www.linkedin.com/in/cristinasinclaire"}
+
+- 
+  id: 29
+  name: "Angelica"
+  surname: "Morales"
+  title: "Independent Consultant"
+  company: ""
+  thumbnailUrl: logos.png
+  # rockstar: true
+  # bio: >
+  #   Cristina Sinclaire recently joined Clarity Campaign Labs bringing 
+  # social: 
+  #   - {name: "twitter", link: "https://twitter.com/ninasin"}
+  #   - {name: "linkedin", link: "https://www.linkedin.com/in/cristinasinclaire"}
+
+- 
+  id: 10
+  name: "Jenn"
+  surname: "Cervella"
+  title: "Data and Targeting Specialist"
+  company: "AFSCME"
+  thumbnailUrl: logos.png
+  # rockstar: true
+  # bio: >
+  #   Cristina Sinclaire recently joined Clarity Campaign Labs bringing 
+  # social: 
+  #   - {name: "twitter", link: "https://twitter.com/ninasin"}
+  #   - {name: "linkedin", link: "https://www.linkedin.com/in/cristinasinclaire"}
+
+- 
+  id: 11
+  name: "Hilary"
+  surname: "Anderson"
+  title: ""
+  company: ""
+  thumbnailUrl: logos.png
+  # rockstar: true
+  # bio: >
+  #   Cristina Sinclaire recently joined Clarity Campaign Labs bringing 
+  # social: 
+  #   - {name: "twitter", link: "https://twitter.com/ninasin"}
+  #   - {name: "linkedin", link: "https://www.linkedin.com/in/cristinasinclaire"}
+
+- 
+  id: 11
+  name: "Sonya"
+  surname: "Reynolds"
+  title: "Data Director / Principal / Treasurer / Vice Chair & VP of Diversity & Inclusion"
+  company: "Colibri Labs / NY Civic Engagement Table / Progressive HackNight / OSDI"
+  thumbnailUrl: logos.png
+  # rockstar: true
+  # bio: >
+  #   Cristina Sinclaire recently joined Clarity Campaign Labs bringing 
+  # social: 
+  #   - {name: "twitter", link: "https://twitter.com/ninasin"}
+  #   - {name: "linkedin", link: "https://www.linkedin.com/in/cristinasinclaire"}
+
+- 
+  id: 12
+  name: "Becca"
+  surname: "Siegel"
+  title: "Data Scientist"
+  company: "BlueLabs"
+  thumbnailUrl: logos.png
+  # rockstar: true
+  # bio: >
+  #   Cristina Sinclaire recently joined Clarity Campaign Labs bringing 
+  # social: 
+  #   - {name: "twitter", link: "https://twitter.com/ninasin"}
+  #   - {name: "linkedin", link: "https://www.linkedin.com/in/cristinasinclaire"}
+
+- 
+  id: 13
+  name: "Emma"
+  surname: "Akpan"
+  title: "Client Success Manager"
+  company: "Hustle"
+  thumbnailUrl: logos.png
+  # rockstar: true
+  # bio: >
+  #   Cristina Sinclaire recently joined Clarity Campaign Labs bringing 
+  # social: 
+  #   - {name: "twitter", link: "https://twitter.com/ninasin"}
+  #   - {name: "linkedin", link: "https://www.linkedin.com/in/cristinasinclaire"}
+
+- 
+  id: 14
+  name: "Elyse"
+  surname: "Ross Weiss"
+  title: ""
+  company: ""
+  thumbnailUrl: logos.png
+  # rockstar: true
+  # bio: >
+  #   Cristina Sinclaire recently joined Clarity Campaign Labs bringing 
+  # social: 
+  #   - {name: "twitter", link: "https://twitter.com/ninasin"}
+  #   - {name: "linkedin", link: "https://www.linkedin.com/in/cristinasinclaire"}
+
+- 
+  id: 15
+  name: "Laila"
+  surname: "El Gohary"
+  title: ""
+  company: ""
+  thumbnailUrl: logos.png
+  # rockstar: true
+  # bio: >
+  #   Cristina Sinclaire recently joined Clarity Campaign Labs bringing 
+  # social: 
+  #   - {name: "twitter", link: "https://twitter.com/ninasin"}
+  #   - {name: "linkedin", link: "https://www.linkedin.com/in/cristinasinclaire"}
+
+- 
+  id: 15
+  name: "Kim"
+  surname: "Davidson"
+  title: "Agile Project Manager/Product Manager/Service Area Lead"
+  company: "CivicActions"
+  thumbnailUrl: logos.png
+  # rockstar: true
+  # bio: >
+  #   Cristina Sinclaire recently joined Clarity Campaign Labs bringing 
+  # social: 
+  #   - {name: "twitter", link: "https://twitter.com/ninasin"}
+  #   - {name: "linkedin", link: "https://www.linkedin.com/in/cristinasinclaire"}
+
+- 
+  id: 16
+  name: "Cindy"
+  surname: "Sui"
+  title: "Analyst + Data Science"
+  company: "Clarity Campaign Labs"
+  thumbnailUrl: cindy.jpg
+  rockstar: true
+  bio: >
+    Cindy Sui is an Analyst at Clarity Campaign Labs and has worked on polling 
+    & modeling projects up and down the ballot since joining Clarity in 2015. 
+    Cindy loves to use data to figure out what's working, how better to 
+    communicate with people, and how to drive behavior change. Before catching 
+    the political bug, Cindy worked in global health nonprofits in Boston and 
+    Lima, Peru, as well as a healthcare technology company in Chicago. 
+    As part of her commitment to intersectionality, she currently advises a 
+    number of nonprofits and startups in DC working on criminal justice reform, 
+    peace education and digital organizing. Cindy loves to meet new people, 
+    drink keto coffee, and watch murder-mystery shows. 
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/cindy-sui-05665054/"}
+
+- 
+  id: 17
+  name: "Maya"
+  surname: "Yair"
+  title: "Digital Data Manager"
+  company: "Indivisible"
+  thumbnailUrl: maya.jpg
+  rockstar: true
+  bio: >
+    Maya Yair is the Digital Data Manager at Indivisible, where she enhances 
+    digital communications with analytics and testing. Previously she served 
+    as an Analyst and Associate Strategist at Analyst Institute. Maya's roots 
+    are in electoral campaigns, where she has worked in organizing and 
+    development roles. In her spare time, she can be found taking on demanding
+    cooking projects and hanging out with her cat. 
+
+- 
+  id: 18
+  name: "Riki"
+  surname: "Conrey"
+  title: "Senior Scientist"
+  company: "Catalist"
+  thumbnailUrl: riki.png
+  rockstar: true
+  bio: >
+    Riki is a computational social scientist with a focus on attitude 
+    measurement and change. She holds a PhD in Social Psychology from 
+    Northwestern University and worked as a survey methodologist for several 
+    years before she was drawn away by bigger data. Now, she builds predictive 
+    models and big data systems using voter files, poll results, social media, 
+    and anything else she finds lying around.
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/riki-conrey"}
+
+- 
+  id: 19
+  name: "Molly"
+  surname: "Graepel"
+  title: "Digital Analyst"
+  company: "Blue State Digital"
+  thumbnailUrl: logos.png
+  #rockstar: true
+  #bio: >
+  #  Riki is a computational social scientist with a focus on attitude
+  #social: 
+  #  - {name: "linkedin", link: "https://www.linkedin.com/in/riki-conrey"}
+
+- 
+  id: 20
+  name: "Lauren"
+  surname: "Barth"
+  title: "Associate Digital Analyst"
+  company: "Blue State Digital"
+  thumbnailUrl: logos.png
+  #rockstar: true
+  #bio: >
+  #  Riki is a computational social scientist with a focus on attitude
+  #social: 
+  #  - {name: "linkedin", link: "https://www.linkedin.com/in/riki-conrey"}
+
+- 
+  id: 21
+  name: "Kim"
+  surname: "Lammers"
+  title: "Data Analyst"
+  company: "Uplift Education"
+  thumbnailUrl: logos.png
+  #rockstar: true
+  #bio: >
+  #  Riki is a computational social scientist with a focus on attitude
+  #social: 
+  #  - {name: "linkedin", link: "https://www.linkedin.com/in/riki-conrey"}
+
+- 
+  id: 22
+  name: "Jennifer"
+  surname: "Willis"
+  title: "Product Manager"
+  company: "NGP VAN"
+  thumbnailUrl: logos.png
+  #rockstar: true
+  #bio: >
+  #  Riki is a computational social scientist with a focus on attitude
+  #social: 
+  #  - {name: "linkedin", link: "https://www.linkedin.com/in/riki-conrey"}
+
+
+- 
+  id: 23
+  name: "Emily"
+  surname: "Norman"
+  title: "VP, Analytics"
+  company: "Global Strategy Group"
+  thumbnailUrl: logos.png
+  #rockstar: true
+  #bio: >
+  #  Riki is a computational social scientist with a focus on attitude
+  #social: 
+  #  - {name: "linkedin", link: "https://www.linkedin.com/in/riki-conrey"}
+- 
+  id: 24
+  name: "Allison"
+  surname: "Ge"
+  title: ""
+  company: "NextGen"
+  thumbnailUrl: logos.png
+  #rockstar: true
+  #bio: >
+  #  Riki is a computational social scientist with a focus on attitude
+  #social: 
+  #  - {name: "linkedin", link: "https://www.linkedin.com/in/riki-conrey"}
+- 
+  id: 25
+  name: "Audra"
+  surname: "Grassia"
+  title: "Political & Government Lead"
+  company: "Wickr"
+  thumbnailUrl: logos.png
+  #rockstar: true
+  #bio: >
+  #  Riki is a computational social scientist with a focus on attitude
+  #social: 
+  #  - {name: "linkedin", link: "https://www.linkedin.com/in/riki-conrey"}
+
+- 
+  id: 28
+  name: "Stephanie"
+  surname: "Hendrick"
+  title: "Regional Targeting Director"
+  company: "Democratic Congressional Campaign Committee"
+  thumbnailUrl: logos.png
+  #rockstar: true
+  #bio: >
+  #  Riki is a computational social scientist with a focus on attitude
+  #social: 
+  #  - {name: "linkedin", link: "https://www.linkedin.com/in/riki-conrey"}
+
+- 
+  id: 26
+  name: "Alissa"
+  surname: "Stollwerk"
+  title: "Director, YouGov Blue"
+  company: "YouGov"
+  thumbnailUrl: logos.png
+  #rockstar: true
+  #bio: >
+  #  Riki is a computational social scientist with a focus on attitude
+  #social: 
+  #  - {name: "linkedin", link: "https://www.linkedin.com/in/riki-conrey"}
+
+- 
+  id: 27
+  name: "Cara"
+  surname: "Feldkamp"
+  title: "Deputy Director of Data and Analytics"
+  company: "NYC Public Engagement Unit"
+  thumbnailUrl: logos.png
+  #rockstar: true
+  #bio: >
+  #  Riki is a computational social scientist with a focus on attitude
+  #social: 
+  #  - {name: "linkedin", link: "https://www.linkedin.com/in/riki-conrey"}
+
+- 
+  id: 3
   name: "Kass"
   surname: "DeVorsey"
   title: "Founder"
@@ -18,7 +412,7 @@
     - {name: "twitter", link: "https://twitter.com/MinervaInsights"}
 
 - 
-  id: 1
+  id: 4
   name: "Jess"
   surname: "Garson"
   title: "Adjunct Professor"
@@ -44,7 +438,7 @@
     - {name: "twitter", link: "https://twitter.com/jessicagarson"}
 
 - 
-  id: 2
+  id: 5
   name: "Cristina"
   surname: "Sinclaire"
   title: "Senior Vice President"

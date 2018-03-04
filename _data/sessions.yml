@@ -1,57 +1,105 @@
-# -
-#   id: 001
-#   title: "Welcome and Introductions"
-#   place: "Hall"
-#   service: true
-#   description: ""
-# -
-#   id: 999
-#   title: "Break"
-#   place: "Hall"
-#   service: true
-# -
-#   id: 002
-#   title: "Organized Networking"
-#   place: "Hall"
-#   service: true
-# -
-#   id: 003
-#   title: "Happy Hour"
-#   place: "TBD"
-#   service: true
-# -
-#   id: 004
-#   title: "Planning your career: different trajectories within data, analytics, and technology"
-#   description: "The world of data & analytics is large. How do you know where you fit in? How do you know when it's time to go -- or stay?"
-#   subtype: workshop
-#   speakers: [2]
-# -
-#   id: 005
-#   title: "Managing Up, Down, and Across"
-#   description: "How to effectively work with teams, either as a manager, a staffer, or a colleague."
-#   subtype: workshop
-#   speakers: 
-# -
-#   id: 006
-#   title: "Technical Tutorials"
-#   description: "1 or 2 tutorials of a technical skill, which will be determined by popular vote!"
-#   subtype: workshop
-#   speakers: [1]
-# -
-#   id: 007
-#   title: "Open Session"
-#   description: "Potential topic to be decided based on popular vote"
-#   subtype: workshop
-#   speakers: 
+-
+  id: 999
+  title: "Break"
+  place: "Hall"
+  service: true
+  description: "Talk with speakers and attendees"
+-
+  id: 001
+  title: "Registration"
+  place: "Hall"
+  service: true
+-
+  id: 002
+  title: "Kickoff and Keynote"
+  place: "Hall"
+  subtype: keynote
+  colorline: false
+  speakers: [1, 2]
+-
+  id: 003
+  title: "What Does Management Look Like?"
+  place: "TBD"
+  description: >
+    We'll provide an inside look into the day to day of managers, touching on 
+    topics like hard conversations, work life balance, norm setting, and hiring 
+    diverse and inclusive teams. You’ll hear from managers of various types of 
+    teams as they discuss the intricacies of effective management.
+  subtype: panel
+  speakers: [6, 7, 8, 9]
+-
+  id: 004
+  title: "Managing Up, Down, and Sideways"
+  description: >
+    Managing isn’t just supervising direct reports - effective managers work 
+    across teams, manage up to their supervisors, and down to their individual
+    team members. This panel will cover topics including coalition building, 
+    advocating for resources, managing technical vs non technical teams and 
+    styles of management.
+  subtype: workshop
+  speakers: [22, 23, 24, 25]
+-
+  id: 005
+  title: "Lightning Talks"
+  description: >
+    Short talks on a variety of topics (with more to be added!): <br>
+    <br>- 1:1 Best Practices for Managers and Managees (Elyse Ross Weiss)
+    <br>- How to Choose Your Next Adventure (Laila El Gohary)
+    <br>- Plan, Prep, Trust and Verify: How to Effectively Grow the 
+    Technical Skills of Junior Staff (Cindy Sui)
+    <br>- Code Hopper (Annie Wang)
+    <br>- Batch Endorsements on ActionKit (Maya Yair)
+    <br>- Perfecting Persuasion: How Optimization; Deep Nets; and Big, Messy 
+    Data are Transforming Messaging into Conversation (Riki Conrey)
+    <br>- TBD (Kim Davidson)
+    <br>- TBD (Molly Graepel & Lauren Barth)
+    <br>- TBD (Kim Lammers)
+  subtype: workshop
+  service: custom
+  speakers: [14, 15, 16, 17, 18, 19, 20, 21]
+-
+  id: 006
+  title: "You Don't Have to Manage to Lead"
+  description: >
+    If you’re not the manager of your team, how do you grow your skills and 
+    stand out? We’ll cover such topics as expanding technical skills such as 
+    learning SQL or Python, formal versus informal learning, and knowing our 
+    worth. We will also be discussing growing into a senior role and what 
+    opportunities exist for advancement outside of management.
+  subtype: workshop
+  speakers: [29, 10, 11, 12, 13]
 -
   id: 008
-  title: "1:1 Consulting"
-  description: "Sign up for 1:1 slots with experts on topics like resumes, interviewing, and negotiation"
+  title: "Challenges We Face Today & How We Tackle Them"
+  description: >
+    From people not picking up their phones to writing code that understands 
+    emojis to understanding when to buy software/build your own. We’ll also 
+    discuss technical challenges that exist in our everyday work as well. 
+    Hear from leaders in the space on the biggest challenges they are currently 
+    facing and how they can be overcome.    
   subtype: workshop
-  speakers: [0, 1, 2]
-# -
-#   id: 009
-#   title: "Lightning Talks!"
-#   description: "Hear 5-7 minute talks about what people have been working on, cool scripts written, and problems solved!"
-#   subtype: workshop
-#   speakers: 
+  speakers: [28, 26, 27]
+-
+  id: 009
+  title: "1:1 Advice"
+  description: >
+    Sign up for 1:1 slots with experts on topics like resumes, 
+    interviewing, and negotiation. More experts to be announced!
+  subtype: workshop
+  service: custom
+  colorline: true
+  speakers: [3, 4, 5, 8, 18]
+-
+  id: 010
+  title: "Networking Session"
+  # description: ""
+  service: true
+  description: "Meet other people working in the field in a structured way!"
+-
+  id: 011
+  title: "Happy Hour"
+  service: true
+  # description: ""
+  #subtype: workshop
+  #speakers: [0, 1, 2]
+

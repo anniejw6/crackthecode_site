@@ -273,14 +273,17 @@
   id: 19
   name: "Molly"
   surname: "Graepel"
-  title: "Digital Analyst"
+  title: "Analyst"
   company: "Blue State Digital"
-  thumbnailUrl: logos.png
-  #rockstar: true
-  #bio: >
-  #  Riki is a computational social scientist with a focus on attitude
-  #social: 
-  #  - {name: "linkedin", link: "https://www.linkedin.com/in/riki-conrey"}
+  thumbnailUrl: molly.jpg
+  rockstar: true
+  bio: >
+    Molly has worked in analytics and data science in both the political and 
+    nonprofit sector for five years. She is currently an analyst at 
+    Blue State Digital, where she guides data strategy for some of the largest 
+    nonprofits in the US. Before working at Blue State Digital, Molly was an
+    analyst on Hillary for America's analytics team for over a year-and-a half 
+    and received her graduate degree from Harvard University.
 
 - 
   id: 20
@@ -288,12 +291,19 @@
   surname: "Barth"
   title: "Associate Digital Analyst"
   company: "Blue State Digital"
-  thumbnailUrl: logos.png
-  #rockstar: true
-  #bio: >
-  #  Riki is a computational social scientist with a focus on attitude
-  #social: 
-  #  - {name: "linkedin", link: "https://www.linkedin.com/in/riki-conrey"}
+  thumbnailUrl: lauren.jpg
+  rockstar: true
+  bio: >
+    Lauren works in analytics at Blue State Digital, where she helps clients 
+    optimize their sites, segment their audiences, and make the awesome work 
+    they are doing even better. She loves using individual-level data to 
+    identify trends and create a unique and personal experience for each 
+    constituent.</p><p> Before wrangling data for Blue State, she wrangled 
+    volunteers for the Arlington-Alexandria Coalition for the Homeless, 
+    managed digital fundraising at Bread for the World, and completed her 
+    MPP at Georgetown’s McCourt School of Public Policy.
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/laurenmarigotbarth"}
 
 - 
   id: 21

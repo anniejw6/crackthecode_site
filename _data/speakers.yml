@@ -8,15 +8,17 @@
   company: "Run for Something"
   thumbnailUrl: litman.jpg
   rockstar: true
-  # bio: >
-  #   Hillary Clinton’s email director. (The other emails.) Responsible for 
-  #   raising more than $330 million online. Charlie Crist’s digital director 
-  #   when he ran for governor in 2014. One of the first employees at Organizing 
-  #   for Action as deputy email director. Email writer for Barack Obama’s 
-  #   re-elect. Northwestern University graduate. Bookworm. Feminist. 
-  #   Nationals fan. Dog owner.
+  bio: >
+    Hillary Clinton’s email director. (The other emails.) Responsible for 
+    raising more than $330 million online. Charlie Crist’s digital director 
+    when he ran for governor in 2014. One of the first employees at Organizing 
+    for Action as deputy email director. Email writer for Barack Obama’s 
+    re-elect. Northwestern University graduate. Bookworm. Feminist. 
+    Nationals fan. Dog owner.
   social: 
     - {name: "site", link: "https://runforsomething.net/"}
+    - {name: "site", link: "http://runforsomething.net/book"}
+    - {name: "twitter", link: "http://twitter.com/amandalitman"}
 - 
   id: 2
   name: "Amanda"
@@ -101,13 +103,17 @@
   surname: "Cervella"
   title: "Data and Targeting Specialist"
   company: "AFSCME"
-  thumbnailUrl: logos.png
-  # rockstar: true
-  # bio: >
-  #   Cristina Sinclaire recently joined Clarity Campaign Labs bringing 
-  # social: 
-  #   - {name: "twitter", link: "https://twitter.com/ninasin"}
-  #   - {name: "linkedin", link: "https://www.linkedin.com/in/cristinasinclaire"}
+  thumbnailUrl: jenn.png
+  rockstar: true
+  bio: >
+    Jenn Cervella has worked in politics for the better part of a decade, 
+    ranging from organizing for Reproductive and Environmental Justice, 
+    electing Democrats up and down the ballot and fighting for dignity in 
+    all work with the Labor Movement. She is currently based in DC and when 
+    not analyzing social behaviors, she is watching baseball with her cats. 
+    Before working in electoral politics, she started working for social 
+    justice campaigns in Los Angeles and Austin. She was with Equality 
+    California in 2011 and Clean Water Action in 2012.
 
 - 
   id: 11
@@ -295,12 +301,17 @@
   surname: "Lammers"
   title: "Data Analyst"
   company: "Uplift Education"
-  thumbnailUrl: logos.png
-  #rockstar: true
-  #bio: >
-  #  Riki is a computational social scientist with a focus on attitude
-  #social: 
-  #  - {name: "linkedin", link: "https://www.linkedin.com/in/riki-conrey"}
+  thumbnailUrl: kiml.jpg
+  rockstar: true
+  bio: >
+    Kim Lammers is a Data Analyst from Uplift Education.  Uplift Education is 
+    the largest charter school network in Texas and serves low-income K-12 
+    students in the greater DFW area.  Before coming to Uplift, Kim taught 
+    high school math with Teach For America in Alabama.  She is interested 
+    in helping schools use their data to improve educational outcomes for kids. 
+  social: 
+    - {name: "linkedin", link: "www.linkedin.com/in/kimberly-lammers-287139113"}
+    - {name: "github", link: "https://github.com/UpliftDAT"}
 
 - 
   id: 22

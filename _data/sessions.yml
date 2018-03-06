@@ -26,7 +26,7 @@
     diverse and inclusive teams. You’ll hear from managers of various types of 
     teams as they discuss the intricacies of effective management.
   subtype: panel
-  speakers: [6, 7, 8, 9]
+  speakers: [6, 7, 8, 9, 12]
 -
   id: 004
   title: "Managing Up, Down, and Sideways"
@@ -44,6 +44,7 @@
   description: >
     Short talks on a variety of topics (with more to be added!): <br>
     <br>- 1:1 Best Practices for Managers and Managees (Elyse Ross Weiss)
+    <br>- TBD - Karuna Koppula
     <br>- How to Choose Your Next Adventure (Laila El Gohary)
     <br>- Plan, Prep, Trust and Verify: How to Effectively Grow the 
     Technical Skills of Junior Staff (Cindy Sui)
@@ -56,7 +57,7 @@
     <br>- Using Machine Learning to Predict College Persistence (Kim Lammers)
   subtype: workshop
   service: custom
-  speakers: [14, 15, 16, 17, 18, 19, 20, 21]
+  speakers: [14, 30, 15, 16, 17, 18, 19, 20, 21]
 -
   id: 006
   title: "You Don't Have to Manage to Lead"

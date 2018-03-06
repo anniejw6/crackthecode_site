@@ -1,4 +1,4 @@
-# Current Max: 29
+# Current Max: 30
 
 - 
   id: 1
@@ -60,15 +60,27 @@
   id: 8
   name: "Michelle"
   surname: "Penson"
-  title: "Senior Strategist and Data Lead"
+  title: "Senior Strategist & Data Lead"
   company: "AFL-CIO"
-  thumbnailUrl: logos.png
-  # rockstar: true
-  # bio: >
-  #   Cristina Sinclaire recently joined Clarity Campaign Labs bringing 
-  # social: 
-  #   - {name: "twitter", link: "https://twitter.com/ninasin"}
-  #   - {name: "linkedin", link: "https://www.linkedin.com/in/cristinasinclaire"}
+  thumbnailUrl: michelle.jpg
+  rockstar: true
+  bio: >
+    Michelle Penson is a social justice activist, proud Communications Workers 
+    of America union member and leads the National Data and Analytics Team for 
+    the AFL-CIO. Her nine-person team is a part of the Data Analytics and 
+    Infrastructure Resource of the Federation and supports all of the work of 
+    the AFL-CIO, its state and local federations, and its 55 national member 
+    affiliates.</p>
+    <p>Prior to working for the AFL-CIO, she worked as the National 
+    Data Manager and then the National Data Director for the PICO National 
+    Network and before that was the New Mexico Data and Targeting Manager 
+    for America Votes and State Voices.</p>
+    <p>When she's not working, she spends as much time as possible finding 
+    reasons to use Global Entry and attempting to finish War and Peace. 
+    Her roots are in New Mexico but she currently calls Washington, D.C. home.  
+  social: 
+     - {name: "linkedin", link: "https://www.linkedin.com/in/michelle-penson"}
+  #   - {name: "linkedin", link: "https://www.linkedin.com/in/michelle-penson"}
 - 
   id: 9
   name: "Kate"
@@ -117,14 +129,19 @@
 
 - 
   id: 11
-  name: "Hilary"
+  name: "Hillary"
   surname: "Anderson"
-  title: ""
-  company: ""
-  thumbnailUrl: logos.png
-  # rockstar: true
-  # bio: >
-  #   Cristina Sinclaire recently joined Clarity Campaign Labs bringing 
+  title: "Account Executive"
+  company: "Catalist"
+  thumbnailUrl: hillary.jpg
+  rockstar: true
+  bio: >
+     Hillary Anderson is an Account Executive at Catalist. She has worked in 
+     progressive political data since 2014 starting out as the Voter File 
+     Manager for the Indiana Democratic. During the 2016 cycle, she was a 
+     Regional Targeting Director at the Democratic Congressional Campaign 
+     Committee. While growing her own skills, Hillary has trained others as a 
+     SQL instructor for Change the Game and as a volunteer for Black Girls Code.
   # social: 
   #   - {name: "twitter", link: "https://twitter.com/ninasin"}
   #   - {name: "linkedin", link: "https://www.linkedin.com/in/cristinasinclaire"}
@@ -163,6 +180,26 @@
   surname: "Akpan"
   title: "Client Success Manager"
   company: "Hustle"
+  thumbnailUrl: emma.jpg
+  rockstar: true
+  bio: >
+      Emma Akpan is her mother’s daughter, a wayward church girl, and her heart 
+      rests with Black girls everywhere. She loves organizing because we get to
+       connect the stuff that our people and community care most about with the 
+       powers that can tangibly address our concerns. She’s developed a passion 
+       in women’s reproductive health policy by volunteering at Planned 
+       Parenthood and frequently speaking at rallies and at the state 
+       legislature on reproductive health policy. In her work like she’s 
+       worked at the North Carolina state table, been an organizer at Planned 
+       Parenthood, and a data director at NextGen Climate. Currently she's on 
+       the team at Hustle.
+
+- 
+  id: 14
+  name: "Elyse"
+  surname: "Ross Weiss"
+  title: ""
+  company: ""
   thumbnailUrl: logos.png
   # rockstar: true
   # bio: >
@@ -172,11 +209,11 @@
   #   - {name: "linkedin", link: "https://www.linkedin.com/in/cristinasinclaire"}
 
 - 
-  id: 14
-  name: "Elyse"
-  surname: "Ross Weiss"
-  title: ""
-  company: ""
+  id: 30
+  name: "Karuna"
+  surname: "Koppula"
+  title: "Senior Political Associate"
+  company: "Analyst Institute"
   thumbnailUrl: logos.png
   # rockstar: true
   # bio: >
@@ -351,7 +388,7 @@
   #  - {name: "linkedin", link: "https://www.linkedin.com/in/riki-conrey"}
 - 
   id: 24
-  name: "Allison"
+  name: "Alison"
   surname: "Ge"
   title: ""
   company: "NextGen"
@@ -380,12 +417,17 @@
   surname: "Hendrick"
   title: "Regional Targeting Director"
   company: "Democratic Congressional Campaign Committee"
-  thumbnailUrl: logos.png
-  #rockstar: true
-  #bio: >
-  #  Riki is a computational social scientist with a focus on attitude
-  #social: 
-  #  - {name: "linkedin", link: "https://www.linkedin.com/in/riki-conrey"}
+  thumbnailUrl: stephanie.jpg
+  rockstar: true
+  bio: >
+    Stephanie is a progressive data professional who is motivated by using 
+    data to create stronger communities through organizing. She started out 
+    as a field organizer in Florida for Organizing for America and later 
+    Enroll America, has worked on local and statewide races as a data 
+    analyst in Florida and Virginia, and had the honor of being a States 
+    Analyst at Hillary for America for 23 presidential caucuses and primaries. 
+    Currently she's working on winning back the House. She loves trainings, 
+    her tripawd dog Rooney, and karaoke.
 
 - 
   id: 26
@@ -393,12 +435,18 @@
   surname: "Stollwerk"
   title: "Director, YouGov Blue"
   company: "YouGov"
-  thumbnailUrl: logos.png
-  #rockstar: true
-  #bio: >
-  #  Riki is a computational social scientist with a focus on attitude
-  #social: 
-  #  - {name: "linkedin", link: "https://www.linkedin.com/in/riki-conrey"}
+  thumbnailUrl: alissa.jpg
+  rockstar: true
+  bio: >
+    Alissa Stollwerk, PhD, is Director of YouGov Blue, where she helps 
+    Democrats and progressives leverage innovations in polling and online 
+    survey research to elect candidates up and down the ballot. Alissa has 
+    over a decade of experience in Democratic politics and is a veteran of 
+    the Analyst Institute and Hillary for America. She received her PhD in 
+    political science from Columbia University. When not asking her favorite 
+    survey questions online, she can be found chasing after her two daughters 
+    (ages 9 months and 3 years old) and teaching them all about 
+    smashing the patriarchy.
 
 - 
   id: 27

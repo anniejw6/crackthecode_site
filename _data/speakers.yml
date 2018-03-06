@@ -78,10 +78,9 @@
     <p>When she's not working, she spends as much time as possible finding 
     reasons to use Global Entry and attempting to finish War and Peace. 
     Her roots are in New Mexico but she currently calls Washington, D.C. home.  
-
-  # social: 
-  #   - {name: "twitter", link: "https://twitter.com/ninasin"}
-  #   - {name: "linkedin", link: "https://www.linkedin.com/in/cristinasinclaire"}
+  social: 
+     - {name: "linkedin", link: "https://www.linkedin.com/in/michelle-penson"}
+  #   - {name: "linkedin", link: "https://www.linkedin.com/in/michelle-penson"}
 - 
   id: 9
   name: "Kate"

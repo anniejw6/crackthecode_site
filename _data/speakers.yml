@@ -60,12 +60,25 @@
   id: 8
   name: "Michelle"
   surname: "Penson"
-  title: "Senior Strategist and Data Lead"
+  title: "Senior Strategist & Data Lead"
   company: "AFL-CIO"
-  thumbnailUrl: logos.png
-  # rockstar: true
-  # bio: >
-  #   Cristina Sinclaire recently joined Clarity Campaign Labs bringing 
+  thumbnailUrl: michelle.jpg
+  rockstar: true
+  bio: >
+    Michelle Penson is a social justice activist, proud Communications Workers 
+    of America union member and leads the National Data and Analytics Team for 
+    the AFL-CIO. Her nine-person team is a part of the Data Analytics and 
+    Infrastructure Resource of the Federation and supports all of the work of 
+    the AFL-CIO, its state and local federations, and its 55 national member 
+    affiliates.</p>
+    <p>Prior to working for the AFL-CIO, she worked as the National 
+    Data Manager and then the National Data Director for the PICO National 
+    Network and before that was the New Mexico Data and Targeting Manager 
+    for America Votes and State Voices.</p>
+    <p>When she's not working, she spends as much time as possible finding 
+    reasons to use Global Entry and attempting to finish War and Peace. 
+    Her roots are in New Mexico but she currently calls Washington, D.C. home.  
+
   # social: 
   #   - {name: "twitter", link: "https://twitter.com/ninasin"}
   #   - {name: "linkedin", link: "https://www.linkedin.com/in/cristinasinclaire"}

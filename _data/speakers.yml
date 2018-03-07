@@ -406,10 +406,19 @@
   company: "Wickr"
   thumbnailUrl: logos.png
   #rockstar: true
-  #bio: >
-  #  Riki is a computational social scientist with a focus on attitude
-  #social: 
-  #  - {name: "linkedin", link: "https://www.linkedin.com/in/riki-conrey"}
+  bio: >
+    Audra is currently the Political and Government Lead for Wickr, Inc - a 
+    best-in-class privacy communications company. Prior to joining Wickr, 
+    Audra spent over 14 years as a political operative and consultant, working 
+    on campaigns at every level. Audra has also spent time managing technical 
+    programs in the defense, corporate, and healthcare spheres. Her experience 
+    and training as an Intelligence Officer in the U.S. Army Reserves further 
+    inform her views on cybersecurity.</p>
+    <p>Originally from Sugar Land, TX, Audra graduated from the University of 
+    Texas at Austin with a BA in Government. She also received her Masters in 
+    Public Health from Washington University in St. Louis. 
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/audragrassia/"}
 
 - 
   id: 28

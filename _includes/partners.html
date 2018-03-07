@@ -20,11 +20,10 @@
             {% for partner in site.data.partners %}
                 <h5>{{ partner.group }}</h5>
 
-                {% if partner.group == 'Individuals' %}
+                {% if partner.type == 'Individuals' %}
                 <p style="margin-top:15px; margin-bottom:65px; font-size:120%;">
-                    {% for element in partner.elements %}
-                        {{element.name}},
-                    {% endfor %}
+                   {{ partner.elements | array_to_sentence_string }}
+                   
                 </p>
                 
                 {% else %}

@@ -1,22 +1,37 @@
 - 
-  group: "Organizations"
+  group: ""
   elements: 
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
+    - {name: "AMM Political", description: "AMM Political", link: "http://www.ammpolitical.com/contact/index.htm", imageUrl: "amm.jpg"}
+
 - 
-  group: "Individuals"
+  group: ""
   elements: 
-    - {name: "Stephanie Grasmick and Mike Sager"}
-    - {name: "John Lee"}
-    - {name: "Benjy Messner"}
-    - {name: "Nat Olin"}
-    - {name: "Ameer Patel"}
-    - {name: "Andy Richards, Deputy Director of Data, Analytics and Infrastructure, AFL-CIO"}
-    - {name: "Josh Rosmarin"}
-    - {name: "Seth Samuels"}
-    - {name: "Cristina Sinclaire"}
-    - {name: "Aaron Strauss"}
-    - {name: "Andrew Therriault"}
-    - {name: "Lena T"}
-    - {name: "Tony Whittaker"}
-    - {name: "Will Yates"}
+    - {name: "Camden Strategy", description: "Camden Strategy", link: "https://camdenstrategy.com/", imageUrl: "camden.jpg"}
+    - {name: "Rebel Analytics", description: "Rebel Analytics", link: "https://www.rebel-analytics.com/", imageUrl: "rebel.png"}
+    - {name: "The Pivot Group", description: "The Pivot Group", link: "http://www.thepivot.com/", imageUrl: "pivot.jpg"}
+    - {name: "BlueLabs", description: "BlueLabs", link: "http://www.bluelabs.com/", imageUrl: "bluelabs.png"}
+    # width: "300px; max-width:300px"
+- 
+  group: ""
+  type: "Individuals"
+  elements: [
+    "Haris Aqeel",
+    "Devin Brady",
+    "Ben Fuller",
+    "Stephanie Grasmick and Mike Sager",
+    "John Lee",
+    "John Malloy",
+    "Benjy Messner",
+    "Josh Nussbaum",
+    "Nat Olin",
+    "Ameer Patel",
+    "Andy Richards (Deputy Director of Data, Analytics and Infrastructure, AFL-CIO)",
+    "Josh Rosmarin",
+    "Seth Samuels",
+    "Cristina Sinclaire",
+    "Aaron Strauss",
+    "Andrew Therriault",
+    "Lena T",
+    "Tony Whittaker",
+    "Will Yates"
+  ]

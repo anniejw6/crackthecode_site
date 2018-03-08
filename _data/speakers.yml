@@ -1,4 +1,4 @@
-# Current Max: 32
+# Current Max: 33
 
 - 
   id: 1
@@ -182,12 +182,9 @@
      Regional Targeting Director at the Democratic Congressional Campaign 
      Committee. While growing her own skills, Hillary has trained others as a 
      SQL instructor for Change the Game and as a volunteer for Black Girls Code.
-  # social: 
-  #   - {name: "twitter", link: "https://twitter.com/ninasin"}
-  #   - {name: "linkedin", link: "https://www.linkedin.com/in/cristinasinclaire"}
 
 - 
-  id: 11
+  id: 33
   name: "Sonya"
   surname: "Reynolds"
   title: "Data Director / Principal / Treasurer / Vice Chair & VP of Diversity & Inclusion"

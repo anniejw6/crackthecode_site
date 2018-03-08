@@ -246,13 +246,14 @@
   surname: "Koppula"
   title: "Senior Political Associate"
   company: "Analyst Institute"
-  thumbnailUrl: logos.png
-  # rockstar: true
-  # bio: >
-  #   Cristina Sinclaire recently joined Clarity Campaign Labs bringing 
-  # social: 
-  #   - {name: "twitter", link: "https://twitter.com/ninasin"}
-  #   - {name: "linkedin", link: "https://www.linkedin.com/in/cristinasinclaire"}
+  thumbnailUrl: karuna.png
+  rockstar: true
+  bio: >
+    Karuna Koppula is a Senior Political Associate at the Analyst Institute, 
+    where she works with internal and external partners to deploy 
+    evidence-driven strategies. Before joining the Analyst Institute, Karuna was
+    a Field Director in her home district of CA-10 and a Field Organizer for 
+    President Obama`s re-election campaign in Ohio.
 
 - 
   id: 15
@@ -272,15 +273,18 @@
   id: 15
   name: "Kim"
   surname: "Davidson"
-  title: "Agile Project Manager/Product Manager/Service Area Lead"
+  title: "Agile Project Manager"
   company: "CivicActions"
-  thumbnailUrl: logos.png
-  # rockstar: true
-  # bio: >
-  #   Cristina Sinclaire recently joined Clarity Campaign Labs bringing 
-  # social: 
-  #   - {name: "twitter", link: "https://twitter.com/ninasin"}
-  #   - {name: "linkedin", link: "https://www.linkedin.com/in/cristinasinclaire"}
+  thumbnailUrl: kim.png
+  rockstar: true
+  bio: >
+    Kim Davidson is an Agile Project Manager at CivicActions, an agency that 
+    builds open source solutions for government agencies at all levels. She is 
+    currently CivicActions' Open Data Lead and product manager of DKAN, an open 
+    source open data application. Previously, she worked at Advomatic, managing 
+    open source technology projects for progressive nonprofits. And before that, 
+    she was Community Manager at Idealist.org. Outside of work, Kim also teaches 
+    a weekly Tahitian dance class and microwaves things from Trader Joe's.
 
 - 
   id: 16

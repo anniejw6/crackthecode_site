@@ -1,4 +1,4 @@
-# Current Max: 33
+# Current Max: 34
 
 - 
   id: 1
@@ -519,6 +519,20 @@
     analytics programs for Florida, North Carolina, Nevada and Colorado.
   social: 
     - {name: "twiter", link: "http:///www.twitter.com/fpereyra"}
+
+- 
+  id: 32
+  name: "Anna"
+  surname: "Gilbert"
+  title: "Owner"
+  company: "Marion Street Strategies"
+  thumbnailUrl: logos.png
+  # rockstar: true
+  # bio: >
+  #   Cristina Sinclaire recently joined Clarity Campaign Labs bringing 
+  # social: 
+  #   - {name: "twitter", link: "https://twitter.com/ninasin"}
+  #   - {name: "linkedin", link: "https://www.linkedin.com/in/cristinasinclaire"}
 
 - 
   id: 3

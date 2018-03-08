@@ -1,4 +1,4 @@
-# Current Max: 30
+# Current Max: 32
 
 - 
   id: 1
@@ -23,24 +23,26 @@
   id: 2
   name: "Amanda"
   surname: "Coulombe"
-  title: "General Manager, Organizing"
+  title: "General Manager of Organizing"
   company: "NGP VAN"
-  thumbnailUrl: logos.png
-  # rockstar: true
-  # bio: >
-  #   Cristina Sinclaire recently joined Clarity Campaign Labs bringing 
-  #   high-quality analytics to campaigns and organizations of all sizes. 
-  #   Previously she served as Director of Client Services at Catalist, the 
-  #   progressive movement's data utility. Prior to that she researched 
-  #   voting laws and built civic data tools at the New Organizing Institute. 
-  #   She has managed electoral campaigns and organized communities from 
-  #   California to South Africa. She sits on the Boards of National 
-  #   Public Radio, the Center for Technology and Civic Life, the Alliance 
-  #   for CHANGE, and the Earthward Bound Foundation. In her spare time 
-  #   Cristina travels, plays cribbage, dances and chases her next favorite meal.
-  #social: 
-  #  - {name: "twitter", link: "https://twitter.com/ninasin"}
-  #  - {name: "linkedin", link: "https://www.linkedin.com/in/cristinasinclaire"}
+  thumbnailUrl: amanda.jpg
+  rockstar: true
+  bio: >
+    Amanda is the General Manager of Organizing at NGP VAN. Previously, she 
+    spent five years in our Product department, working with national and 
+    international clients to improve and develop new features, and eventually 
+    leading the team that helps campaigns and organizations maximize NGP VAN’s 
+    organizing tools to win in the field. Amanda believes strongly in marrying 
+    new technology with traditional organizing best practices to achieve 
+    efficient, grassroots-driven field campaigns. She has also spent more 
+    than a decade working in field and get out the vote (GOTV) operations on 
+    local, state, and national campaigns, including as the Statewide GOTV 
+    Director for both Senator Elizabeth Warren and Senator Ed Markey in her 
+    home state of Massachusetts. In her spare time, Amanda loves to read, 
+    travel, and shamelessly devour any Bravo reality show with her dog, Rondo.
+  social: 
+    - {name: "twitter", link: "https://twitter.com/amandacoulombe"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/amanda-coulombe/"}
 
 - 
   id: 6
@@ -94,6 +96,44 @@
   # social: 
   #   - {name: "twitter", link: "https://twitter.com/ninasin"}
   #   - {name: "linkedin", link: "https://www.linkedin.com/in/cristinasinclaire"}
+
+- 
+  id: 12
+  name: "Becca"
+  surname: "Siegel"
+  title: "Data Scientist"
+  company: "BlueLabs"
+  thumbnailUrl: logos.png
+  # rockstar: true
+  # bio: >
+  #   Cristina Sinclaire recently joined Clarity Campaign Labs bringing 
+  # social: 
+  #   - {name: "twitter", link: "https://twitter.com/ninasin"}
+  #   - {name: "linkedin", link: "https://www.linkedin.com/in/cristinasinclaire"}
+
+- 
+  id: 32
+  name: "Robin"
+  surname: "Terry"
+  title: "Operations Lead"
+  company: "General Assembly"
+  thumbnailUrl: robin.png
+  rockstar: true
+  bio: >
+    Robin Terry is the current Operations Lead and Marketing Producer for 
+    General Assembly, the leading global education startup that specializes in 
+    the most in-demand skills in technology, marketing, and data. While pursuing 
+    her undergrad degree in International Relations at the University of 
+    Arkansas, she spent semesters abroad in Paris, Cannes and New York
+    University, where she further honed her French language abilities and 
+    diplomacy skills. Robin received a Master's in Global Communication from 
+    the Elliott School of International Affairs at George Washington 
+    University, which led to her first post in Digital Communications at the 
+    U.S. Department of State in the Secretary's Cabinet. Prior to her current 
+    role at General Assembly, she served as Communications Advisor to the 
+    White House Initiative on Asian Americans and Pacific Islanders. 
+    In addition to being a communications and marketing leader, Robin loves 
+    wine and snow boarding.
 
 - 
   id: 29
@@ -152,27 +192,21 @@
   surname: "Reynolds"
   title: "Data Director / Principal / Treasurer / Vice Chair & VP of Diversity & Inclusion"
   company: "Colibri Labs / NY Civic Engagement Table / Progressive HackNight / OSDI"
-  thumbnailUrl: logos.png
-  # rockstar: true
-  # bio: >
-  #   Cristina Sinclaire recently joined Clarity Campaign Labs bringing 
-  # social: 
-  #   - {name: "twitter", link: "https://twitter.com/ninasin"}
-  #   - {name: "linkedin", link: "https://www.linkedin.com/in/cristinasinclaire"}
-
-- 
-  id: 12
-  name: "Becca"
-  surname: "Siegel"
-  title: "Data Scientist"
-  company: "BlueLabs"
-  thumbnailUrl: logos.png
-  # rockstar: true
-  # bio: >
-  #   Cristina Sinclaire recently joined Clarity Campaign Labs bringing 
-  # social: 
-  #   - {name: "twitter", link: "https://twitter.com/ninasin"}
-  #   - {name: "linkedin", link: "https://www.linkedin.com/in/cristinasinclaire"}
+  thumbnailUrl: sonya.jpg
+  rockstar: true
+  bio: >
+    Sonya has been putting her data expertise to use supporting grassroots 
+    organizing for over 7 years.  She has served on the steering committees 
+    of both Progressive Hacknight and Participatory Budgeting (PB) NYC, is a 
+    member of the North American PB Research Board, is the acting chair of 
+    OSDI, the co-chair of the PBNYC Citywide Committee and is a Data Security 
+    and Privacy trainer for Justice Works Conference and NYC Stronger 
+    Communities, a project of Research Action Design (RAD), Mozilla Foundation, 
+    and New York City Mayor’s Office of Immigrant Affairs (MOIA.)
+  social: 
+     - {name: "linkedin", link: "https://www.linkedin.com/in/sonyabreynolds"}
+     - {name: "site", link: "http://www.progressivehacknight.org/"}
+     - {name: "site", link: "http://nycet.org/staff/"}
 
 - 
   id: 13
@@ -469,6 +503,25 @@
   #  Riki is a computational social scientist with a focus on attitude
   #social: 
   #  - {name: "linkedin", link: "https://www.linkedin.com/in/riki-conrey"}
+
+- 
+  id: 31
+  name: "Felicity"
+  surname: "Pereyra"
+  title: "Director of Data"
+  company: "Democratic National Committee"
+  thumbnailUrl: logos.png
+  rockstar: true
+  bio: >
+    Felicity Pereyra is a native of Houston, TX and has spent the last 10 years 
+    working on electoral campaigns up and down the ballot.  She got her start 
+    as a field organizer for a local county Democratic Party, and spent years 
+    as an organizer before moving into electoral analytics while on the 2012 
+    Obama campaign in Colorado.  Most recently, she was an Analytics Lead on 
+    the 2016 Hillary Clinton presidential election where she oversaw the states 
+    analytics programs for Florida, North Carolina, Nevada and Colorado.
+  social: 
+    - {name: "twiter", link: "http:///www.twitter.com/fpereyra"}
 
 - 
   id: 3

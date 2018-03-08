@@ -88,14 +88,23 @@
   name: "Kate"
   surname: "Dahl"
   title: "National Data & Analytics Director"
-  company: "For Our Future"
-  thumbnailUrl: logos.png
-  # rockstar: true
-  # bio: >
-  #   Cristina Sinclaire recently joined Clarity Campaign Labs bringing 
-  # social: 
+  company: "For Our Future & For Our Future Action Fund"
+  thumbnailUrl: kate.jpg
+  rockstar: true
+  bio: >
+    Kate has been working in progressive data for the better part of a decade – 
+    currently she’s the National Data and Analytics Director with For Our 
+    Future, one of the largest independent expenditure organizations that 
+    focuses on face-to-face conversations with voters about the issues that 
+    matter most. Kate got her start in the data world as Summer Organizing 
+    fellow for OFA and ran from there. Other previous roles include President 
+    Obama’s 2012 Reelection campaign, the 2013 Presidential Inaugural committee, 
+    Enroll America, and Blue Labs. In her spare time, she thinks about her true 
+    loves – strong management, efficient data infrastructure, and engaging data 
+    visualizations.
+  social: 
   #   - {name: "twitter", link: "https://twitter.com/ninasin"}
-  #   - {name: "linkedin", link: "https://www.linkedin.com/in/cristinasinclaire"}
+     - {name: "linkedin", link: "https://www.linkedin.com/in/kate-dahl-9aa62228/"}
 
 - 
   id: 12

@@ -1,4 +1,4 @@
-# Current Max: 34
+# Current Max: 35
 
 - 
   id: 1
@@ -139,15 +139,16 @@
   id: 29
   name: "Angelica"
   surname: "Morales"
-  title: "Independent Consultant"
-  company: ""
-  thumbnailUrl: logos.png
-  # rockstar: true
-  # bio: >
-  #   Cristina Sinclaire recently joined Clarity Campaign Labs bringing 
-  # social: 
-  #   - {name: "twitter", link: "https://twitter.com/ninasin"}
-  #   - {name: "linkedin", link: "https://www.linkedin.com/in/cristinasinclaire"}
+  title: "Data Scientist"
+  company: "Self-Employed"
+  thumbnailUrl: angelica.png
+  rockstar: true
+  bio: >
+     Angelica Morales is an Data Scientist and has worked for many organizations 
+     including labor unions, the Analyst Institute and other organizations. 
+     She specializes in managing and implementing experimental designs. She is 
+     passionate about making experiments more accessible to the progressive 
+     community. When she is not working, she likes to bake and salsa dance.
 
 - 
   id: 10
@@ -524,15 +525,41 @@
   id: 34
   name: "Anna"
   surname: "Gilbert"
-  title: "Owner"
+  title: "Founder // Data & Analytics Consultant"
   company: "Marion Street Strategies"
-  thumbnailUrl: logos.png
-  # rockstar: true
-  # bio: >
-  #   Cristina Sinclaire recently joined Clarity Campaign Labs bringing 
-  # social: 
-  #   - {name: "twitter", link: "https://twitter.com/ninasin"}
-  #   - {name: "linkedin", link: "https://www.linkedin.com/in/cristinasinclaire"}
+  thumbnailUrl: agilbert.jpg
+  rockstar: true
+  bio: >
+    Anna Gilbert is an independent data and analytics consultant. Prior to 
+    going out on her own, Anna built and lead a data team for Slate Magazine.
+    She has worked on the data teams for Civis Analytics and Enroll America.
+    Her political career started in Portland, Oregon with local campaigns, 
+    followed by working for President Obama's reelection campaign in Ohio. 
+    Anna holds an MBA from the Smith School of Business at the University of 
+    Maryland and BA from Grinnell College.  She hails from Charlotte, NC and 
+    currently lives in Washington, DC.  She has visited all 50 states and 
+    loves to travel to new places.
+  social: 
+     - {name: "linkedin", link: "https://www.linkedin.com/in/annagilbert/"}
+
+- 
+  id: 35
+  name: "Taylor"
+  surname: "Brooks"
+  title: "Analyst"
+  company: "Analyst Institute"
+  thumbnailUrl: taylor.jpg
+  rockstar: true
+  bio: >
+    Taylor is currently an Analyst at Analyst Institute where she works to 
+    create and disseminate evidence-based best practices for voter engagement 
+    and issue advocacy, often through experiments. Prior to joining Analyst 
+    Institute, Taylor attended Cornell University where she earned a BS in 
+    Policy Analysis & Management and a minor in Inequality Studies. Taylor has
+     engaged with the political world as a finance intern on the Nate Shinagawa 
+     congressional campaign and as a United States House of 
+     Representatives Page. When she is not working, Taylor enjoys creating 
+     playlists, crabbing, and watching reruns of House Hunters.
 
 - 
   id: 3

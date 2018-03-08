@@ -50,7 +50,7 @@
   surname: "Rakhit"
   title: "Senior Product Manager, TurboVote"
   company: "Democracy Works"
-  thumbnailUrl: logos.png
+  thumbnailUrl: esha.png
   # rockstar: true
   # bio: >
   #   Cristina Sinclaire recently joined Clarity Campaign Labs bringing 
@@ -194,15 +194,15 @@
   company: "Colibri Labs / NY Civic Engagement Table / Progressive HackNight / OSDI"
   thumbnailUrl: sonya.jpg
   rockstar: true
-  bio: >
-    Sonya has been putting her data expertise to use supporting grassroots 
-    organizing for over 7 years.  She has served on the steering committees 
-    of both Progressive Hacknight and Participatory Budgeting (PB) NYC, is a 
-    member of the North American PB Research Board, is the acting chair of 
-    OSDI, the co-chair of the PBNYC Citywide Committee and is a Data Security 
-    and Privacy trainer for Justice Works Conference and NYC Stronger 
-    Communities, a project of Research Action Design (RAD), Mozilla Foundation, 
-    and New York City Mayor’s Office of Immigrant Affairs (MOIA.)
+  # bio: >
+  #   Sonya has been putting her data expertise to use supporting grassroots 
+  #   organizing for over 7 years.  She has served on the steering committees 
+  #   of both Progressive Hacknight and Participatory Budgeting (PB) NYC, is a 
+  #   member of the North American PB Research Board, is the acting chair of 
+  #   OSDI, the co-chair of the PBNYC Citywide Committee and is a Data Security 
+  #   and Privacy trainer for Justice Works Conference and NYC Stronger 
+  #   Communities, a project of Research Action Design (RAD), Mozilla Foundation, 
+  #   and New York City Mayor’s Office of Immigrant Affairs (MOIA.)
   social: 
      - {name: "linkedin", link: "https://www.linkedin.com/in/sonyabreynolds"}
      - {name: "site", link: "http://www.progressivehacknight.org/"}

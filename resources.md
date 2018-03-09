@@ -12,9 +12,10 @@ Contact [Cristina Sinclaire](mailto:cristina.sinclaire@gmail.com) if you want to
 
 Please note that we have not reviewed every single resource below, and we do not endorse the entirety of the content listed below. We have either used these resources personally, or they have been recommended to us by other users. If you want to add more resources, please add them as issues [here](https://github.com/anniejw6/crackthecodesite).
 
-##### Working in Progressive Politics
+##### Working for Progressive Organizations
 
 * [Progressive Data Jobs](https://www.progressivedatajobs.org/) - specific website / listserv for jobs in progressive data and analytics
+* [Code for America Job Site](https://jobs.codeforamerica.org/) - Code for America
 * [Jobs that are LEFT](https://groups.google.com/forum/#!forum/jobsthatareleft) and [Wellstone Jobs](https://groups.google.com/forum/#!forum/noi-jobs) - general listservs for jobs, not specific data or analytics
 * [Inclusv](http://www.inclusv.com/) - job bank for people of color
 * [Shine Squad](http://shinesquad.org/) - "a space for story sharing, expressing needs, and action taking" related to discrimination in the workplace

@@ -112,13 +112,20 @@
   surname: "Siegel"
   title: "Data Scientist"
   company: "BlueLabs"
-  thumbnailUrl: logos.png
-  # rockstar: true
-  # bio: >
-  #   Cristina Sinclaire recently joined Clarity Campaign Labs bringing 
-  # social: 
-  #   - {name: "twitter", link: "https://twitter.com/ninasin"}
-  #   - {name: "linkedin", link: "https://www.linkedin.com/in/cristinasinclaire"}
+  thumbnailUrl: becca.jpg
+  rockstar: true
+  bio: >
+     Becca has worked in progressive politics since 2008. A Colorado-native and 
+     graduate of Stanford University, she has served on campaigns at all levels, 
+     including leading the analytics team in Ohio for Hillary Clinton’s 2016 
+     presidential bid. This year, she will complete her masters degree at 
+     Columbia University, studying applied statistics. At BlueLabs since 2015, 
+     Becca works with organizations, companies, and campaigns of all sizes to 
+     build and implement analytic products and provide strategic data 
+     consulting. She helped Ralph Northam and Virginia Democrats win elections 
+     in 2017, and recently had work featured in <i>The Washington Post</i> and 
+     <i>Cosmopolitan</i>. She has worked on three presidential campaigns, 
+     played in two bluegrass bands, and fallen - accidentally - in one manhole.
 
 - 
   id: 32

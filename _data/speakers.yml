@@ -248,13 +248,18 @@
   surname: "Ross Weiss"
   title: ""
   company: ""
-  thumbnailUrl: logos.png
+  thumbnailUrl: elyse.png
   # rockstar: true
-  # bio: >
-  #   Cristina Sinclaire recently joined Clarity Campaign Labs bringing 
-  # social: 
-  #   - {name: "twitter", link: "https://twitter.com/ninasin"}
-  #   - {name: "linkedin", link: "https://www.linkedin.com/in/cristinasinclaire"}
+  bio: >
+     Elyse started her political data career on the 2012 OFA-Ohio Data Team. 
+     She then joined the 2014 North Carolina Coordinated Campaign as Data 
+     Director. After that, she joined Civis Analytics, working on political, 
+     non-profit, and government projects, before moving to Philadelphia last 
+     summer. Since, she has worked as a consultant, helping a diverse array 
+     of clients get their data from Point A to Point B, combining it along the 
+     way, and make data-driven decisions. In her free time, Elyse consumes 
+     most of the terrible reality television available, while also enjoying the 
+     amazing restaurants Philadelphia has to offer.
 
 - 
   id: 30
@@ -416,12 +421,21 @@
   id: 22
   name: "Jennifer"
   surname: "Willis"
-  title: "Product Manager"
+  title: "Technical Product Manager"
   company: "NGP VAN"
-  thumbnailUrl: logos.png
-  #rockstar: true
-  #bio: >
-  #  Riki is a computational social scientist with a focus on attitude
+  thumbnailUrl: jennifer.jpg
+  rockstar: true
+  bio: >
+    Jennifer Willis is a Product Manager for Organizing for NGP VAN - the 
+    leading technology provider to Democratic and progressive campaigns, 
+    organizations, and non-profits - where her focus is supporting field 
+    campaigns. For the better part of a decade, her focus, and passion, 
+    has been creating tools to increase field operation efficiency and 
+    tracking voter turnout. Jennifer has a long history of working on and 
+    consulting for political campaigns, including Elizabeth Warren's 2012 
+    Senate campaign. In her spare time she is an evangelist for MiniVAN and 
+    is an avid traveler - if you ask nicely, she may tell you where to find 
+    the best macarons.
   #social: 
   #  - {name: "linkedin", link: "https://www.linkedin.com/in/riki-conrey"}
 

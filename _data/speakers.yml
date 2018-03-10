@@ -51,11 +51,14 @@
   title: "Senior Product Manager, TurboVote"
   company: "Democracy Works"
   thumbnailUrl: esha.png
-  # rockstar: true
-  # bio: >
-  #   Cristina Sinclaire recently joined Clarity Campaign Labs bringing 
-  # social: 
-  #   - {name: "twitter", link: "https://twitter.com/ninasin"}
+  rockstar: true
+  bio: >
+     Esha is a product manager with eight years of experience in the 
+     progressive tech space. She spends most of her non-spare time thinking 
+     about elections, end users of tools, and how to best serve both. Esha also 
+     enjoys painting, NPR, and escapist fiction. 
+  social: 
+     - {name: "site", link: "https://esha-rakhit.com"}
   #   - {name: "linkedin", link: "https://www.linkedin.com/in/cristinasinclaire"}
 
 - 

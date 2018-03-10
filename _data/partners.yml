@@ -10,6 +10,7 @@
     - {name: "Rebel Analytics", description: "Rebel Analytics", link: "https://www.rebel-analytics.com/", imageUrl: "rebel.png"}
     - {name: "The Pivot Group", description: "The Pivot Group", link: "http://www.thepivot.com/", imageUrl: "pivot.jpg"}
     - {name: "BlueLabs", description: "BlueLabs", link: "http://www.bluelabs.com/", imageUrl: "bluelabs.png"}
+    - {name: "Clarity Campaign Labs", description: "Clarity Campaign Labs", link: "http://www.claritycampaigns.com/", imageUrl: "clarity2.jpg"}
     # width: "300px; max-width:300px"
 - 
   group: ""

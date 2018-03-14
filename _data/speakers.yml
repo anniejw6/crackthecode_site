@@ -459,26 +459,43 @@
   id: 23
   name: "Emily"
   surname: "Norman"
-  title: "VP, Analytics"
+  title: "Vice President, Analytics"
   company: "Global Strategy Group"
-  thumbnailUrl: logos.png
-  #rockstar: true
-  #bio: >
-  #  Riki is a computational social scientist with a focus on attitude
-  #social: 
-  #  - {name: "linkedin", link: "https://www.linkedin.com/in/riki-conrey"}
+  thumbnailUrl: emily.jpg
+  rockstar: true
+  bio: >
+    Emily is currently the Vice President and head of Analytics at Global 
+    Strategy Group after founding the practice in 2016. Emily started off her 
+    career working at McKinsey & Company, specializing in consumer insights 
+    and predictive modeling. In 2010, she took that experience to the 
+    Democratic National Committee (DNC) where she oversaw analytics and 
+    polling for all targeted races in the west and southwest regions. She 
+    left the DNC only to become a founding member of Obama’s 2012 analytics 
+    team heading national constituency analytics and finishing the cycle as 
+    the Data Director in Colorado. Emily recently completed a Master’s of 
+    Public Policy at the Harvard Kennedy School of Government, while 
+    simultaneously consulting on a variety of analytics projects for clients, 
+    including the United Nations High Commission on Refugees, Oscar Health, 
+    EMILY’s List, the AFL-CIO, and Hillary for America.
+
 - 
   id: 24
   name: "Alison"
   surname: "Ge"
-  title: ""
+  title: "Rising Data Director"
   company: "NextGen"
-  thumbnailUrl: logos.png
-  #rockstar: true
-  #bio: >
-  #  Riki is a computational social scientist with a focus on attitude
-  #social: 
-  #  - {name: "linkedin", link: "https://www.linkedin.com/in/riki-conrey"}
+  thumbnailUrl: alison.png
+  rockstar: true
+  bio: >
+    Alison manages the data component of NextGen's Rising Program - the 
+    ten-state electoral effort focused on youth voter registration, 
+    motivation, and turnout. In a previous role with NextGen in 2017, she 
+    worked to engage college students all over Virginia, one petting zoo and 
+    one giant unicorn float at a time. Prior to her work at NextGen and Hillary 
+    for America (Ohio), Alison worked in economic consulting, specializing in 
+    anti-trust policy and anti-competitive litigation. In her spare time, 
+    Alison serves as a counselor an on after-abortion healing talkline and 
+    teaches aerial arts.
 - 
   id: 25
   name: "Audra"
@@ -543,13 +560,20 @@
   name: "Cara"
   surname: "Feldkamp"
   title: "Deputy Director of Data and Analytics"
-  company: "NYC Public Engagement Unit"
-  thumbnailUrl: logos.png
-  #rockstar: true
-  #bio: >
-  #  Riki is a computational social scientist with a focus on attitude
-  #social: 
-  #  - {name: "linkedin", link: "https://www.linkedin.com/in/riki-conrey"}
+  company: "Public Engagement Unit (NYC Government)"
+  thumbnailUrl: cara.jpg
+  rockstar: true
+  bio: >
+    Cara Feldkamp currently serves as the Deputy Director of Data and Analytics 
+    at the NYC Mayor's Public Engagement Unit. In her current role, she 
+    utilizes data-driven strategies to help shape a series of vital homelessness 
+    prevention and outreach programs aimed at helping New Yorkers in need 
+    access City services. Cara started her career as a field organizer on 
+    Barack Obama's 2012 campaign in her home state of Colorado. Soon after, 
+    Cara moved into the data and analytics field and went on to work in 
+    political data, consulting, and now government. Cara has a BA in 
+    International Political Economy from Colorado College and lives in 
+    Brooklyn, New York. 
 
 - 
   id: 31

@@ -399,6 +399,27 @@
     - {name: "github", link: "https://github.com/UpliftDAT"}
 
 - 
+  id: 36
+  name: "Olivia"
+  surname: "Robinson"
+  title: "Political Analyst"
+  company: "Analyst Institute"
+  thumbnailUrl: olivia.jpg
+  rockstar: true
+  bio: >
+    Olivia Robinson joined AI as an intern in 2015, was a Political Associate 
+    during the 2016 cycle, and is now a Political Analyst. She continues to 
+    wear many hats at AI -- she analyzes experiments, builds tools to make 
+    experimentation easier, and helps manage the Analyst Group. She is 
+    passionate about making research useful and easy to understand, 
+    especially for traditionally under-resourced groups that may not be able 
+    to run experiments.  Olivia graduated Phi Beta Kappa from Washington 
+    University in St. Louis, where she organized for racial and economic 
+    justice with the Fight for 15 campaign and St. Louis Students in 
+    Solidarity. Olivia speaks conversational Mandarin, obsesses over sci-fi 
+    TV shows and podcasts, and is better than you at ultimate frisbee.
+
+- 
   id: 22
   name: "Jennifer"
   surname: "Willis"

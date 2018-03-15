@@ -133,18 +133,6 @@
     wine and snow boarding.
 
 - 
-  id: 36
-  name: "Rabia"
-  surname: "Syed"
-  title: "Director of Technology and Systems"
-  company: "Center for Popular Democracy"
-  thumbnailUrl: logos.png
-  #rockstar: true
-  #bio: >
-  #  Taylor is currently an Analyst at Analyst Institute where she works to 
-  #  create and disseminate evidence-based best practices for voter engagement
-
-- 
   id: 29
   name: "Angelica"
   surname: "Morales"

@@ -89,7 +89,7 @@
   subtype: workshop
   service: custom
   colorline: true
-  speakers: [3, 4, 5, 8, 18]
+  speakers: [3, 4, 5, 8, 18, 24]
 -
   id: 010
   title: "Networking Session"

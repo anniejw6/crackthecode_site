@@ -153,7 +153,7 @@ ticketsOffers:
   #ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2018-02-11T00:00"
   validThrough: "2018-03-15T23:59"
-  disabled: false
+  disabled: true
 
 # Footer
 socialLinks:

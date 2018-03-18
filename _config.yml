@@ -64,9 +64,9 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Crack the Code: </br> <typeout>"
+heroTitle: "Crack the Code 2018: </br> Thanks for coming!" # <typeout>
 eventDate: "Saturday March 17, 2018"
-typeoutTextValues: '"", "2018", "New York City", "Equity and Inclusion"'
+# typeoutTextValues: '"", "2018", "New York City", "Equity and Inclusion"'
 typeoutFallback: "2018"
 heroButtons:
  - {link: "/blog/call-for-speakers", text: "Become a speaker"}
@@ -140,20 +140,20 @@ partnersC4sponsorsButton: "Become a sponsor"
 # Tickets Block
 ticketsTitle: "Registration"
 ticketsInfo: "Saturday, March 17th, 2018"
-ticketsOffers:
- -
-  name: "General"
-  price: "Free"
-  priceCurrency: ""
-  ticketsNumber: "100"
-  ribbon: "-20%"
-  featured: true
-  buyButtonLink: "https://goo.gl/uVSVHh"
-  buyButtonText: "Register Now"
-  #ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2018-02-11T00:00"
-  validThrough: "2018-03-15T23:59"
-  disabled: true
+# ticketsOffers:
+#  -
+#   name: "General"
+#   price: "Free"
+#   priceCurrency: ""
+#   ticketsNumber: "100"
+#   ribbon: "-20%"
+#   featured: true
+#   buyButtonLink: "https://goo.gl/uVSVHh"
+#   buyButtonText: "Register Now"
+#   #ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+#   validFrom: "2018-02-11T00:00"
+#   validThrough: "2018-03-15T23:59"
+#   disabled: true
 
 # Footer
 socialLinks:

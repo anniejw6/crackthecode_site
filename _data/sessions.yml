@@ -43,21 +43,21 @@
   title: "Lightning Talks"
   description: >
     Short talks on a variety of topics: <br>
-    <br>- 1:1 Best Practices for Managers and Managees (Elyse Ross Weiss)
-    <br>- Breaking through the Jargon (Karuna Koppula)
-    <br>- How to Choose Your Next Adventure (Laila El Gohary)
-    <br>- Plan, Prep, Trust and Verify: How to Effectively Grow the 
-    Technical Skills of Junior Staff (Cindy Sui)
-    <br>- Code Hopper (Olivia Robinson and Annie J. Wang)
-    <br>- Batch Endorsements on ActionKit (Maya Yair)
     <br>- Perfecting Persuasion: How Optimization; Deep Nets; and Big, Messy 
     Data are Transforming Messaging into Conversation (Riki Conrey)
-    <br>- Have Better Meetings. Get More Done. (Kim Davidson)
+    <br>- Plan, Prep, Trust and Verify: How to Effectively Grow the 
+    Technical Skills of Junior Staff (Cindy Sui)
     <br>- Using Cluster Analysis to Inform Segmentation (Molly Graepel & Lauren Barth)
+    <br>- Batch Endorsements on ActionKit (Maya Yair)
+    <br>- 1:1 Best Practices for Managers and Managees (Elyse Ross Weiss)
     <br>- Using Machine Learning to Predict College Persistence (Kim Lammers)
+    <br>- Where every day is Election Day (Bridgit Donnelly)
+    <br>- Code Hopper (Olivia Robinson and Annie J. Wang)
+    <br>- Breaking through the Jargon (Karuna Koppula)
+    <br>- Have Better Meetings. Get More Done. (Kim Davidson)
   subtype: workshop
   service: custom
-  speakers: [14, 30, 15, 16, 17, 18, 19, 20, 21, 36]
+  speakers: [14, 30, 15, 16, 17, 18, 19, 20, 21, 36, 37]
 -
   id: 006
   title: "You Don't Have to Manage to Lead"

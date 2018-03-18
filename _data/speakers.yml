@@ -1,4 +1,4 @@
-# Current Max: 36
+# Current Max: 37
 
 - 
   id: 1
@@ -259,20 +259,6 @@
 
 - 
   id: 15
-  name: "Laila"
-  surname: "El Gohary"
-  title: ""
-  company: ""
-  thumbnailUrl: logos.png
-  # rockstar: true
-  # bio: >
-  #   Cristina Sinclaire recently joined Clarity Campaign Labs bringing 
-  # social: 
-  #   - {name: "twitter", link: "https://twitter.com/ninasin"}
-  #   - {name: "linkedin", link: "https://www.linkedin.com/in/cristinasinclaire"}
-
-- 
-  id: 15
   name: "Kim"
   surname: "Davidson"
   title: "Agile Project Manager"
@@ -343,6 +329,28 @@
     and anything else she finds lying around.
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/riki-conrey"}
+
+- 
+  id: 37
+  name: "Bridgit"
+  surname: "Donnelly"
+  title: "Director of Data and Analytics"
+  company: "NYC Mayor’s Public Engagement Unit"
+  thumbnailUrl: bridgit.jpg
+  rockstar: true
+  bio: >
+    Bridgit Donnelly is the Director of Data & Analytics for the NYC Mayor’s 
+    Public Engagement Unit. Her team supports proactive, data-driven outreach 
+    programs that help New Yorkers acquire city services, such as healthcare 
+    and housing resources. Prior to joining city government, Bridgit spent 
+    seven years in the political campaign space, most recently for Hillary 
+    for America as the data science project manager and head of the early 
+    vote data program. She also has run a number of data trainings over the 
+    last several years, starting with the New Organizing Institute as their 
+    Data Training Manager. Bridgit has an MS in Computational Analysis and 
+    Public Policy from the University of Chicago and a BA in Political Science 
+    from Barnard University. In her spare time, you’ll find Bridgit cooking her 
+    latest Blue Apron meal or traveling and exploring new cities. 
 
 - 
   id: 19

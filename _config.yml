@@ -53,6 +53,7 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
+ - {permalink: "/talks/", text: "Talks"}
  - {permalink: "/resources/", text: "Resources"}
 
 # - {permalink: "/blog/", text: "Blog"}

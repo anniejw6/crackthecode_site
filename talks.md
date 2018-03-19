@@ -10,7 +10,7 @@ Here are some of the slides from the awesome lighting talks!
 
 Technical:
 
-* [Perfecting Persuasion: How Optimization; Deep Nets; and Big, Messy Data are Transforming Messaging into Conversation](https://rikiconrey.github.io/clustering_presentation.html) - Riki Conway
+* [Perfecting Persuasion: How Optimization; Deep Nets; and Big, Messy Data are Transforming Messaging into Conversation](https://rikiconrey.github.io/clustering_presentation.html) - Riki Conrey
 * [Using Machine Learning to Predict College Persistence](https://docs.google.com/presentation/d/10fdp8RCE_NegTjUMvAagiMGoDrBWWklCwt-mS1hRQrk/edit#slide=id.g358b06d38e_0_139) - Kim Lammers
 
 Non-Technical:

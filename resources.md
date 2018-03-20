@@ -23,10 +23,17 @@ Please note that we have not reviewed every single resource below, and we do not
 * [So you want to work in progressive analytics...](https://www.guide.progressivedatajobs.org/) - guide to getting a job in analytics, featuring how to write a resume, pass a phone interview, and ace a coding test
 * [Resume Writing: Telling Your Story](https://medium.com/@hereiskass/resume-writing-telling-your-story-bf754cc3beb0) - an essay by Kassia DeVorsey on how to write a great resume
 
-##### Learning Hard Skills
+##### Learning Technical Skills
 
 * [How to Learn How to Code](https://github.com/JessicaGarson/Crack-the-Code-Talk), Jess Garson (slides from Crack the Code 2016)
 * [Hear Me Code](http://hearmecode.com/) - "Free, beginner-friendly coding classes for over 2000 women in DC"
+* [Code Academy](https://www.codecademy.com/)
+* [Data Camp](https://www.datacamp.com/courses)
+
+###### Data Science
+
+* [Statistical Learning from Stanford University](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about) - introduction to predictive modeling
+* [Machine Learning from Stanford University](https://www.coursera.org/learn/machine-learning) - graduate level data science (hard with a lot of math)
 
 ###### Excel
 
@@ -35,8 +42,6 @@ Please note that we have not reviewed every single resource below, and we do not
 
 ###### SQL/R/Python
 
-* [Code Academy](https://www.codecademy.com/)
-* [Data Camp](https://www.datacamp.com/courses)
 * [Stack Overflow](http://stackoverflow.com/)
 * [Basic SQL Overview](https://www.youtube.com/watch?v=pJCyTBkoIKA) (Video)
 * [What is a Database Overview](https://www.youtube.com/watch?v=Ls_LzOZ7x0c) (Video)

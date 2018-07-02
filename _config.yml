@@ -20,6 +20,12 @@ url: "http://luminousrubyist.github.io" # the base hostname & protocol for your 
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
 baseurl: ""
 
+metaKeywords: "crack the code, data, progressive, tech, analytics, equity, inclusion"
+# twitterAccount: "@DevFest"
+# socialImageSrcGooglePlus: "/img/seo/img_share.png"
+socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
+socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+
 # Build settings
 markdown: kramdown
 

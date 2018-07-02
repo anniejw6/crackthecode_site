@@ -16,7 +16,7 @@ keep_files:
 # Site settings
 title: Crack the Code
 subtitle: "We support a community of progressive data and technology professionals"
-url: "http://luminousrubyist.github.io" # the base hostname & protocol for your site
+url: "https://www.crackthecode.io/" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
 baseurl: ""
 

@@ -28,4 +28,6 @@ Project members have included the following:
 
 * Crack the Code Conference (2016): Anna Cooper, Kass DeVorsey, Dessa Gypalo, Cristina Sinclaire, Annie J. Wang
 
+* Salary Survey (2016)*: Kass DeVorsey, Amit Mistry, Annie J. Wang
+
 Events marked with `*` were not affiliated with Crack the Code at the time but have since become affiliated.

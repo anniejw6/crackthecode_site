@@ -8,7 +8,7 @@ We're a group of volunteers who care about increasing equity and inclusion withi
 
 The core organizers help facilitate different projects and the overall direction, and the project members have ownership over their work. We are always looking for more people to get involved.
 
-The core organizers include Kass DeVorsey (Minerva Insights), Dessa Gypalo (Cook County), Cristina Sinclaire (Clarity Campaign Labs), and Annie J. Wang (Yale Law School).
+The core organizers include Kass DeVorsey (Minerva Insights), Dessa Gypalo (Cook County), Cristina Sinclaire (Clarity Campaign Labs), and Annie J. Wang (Yale Law School). You can contact us at [contact@crackthecode.io](mailto:crackthecode.io).
 
 Project members have included the following:
 

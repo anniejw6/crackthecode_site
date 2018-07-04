@@ -1,6 +1,6 @@
 ---
 layout: info
-title: We are volunteer-run
+title: Our Team
 permalink: /team/
 ---
 
@@ -16,7 +16,7 @@ Project members have included the following:
 
 * Multi-City Happy Hour (2018): Dessa Gypalo + TBD
 
-* Salary Survey (2018): Sandhya Anantharaman, Anna Cooper, Lizzie Ellis, Chelsea Harris, and Audra Grassia [Waiting via CHelsea]
+* Salary Survey (2018): Sandhya Anantharaman, Anna Cooper, Lizzie Ellis, Chelsea Harris, and Audra Grassia
 
 * Crack the Code Conference (2018): Bridgit Donnelly, Anna Cooper, Kass DeVorsey, Jess Garson, Dessa Gypalo, Cristina Sinclaire, Annie J. Wang, Maya Yair
 

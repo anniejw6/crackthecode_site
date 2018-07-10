@@ -14,6 +14,8 @@ Project members have included the following:
 
 * INDEX MATCH (2018): Ameer Patel, Cindy Sui, and Cristina Sinclaire
 
+* Salary Survey (2018): Sandhya Anantharaman, Anna Cooper, Lizzie Ellis, Chelsea Harris, and Audra Grassia
+
 * Multi-City Happy Hour (2018): Dessa Gypalo + TBD
 
 * Crack the Code Conference (2018): Bridgit Donnelly, Anna Cooper, Kass DeVorsey, Jess Garson, Dessa Gypalo, Cristina Sinclaire, Annie J. Wang, Maya Yair

@@ -16,7 +16,7 @@ Project members have included the following:
 
 * Salary Survey (2018): Sandhya Anantharaman, Anna Cooper, Lizzie Ellis, Chelsea Harris, and Audra Grassia
 
-* Multi-City Happy Hour (2018): Dessa Gypalo (Chicago), Lena Tom (Chicago), Matthew Saniie (Chicago), Andrew Greenberg (Denver), Kate Dutch (Denver), Garrett Fardon (Denver), Andy Perry (LA)
+* Multi-City Happy Hour (2018): Dessa Gypalo (Chicago), Lena Tom (Chicago), Matthew Saniie (Chicago), Andrew Greenberg (Denver), Kate Duch (Denver), Garrett Fardon (Denver), Andy Perry (LA)
 
 * Crack the Code Conference (2018): Bridgit Donnelly, Anna Cooper, Kass DeVorsey, Jess Garson, Dessa Gypalo, Cristina Sinclaire, Annie J. Wang, Maya Yair
 

@@ -12,7 +12,7 @@ The core organizers include Kass DeVorsey, Dessa Gypalo, Cristina Sinclaire, and
 
 Project members have included the following:
 
-* INDEX MATCH (2018): Ameer Patel, Cindy Sui, and Cristina Sinclaire
+* INDEX MATCH (2018): Ameer Patel, Cindy Sui, and Cristina Sinclaire (with help from [Riki Conrey](https://rikiconrey.github.io/index_match_2018.html) on the matching)
 
 * Salary Survey (2018): Sandhya Anantharaman, Anna Cooper, Lizzie Ellis, Chelsea Harris, and Audra Grassia
 

@@ -1,0 +1,1754 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+
+
+<meta name="author" content="Anna Cooper, Audra Grassia, Chelsea Harris, Lizzie Ellis, Sandhya Anathamaran" />
+
+<meta name="date" content="2019-01-21" />
+
+<link rel="shortcut icon" href="/img/favicons/favicon.ico">
+    <link rel="apple-touch-icon" sizes="152x152" href="/img/favicons/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/img/favicons/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/img/favicons/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/img/favicons/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/img/favicons/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/img/favicons/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/img/favicons/apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="57x57" href="/img/favicons/apple-touch-icon-57x57.png">
+    <link rel="icon" type="image/png" href="/img/favicons/favicon-196x196.png">
+    <link rel="icon" type="image/png" href="/img/favicons/favicon-160x160.png">
+    <link rel="icon" type="image/png" href="/img/favicons/favicon-96x96.png">
+    <link rel="icon" type="image/png" href="/img/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" href="/img/favicons/favicon-16x16.png">
+    <meta name="msapplication-TileColor" content="#2b5797">
+    <meta name="msapplication-TileImage" content="/img/favicons/mstile-144x144.png">
+    <meta name="msapplication-config" content="/img/favicons/browserconfig.xml">
+
+
+<title>Progressive Data Salary Survey 2018</title>
+
+<script src="assets/output_files/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="assets/output_files/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<script src="assets/output_files/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="assets/output_files/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="assets/output_files/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="assets/output_files/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="assets/output_files/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="assets/output_files/tocify-1.9.1/jquery.tocify.js"></script>
+<script src="assets/output_files/navigation-1.1/tabsets.js"></script>
+<link href="assets/output_files/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="assets/output_files/highlightjs-9.12.0/highlight.js"></script>
+<script src="assets/output_files/kePrint-0.0.1/kePrint.js"></script>
+
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-46478165-3', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+
+</head>
+
+<body>
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+  height: auto;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+</style>
+
+
+
+<div class="container-fluid main-container">
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+
+<script>
+$(document).ready(function ()  {
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3,h4",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = false;
+    options.smoothScroll = false;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+  padding-left: 25px;
+  text-indent: 0;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+.tocify-subheader {
+  display: inline;
+}
+.tocify-subheader .tocify-item {
+  font-size: 0.95em;
+}
+
+</style>
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row-fluid">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+
+
+
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore">Progressive Data Salary Survey 2018</h1>
+<h4 class="author"><em>Anna Cooper, Audra Grassia, Chelsea Harris, Lizzie Ellis, Sandhya Anathamaran</em></h4>
+<h4 class="date"><em>January 21, 2019</em></h4>
+
+</div>
+
+
+<!-- This stuff sets the table width at 80% of total width -->
+<style type="text/css">
+.table {
+    margin-left:auto; 
+    margin-right:auto;
+    width: 80%;
+}
+</style>
+<div id="section" class="section level2">
+<h2></h2>
+<!--
+
+-->
+</div>
+<div id="executive-summary" class="section level1">
+<h1>Executive Summary</h1>
+<p><strong>About the Survey:</strong> This salary was administered in July and August 2018 to data, analytics, and technology practitioners in progressive politics. There were 347 respondents (a 27% increase from the 273 respondents <a href = "salary2017.html">in 2017</a>) recruited using snowball sampling: the survey was announced on a few major progressive data e-mail listservs, and readers were encouraged to share the survey around their offices. Survey organizers also reached out to specific, large organizations within the progressive community.</p>
+<p>See Notes for more information about who was eligible.</p>
+<p>Thank you to everyone who participated in or distributed this survey!</p>
+<p><strong>About Respondents:</strong></p>
+<ul>
+<li><p>Respondents were 50% cis women and 46% cis men, a notable change from last year when the majority of respondents (56%) were male.</p></li>
+<li><p>Respondents were 73% white.</p></li>
+<li><p>The median age was 25 to 29.</p></li>
+<li><p>93% of all respondents have a bachelor’s degree or above, and 63% earned their highest degree in the social sciences. This is comparable to last year’s results.</p></li>
+<li><p>There was wide distribution across different types of organizations, but Issue Advocacy Organizations (18%), Analytics &amp; Polling firms (16%) and Labor Unions (14%) represented nearly half of all respondents, similar to last year’s findings.</p></li>
+<li><p>A quarter of respondents reported that their primary function is general analytics or data science (23%). Field/grassroots/VAN admin (18%) and general data management and reporting (16%) were the next most commonly reported primary job functions.</p></li>
+<li><p>35% of all respondents were managers, meaning they managed 1 or more people. Unlike last year when men were 16% more likely to be managers than women, results were more comparable. 33% of men were managers and 36% of women were managers.</p></li>
+<li><p>The likelihood of being a manager did not meaningfully vary between white respondents and people of color.</p></li>
+</ul>
+<p><strong>Salary:</strong> The median salary reported was $75,000 to $79,999</p>
+<ul>
+<li><p>The median salary has stalled since 2014 when this survey began. The median salary that year was $79,500 for men and $72,000 for women. The median was not provided in the 2015 report, but the average was $76,506. In 2016 the median was $60,001 to $75,000. Last year’s (2017) median salary was $70,000 to $74,999. This year the median was $75,000 to $79,999.</p></li>
+<li>Inflation is one point higher than when the survey was administered in 2017 and wage growth is nearly five points higher, which could account for most of the 6.5 to 7% increase in the last year.</li>
+<li><p>Non-whites had a lower median salary at $70,000 to $74,999 versus $80,000 to $84,999 for whites. This gap persists across years of experience.</p></li>
+<li><p>Men and women had the same median salary at $75,000 to $79,999.</p></li>
+<li><p>Entry-level employees had a median salary of $55,000 to $59,999; mid-level employees $70,000 to $74,999; and senior / department-head employees $95,000 to $99,999. This is similar to last year’s results.</p></li>
+<li><p>Non-managers had a median salary of $70,000 to $74,999 while managers of 1-4 staffers made $10,000 more.</p></li>
+<li><p>Above a Bachelor’s degree, the positive relationship between level of education and salary is not statistically significant</p></li>
+</ul>
+<p><strong>Negotiation:</strong></p>
+<ul>
+<li><p>79% of all respondents who negotiated for an improvement in salary, benefits, or title received a positive outcome, including 73% who improved their compensation. Of those who improved their compensation, nearly 81% saw an increase greater than 5%.</p></li>
+<li><p>While women were more likely to negotiate (53%) than men (44%), women were less likely to be successful - 14% of women saw no improved compensation, benefits and/or title and only 6% of men failed to have a positive outcome.</p></li>
+</ul>
+</div>
+<div id="respondent-characteristics" class="section level1">
+<h1>Respondent Characteristics</h1>
+<div id="demographics" class="section level2 tabset">
+<h2>Demographics</h2>
+<div id="gender" class="section level3">
+<h3>Gender</h3>
+<p><strong>What is your gender identity?</strong> <img src="assets/output_files/figure-html-2018/unnamed-chunk-4-1.png" width="672" /></p>
+</div>
+<div id="raceethnicity" class="section level3">
+<h3>Race/Ethnicity</h3>
+<p><strong>What is your race / ethnicity?</strong> Please select all that apply. <img src="assets/output_files/figure-html-2018/unnamed-chunk-5-1.png" width="672" /></p>
+</div>
+<div id="age" class="section level3">
+<h3>Age</h3>
+<p><strong>What is your age?</strong> <img src="assets/output_files/figure-html-2018/unnamed-chunk-6-1.png" width="672" /></p>
+</div>
+<div id="sexuality" class="section level3">
+<h3>Sexuality</h3>
+<p><strong>Do you consider yourself to be …?</strong> <img src="assets/output_files/figure-html-2018/unnamed-chunk-7-1.png" width="768" /></p>
+</div>
+<div id="disability" class="section level3">
+<h3>Disability</h3>
+<p><strong>You are considered to have a disability if you have a physical or mental impairment or medical condition that substantially limits a major life activity, or if you have a history or record of such an impairment or medical condition.</strong></p>
+<p><img src="assets/output_files/figure-html-2018/unnamed-chunk-8-1.png" width="672" /></p>
+</div>
+<div id="immigration-status" class="section level3">
+<h3>Immigration Status</h3>
+<p><strong>How long have you or your family lived in the United States?</strong> <img src="assets/output_files/figure-html-2018/unnamed-chunk-9-1.png" width="768" /></p>
+</div>
+<div id="area" class="section level3">
+<h3>Area</h3>
+<p><strong>What’s your zip code?</strong> [only asked to US respondents, responses coded to Census metropolitan areas] <img src="assets/output_files/figure-html-2018/unnamed-chunk-10-1.png" width="672" /></p>
+</div>
+</div>
+<div id="education" class="section level2 tabset">
+<h2>Education</h2>
+<div id="highest-degree" class="section level3">
+<h3>Highest Degree</h3>
+<p><strong>What is the highest level of education that you have completed?</strong> <img src="assets/output_files/figure-html-2018/unnamed-chunk-11-1.png" width="672" /></p>
+</div>
+<div id="field-of-study" class="section level3">
+<h3>Field of Study</h3>
+<p><strong>The field of study for my most recent degree is…</strong> [only asked to respondents who have completed at least a Bachelor’s degree] <img src="assets/output_files/figure-html-2018/unnamed-chunk-12-1.png" width="672" /></p>
+</div>
+</div>
+<div id="employment-status" class="section level2 tabset">
+<h2>Employment Status</h2>
+<div id="current-status" class="section level3">
+<h3>Current Status</h3>
+<p><strong>What is your current employment status?</strong> <img src="assets/output_files/figure-html-2018/unnamed-chunk-13-1.png" width="672" /></p>
+</div>
+<div id="involvement-in-dataanalyticstech" class="section level3">
+<h3>Involvement in Data/Analytics/Tech</h3>
+<ul>
+<li>Is the primary focus (&gt;40% of resources) of your organization data, analytics, or technology?</li>
+<li>Is the primary focus (&gt;40% of resources) of your team data, analytics, or technology?</li>
+<li>Is the primary focus (&gt;40% of time) of your role data, analytics or technology? <img src="assets/output_files/figure-html-2018/unnamed-chunk-14-1.png" width="672" /></li>
+</ul>
+</div>
+</div>
+<div id="work-experience" class="section level2 tabset">
+<h2>Work Experience</h2>
+<div id="politics-data" class="section level3">
+<h3>Politics &amp; Data</h3>
+<p><strong>How many years of work experience do you have in progressive politics in data, analytics, and technology (i.e., how many years have you been a progressive data, analytics, or technology practitioner)?</strong> <img src="assets/output_files/figure-html-2018/unnamed-chunk-15-1.png" width="672" /></p>
+</div>
+<div id="politics-not-data" class="section level3">
+<h3>Politics, Not Data</h3>
+<p><strong>How many years of work experience do you have in progressive politics but not in data, analytics, and technology (i.e., exclude any years worked in data, analytics, and technology)?</strong> <img src="assets/output_files/figure-html-2018/unnamed-chunk-16-1.png" width="672" /></p>
+</div>
+<div id="data-not-politics" class="section level3">
+<h3>Data, Not Politics</h3>
+<p><strong>How many years of work experience do you have in data, analytics, and technology but not in progressive politics?</strong> <img src="assets/output_files/figure-html-2018/unnamed-chunk-17-1.png" width="672" /></p>
+</div>
+<div id="total" class="section level3">
+<h3>Total</h3>
+<p><img src="assets/output_files/figure-html-2018/unnamed-chunk-18-1.png" width="672" /></p>
+</div>
+</div>
+</div>
+<div id="job-characteristics" class="section level1">
+<h1>Job Characteristics</h1>
+<div id="organization-type" class="section level3">
+<h3>Organization Type</h3>
+<p><strong>How would you describe the organization?</strong></p>
+<p><img src="assets/output_files/figure-html-2018/unnamed-chunk-19-1.png" width="672" /></p>
+</div>
+<div id="primary-job-function" class="section level3">
+<h3>Primary Job Function</h3>
+<p><strong>What is your primary job function?</strong> If in management, please indicate the primary job function of your team. <img src="assets/output_files/figure-html-2018/unnamed-chunk-20-1.png" width="672" /></p>
+</div>
+<div id="seniority" class="section level3">
+<h3>Seniority</h3>
+<p><strong>How would you describe your level of seniority within the organization?</strong> <img src="assets/output_files/figure-html-2018/unnamed-chunk-21-1.png" width="672" /></p>
+</div>
+</div>
+<div id="management" class="section level1">
+<h1>Management</h1>
+<div id="management-overview" class="section level2 tabset">
+<h2>Management Overview</h2>
+<div id="overall" class="section level3">
+<h3>Overall</h3>
+<p><strong>How many full-time staffers do you manage? Please include everyone who reports “up the chain” to you, both directly or through layer(s) of management.</strong><br />
+<img src="assets/output_files/figure-html-2018/unnamed-chunk-22-1.png" width="672" /></p>
+</div>
+<div id="by-gender" class="section level3">
+<h3>By Gender</h3>
+<p><img src="assets/output_files/figure-html-2018/unnamed-chunk-23-1.png" width="576" /></p>
+</div>
+<div id="by-race" class="section level3">
+<h3>By Race</h3>
+<p><img src="assets/output_files/figure-html-2018/unnamed-chunk-24-1.png" width="768" /></p>
+</div>
+</div>
+<div id="time-writing-code" class="section level2 tabset">
+<h2>Time Writing Code</h2>
+<p><strong>What percentage of your time do you spend directly conducting analysis or writing code — as opposed to, e.g., communicating with external partners or managing staff?</strong></p>
+<div id="overall-1" class="section level3">
+<h3>Overall</h3>
+<p><img src="assets/output_files/figure-html-2018/unnamed-chunk-25-1.png" width="672" /></p>
+</div>
+<div id="by-seniority" class="section level3">
+<h3>By Seniority</h3>
+<p><img src="assets/output_files/figure-html-2018/unnamed-chunk-26-1.png" width="672" /></p>
+</div>
+<div id="by-job-type" class="section level3">
+<h3>By Job Type</h3>
+<p><img src="assets/output_files/figure-html-2018/unnamed-chunk-27-1.png" width="672" /></p>
+</div>
+</div>
+</div>
+<div id="salary-overview" class="section level1">
+<h1>Salary Overview</h1>
+<p><strong>Please describe the total expected annual pre-tax income, including bonuses or commissions. This figure may be salaried or unsalaried.</strong></p>
+<div id="salary-distribution" class="section level2">
+<h2>Salary Distribution</h2>
+<p>The median salary is $75,000 to $79,000 <img src="assets/output_files/figure-html-2018/unnamed-chunk-28-1.png" width="672" /></p>
+<p>For numeric analyses, salary was recorded as the midpoint of the interval. For those reporting salary under $20,000, the value recorded was $20,000, and for those reporting salary over $200,000, the value recorded was $200,000.</p>
+</div>
+<div id="benefits" class="section level2">
+<h2>Benefits</h2>
+<p><strong>Which of the following benefits are you personally eligible for? Select all that apply.</strong> <img src="assets/output_files/figure-html-2018/unnamed-chunk-29-1.png" width="864" /></p>
+</div>
+<div id="negotiation" class="section level2">
+<h2>Negotiation</h2>
+<p><strong>During your last job offer or performance review, did you try to negotiate your salary?</strong> <img src="assets/output_files/figure-html-2018/unnamed-chunk-30-1.png" width="672" /></p>
+<p><strong>Was your negotiation successful? Please select all that apply.</strong> [only asked to respondents who attempted a negotiation] <img src="assets/output_files/figure-html-2018/unnamed-chunk-31-1.png" width="672" /></p>
+<p><strong>What was % increase in compensation that you negotiated?</strong> For example, if your base salary is $50,000 and you negotiated a raise of $5,000, that is a 10% increase ($5,000 / $50,000). [only asked to respondents who reported an increase in compensation after negotiating]** <img src="assets/output_files/figure-html-2018/unnamed-chunk-32-1.png" width="672" /></p>
+</div>
+<div id="negotiation-crosstabs" class="section level2 tabset">
+<h2>Negotiation Crosstabs</h2>
+<div id="gender-1" class="section level3">
+<h3>Gender</h3>
+<p><img src="assets/output_files/figure-html-2018/unnamed-chunk-33-1.png" width="768" /></p>
+</div>
+<div id="race" class="section level3">
+<h3>Race</h3>
+<p><img src="assets/output_files/figure-html-2018/unnamed-chunk-34-1.png" width="960" /></p>
+</div>
+</div>
+</div>
+<div id="salary-crosstabs" class="section level1">
+<h1>Salary Crosstabs</h1>
+<div id="respondent-characteristics-1" class="section level2 tabset">
+<h2>Respondent Characteristics</h2>
+<div id="gender-2" class="section level3">
+<h3>Gender</h3>
+<p><img src="assets/output_files/figure-html-2018/unnamed-chunk-35-1.png" width="672" /></p>
+</div>
+<div id="race-1" class="section level3">
+<h3>Race</h3>
+<p><img src="assets/output_files/figure-html-2018/unnamed-chunk-36-1.png" width="672" /></p>
+</div>
+<div id="gender-race" class="section level3">
+<h3>Gender &amp; Race</h3>
+<table class="table table-striped" style="margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="text-align:left;">
+race
+</th>
+<th style="text-align:left;">
+gender
+</th>
+<th style="text-align:left;">
+mean
+</th>
+<th style="text-align:left;">
+median
+</th>
+<th style="text-align:right;">
+n
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+POC
+</td>
+<td style="text-align:left;">
+Male
+</td>
+<td style="text-align:left;">
+$73,445
+</td>
+<td style="text-align:left;">
+$70,000 to $74,999
+</td>
+<td style="text-align:right;">
+37
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+POC
+</td>
+<td style="text-align:left;">
+Other/Female
+</td>
+<td style="text-align:left;">
+$73,750
+</td>
+<td style="text-align:left;">
+$70,000 to $74,999
+</td>
+<td style="text-align:right;">
+46
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+White
+</td>
+<td style="text-align:left;">
+Male
+</td>
+<td style="text-align:left;">
+$87,747
+</td>
+<td style="text-align:left;">
+$80,000 to $84,999
+</td>
+<td style="text-align:right;">
+101
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+White
+</td>
+<td style="text-align:left;">
+Other/Female
+</td>
+<td style="text-align:left;">
+$84,827
+</td>
+<td style="text-align:left;">
+$80,000 to $84,999
+</td>
+<td style="text-align:right;">
+116
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="age-1" class="section level3">
+<h3>Age</h3>
+<table class="table table-striped" style="margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="text-align:left;">
+age
+</th>
+<th style="text-align:left;">
+mean
+</th>
+<th style="text-align:left;">
+median
+</th>
+<th style="text-align:right;">
+n
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+20-24
+</td>
+<td style="text-align:left;">
+$57,949
+</td>
+<td style="text-align:left;">
+$55,000 to $59,999
+</td>
+<td style="text-align:right;">
+39
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+25-29
+</td>
+<td style="text-align:left;">
+$77,120
+</td>
+<td style="text-align:left;">
+$70,000 to $74,999
+</td>
+<td style="text-align:right;">
+112
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+30-34
+</td>
+<td style="text-align:left;">
+$90,305
+</td>
+<td style="text-align:left;">
+$80,000 to $84,999
+</td>
+<td style="text-align:right;">
+82
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+35-39
+</td>
+<td style="text-align:left;">
+$96,309
+</td>
+<td style="text-align:left;">
+$90,000 to $94,999
+</td>
+<td style="text-align:right;">
+42
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+40-44
+</td>
+<td style="text-align:left;">
+$102,679
+</td>
+<td style="text-align:left;">
+$95,000 to $99,999
+</td>
+<td style="text-align:right;">
+14
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+45-49
+</td>
+<td style="text-align:left;">
+$93,214
+</td>
+<td style="text-align:left;">
+$85,000 to $89,999
+</td>
+<td style="text-align:right;">
+7
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="sexuality-1" class="section level3">
+<h3>Sexuality</h3>
+<table class="table table-striped" style="margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="text-align:left;">
+sexuality
+</th>
+<th style="text-align:left;">
+mean
+</th>
+<th style="text-align:left;">
+median
+</th>
+<th style="text-align:right;">
+n
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+Heterosexual or straight
+</td>
+<td style="text-align:left;">
+$83,441
+</td>
+<td style="text-align:left;">
+$75,000 to $79,999
+</td>
+<td style="text-align:right;">
+215
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Bisexual
+</td>
+<td style="text-align:left;">
+$81,544
+</td>
+<td style="text-align:left;">
+$70,000 to $74,999
+</td>
+<td style="text-align:right;">
+34
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Gay or Lesbian
+</td>
+<td style="text-align:left;">
+$80,985
+</td>
+<td style="text-align:left;">
+$75,000 to $79,999
+</td>
+<td style="text-align:right;">
+33
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Different identity
+</td>
+<td style="text-align:left;">
+$76,094
+</td>
+<td style="text-align:left;">
+$65,000 to $69,999
+</td>
+<td style="text-align:right;">
+16
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="disability-1" class="section level3">
+<h3>Disability</h3>
+<table class="table table-striped" style="margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="text-align:left;">
+disability
+</th>
+<th style="text-align:left;">
+mean
+</th>
+<th style="text-align:left;">
+median
+</th>
+<th style="text-align:right;">
+n
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+No, I don’t have a disability
+</td>
+<td style="text-align:left;">
+$83,221
+</td>
+<td style="text-align:left;">
+$75,000 to $79,999
+</td>
+<td style="text-align:right;">
+253
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Yes, I have or previously had a disability
+</td>
+<td style="text-align:left;">
+$76,094
+</td>
+<td style="text-align:left;">
+$75,000 to $79,999
+</td>
+<td style="text-align:right;">
+38
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Other
+</td>
+<td style="text-align:left;">
+$72,500
+</td>
+<td style="text-align:left;">
+$70,000 to $74,999
+</td>
+<td style="text-align:right;">
+6
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div id="education-1" class="section level2 tabset">
+<h2>Education</h2>
+<div id="highest-degree-1" class="section level3">
+<h3>Highest Degree</h3>
+<table class="table table-striped" style="margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="text-align:left;">
+education
+</th>
+<th style="text-align:left;">
+mean
+</th>
+<th style="text-align:left;">
+median
+</th>
+<th style="text-align:right;">
+n
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+Doctoral Degree (PhD)
+</td>
+<td style="text-align:left;">
+$99,772
+</td>
+<td style="text-align:left;">
+$90,000 to $94,999
+</td>
+<td style="text-align:right;">
+11
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Master’s or Professional Degree (MA, MPP, JD, etc.)
+</td>
+<td style="text-align:left;">
+$92,375
+</td>
+<td style="text-align:left;">
+$80,000 to $84,999
+</td>
+<td style="text-align:right;">
+60
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Post-bachelor’s Work, no Higher Degree
+</td>
+<td style="text-align:left;">
+$79,600
+</td>
+<td style="text-align:left;">
+$80,000 to $84,999
+</td>
+<td style="text-align:right;">
+25
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Bachelor’s Degree
+</td>
+<td style="text-align:left;">
+$77,826
+</td>
+<td style="text-align:left;">
+$70,000 to $74,999
+</td>
+<td style="text-align:right;">
+184
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Associate’s Degree
+</td>
+<td style="text-align:left;">
+$90,357
+</td>
+<td style="text-align:left;">
+$90,000 to $94,999
+</td>
+<td style="text-align:right;">
+7
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+High School Diploma or GED
+</td>
+<td style="text-align:left;">
+$68,214
+</td>
+<td style="text-align:left;">
+$75,000 to $79,999
+</td>
+<td style="text-align:right;">
+7
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Other
+</td>
+<td style="text-align:left;">
+$125,417
+</td>
+<td style="text-align:left;">
+$115,000 to $119,999
+</td>
+<td style="text-align:right;">
+6
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="field-of-study-1" class="section level3">
+<h3>Field of Study</h3>
+<table class="table table-striped" style="margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="text-align:left;">
+field of study
+</th>
+<th style="text-align:left;">
+mean
+</th>
+<th style="text-align:left;">
+median
+</th>
+<th style="text-align:right;">
+n
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+Applied Sciences (Engineering, Computer Science, etc.)
+</td>
+<td style="text-align:left;">
+$83,942
+</td>
+<td style="text-align:left;">
+$75,000 to $79,999
+</td>
+<td style="text-align:right;">
+26
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Formal Sciences (Mathematics, Statistics, etc.)
+</td>
+<td style="text-align:left;">
+$94,265
+</td>
+<td style="text-align:left;">
+$85,000 to $89,999
+</td>
+<td style="text-align:right;">
+17
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Humanities (Philosophy, English, Art, etc.)
+</td>
+<td style="text-align:left;">
+$84,797
+</td>
+<td style="text-align:left;">
+$80,000 to $84,999
+</td>
+<td style="text-align:right;">
+37
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Natural Sciences (Chemistry, Physics, Biology, etc)
+</td>
+<td style="text-align:left;">
+$72,727
+</td>
+<td style="text-align:left;">
+$70,000 to $74,999
+</td>
+<td style="text-align:right;">
+11
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Social Sciences (Political Science, Economics, Policy, Law, etc.)
+</td>
+<td style="text-align:left;">
+$82,000
+</td>
+<td style="text-align:left;">
+$75,000 to $79,999
+</td>
+<td style="text-align:right;">
+180
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Other / I’m not sure
+</td>
+<td style="text-align:left;">
+$81,964
+</td>
+<td style="text-align:left;">
+$70,000 to $74,999
+</td>
+<td style="text-align:right;">
+14
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div id="work-experience-1" class="section level2">
+<h2>Work Experience</h2>
+<p><img src="assets/output_files/figure-html-2018/unnamed-chunk-43-1.png" width="672" /></p>
+</div>
+<div id="job-characteristics-1" class="section level2 tabset">
+<h2>Job Characteristics</h2>
+<div id="organization" class="section level3">
+<h3>Organization</h3>
+<table class="table table-striped" style="margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="text-align:left;">
+organization type
+</th>
+<th style="text-align:left;">
+mean
+</th>
+<th style="text-align:left;">
+median
+</th>
+<th style="text-align:right;">
+n
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+Analytics / Polling firm
+</td>
+<td style="text-align:left;">
+$85,134
+</td>
+<td style="text-align:left;">
+$80,000 to $84,999
+</td>
+<td style="text-align:right;">
+56
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Government agency, contractor, or related employer
+</td>
+<td style="text-align:left;">
+$100,357
+</td>
+<td style="text-align:left;">
+$90,000 to $94,999
+</td>
+<td style="text-align:right;">
+21
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Issue or Advocacy Organization
+</td>
+<td style="text-align:left;">
+$83,500
+</td>
+<td style="text-align:left;">
+$80,000 to $84,999
+</td>
+<td style="text-align:right;">
+60
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Labor union
+</td>
+<td style="text-align:left;">
+$81,543
+</td>
+<td style="text-align:left;">
+$75,000 to $79,999
+</td>
+<td style="text-align:right;">
+47
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Non-issue-specific Independent Expenditure group
+</td>
+<td style="text-align:left;">
+$83,214
+</td>
+<td style="text-align:left;">
+$70,000 to $74,999
+</td>
+<td style="text-align:right;">
+21
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Other consulting firm (media, field, digital, etc.)
+</td>
+<td style="text-align:left;">
+$91,771
+</td>
+<td style="text-align:left;">
+$85,000 to $89,999
+</td>
+<td style="text-align:right;">
+24
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Party committee
+</td>
+<td style="text-align:left;">
+$69,211
+</td>
+<td style="text-align:left;">
+$60,000 to $64,999
+</td>
+<td style="text-align:right;">
+38
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Political campaign
+</td>
+<td style="text-align:left;">
+$62,833
+</td>
+<td style="text-align:left;">
+$55,000 to $59,999
+</td>
+<td style="text-align:right;">
+15
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Vendor (e.g., technology vendor)
+</td>
+<td style="text-align:left;">
+$91,667
+</td>
+<td style="text-align:left;">
+$80,000 to $84,999
+</td>
+<td style="text-align:right;">
+39
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Other
+</td>
+<td style="text-align:left;">
+$86,429
+</td>
+<td style="text-align:left;">
+$75,000 to $79,999
+</td>
+<td style="text-align:right;">
+14
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="seniority-1" class="section level3">
+<h3>Seniority</h3>
+<table class="table table-striped" style="margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="text-align:left;">
+seniority
+</th>
+<th style="text-align:left;">
+mean
+</th>
+<th style="text-align:left;">
+median
+</th>
+<th style="text-align:right;">
+n
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+Organization Head
+</td>
+<td style="text-align:left;">
+$69,167
+</td>
+<td style="text-align:left;">
+$60,000 to $64,999
+</td>
+<td style="text-align:right;">
+6
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Department Head
+</td>
+<td style="text-align:left;">
+$99,405
+</td>
+<td style="text-align:left;">
+$95,000 to $99,999
+</td>
+<td style="text-align:right;">
+63
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Senior-Level but not Department Head
+</td>
+<td style="text-align:left;">
+$100,281
+</td>
+<td style="text-align:left;">
+$95,000 to $99,999
+</td>
+<td style="text-align:right;">
+80
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Mid-Level
+</td>
+<td style="text-align:left;">
+$74,922
+</td>
+<td style="text-align:left;">
+$70,000 to $74,999
+</td>
+<td style="text-align:right;">
+128
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Entry-Level
+</td>
+<td style="text-align:left;">
+$57,606
+</td>
+<td style="text-align:left;">
+$55,000 to $59,999
+</td>
+<td style="text-align:right;">
+47
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Freelance
+</td>
+<td style="text-align:left;">
+$97,500
+</td>
+<td style="text-align:left;">
+$90,000 to $94,999
+</td>
+<td style="text-align:right;">
+10
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Other
+</td>
+<td style="text-align:left;">
+$52,500
+</td>
+<td style="text-align:left;">
+$50,000 to $54,999
+</td>
+<td style="text-align:right;">
+1
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="management-1" class="section level3">
+<h3>Management</h3>
+<table class="table table-striped" style="margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="text-align:left;">
+staff managed
+</th>
+<th style="text-align:left;">
+mean
+</th>
+<th style="text-align:left;">
+median
+</th>
+<th style="text-align:right;">
+n
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+0 staffers
+</td>
+<td style="text-align:left;">
+$76,500
+</td>
+<td style="text-align:left;">
+$70,000 to $74,999
+</td>
+<td style="text-align:right;">
+218
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1-4 staffers
+</td>
+<td style="text-align:left;">
+$88,313
+</td>
+<td style="text-align:left;">
+$80,000 to $84,999
+</td>
+<td style="text-align:right;">
+83
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+5-9 staffers
+</td>
+<td style="text-align:left;">
+$117,500
+</td>
+<td style="text-align:left;">
+$115,000 to $119,999
+</td>
+<td style="text-align:right;">
+21
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+More than 10 staffers
+</td>
+<td style="text-align:left;">
+$118,269
+</td>
+<td style="text-align:left;">
+$120,000 to $124,999
+</td>
+<td style="text-align:right;">
+13
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="primary-job-function-1" class="section level3">
+<h3>Primary Job Function</h3>
+<table class="table table-striped" style="margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="text-align:left;">
+primary job function
+</th>
+<th style="text-align:left;">
+mean
+</th>
+<th style="text-align:left;">
+median
+</th>
+<th style="text-align:right;">
+n
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+Consulting / client relations
+</td>
+<td style="text-align:left;">
+$106,196
+</td>
+<td style="text-align:left;">
+$95,000 to $99,999
+</td>
+<td style="text-align:right;">
+23
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Data infrastructure and processing
+</td>
+<td style="text-align:left;">
+$73,942
+</td>
+<td style="text-align:left;">
+$75,000 to $79,999
+</td>
+<td style="text-align:right;">
+26
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Development / fundraising-focused data
+</td>
+<td style="text-align:left;">
+$57,500
+</td>
+<td style="text-align:left;">
+$55,000 to $59,999
+</td>
+<td style="text-align:right;">
+5
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Digital data and analytics
+</td>
+<td style="text-align:left;">
+$75,000
+</td>
+<td style="text-align:left;">
+$75,000 to $79,999
+</td>
+<td style="text-align:right;">
+14
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Engineering / software development
+</td>
+<td style="text-align:left;">
+$95,357
+</td>
+<td style="text-align:left;">
+$85,000 to $89,999
+</td>
+<td style="text-align:right;">
+21
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Field/grassroots-focused data (e.g. VAN admin)
+</td>
+<td style="text-align:left;">
+$67,379
+</td>
+<td style="text-align:left;">
+$65,000 to $69,999
+</td>
+<td style="text-align:right;">
+62
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+General analytics or data science
+</td>
+<td style="text-align:left;">
+$86,067
+</td>
+<td style="text-align:left;">
+$75,000 to $79,999
+</td>
+<td style="text-align:right;">
+75
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+General data management and reporting
+</td>
+<td style="text-align:left;">
+$81,591
+</td>
+<td style="text-align:left;">
+$75,000 to $79,999
+</td>
+<td style="text-align:right;">
+55
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Polling and Research
+</td>
+<td style="text-align:left;">
+$82,083
+</td>
+<td style="text-align:left;">
+$80,000 to $84,999
+</td>
+<td style="text-align:right;">
+18
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Product / Project management
+</td>
+<td style="text-align:left;">
+$112,917
+</td>
+<td style="text-align:left;">
+$100,000 to $104,999
+</td>
+<td style="text-align:right;">
+18
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Other
+</td>
+<td style="text-align:left;">
+$94,265
+</td>
+<td style="text-align:left;">
+$90,000 to $94,999
+</td>
+<td style="text-align:right;">
+17
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div id="career-plans" class="section level2 tabset">
+<h2>Career Plans</h2>
+<div id="next-step" class="section level3">
+<h3>Next Step</h3>
+<p><strong>Respondents could have selected more than one choice or not made a selection. Percentages shown are of all respondents regardless of whether they answered the question.</strong> <img src="assets/output_files/figure-html-2018/unnamed-chunk-48-1.png" width="864" /></p>
+</div>
+<div id="plans-to-leave" class="section level3">
+<h3>Plans to Leave</h3>
+<p><strong>Are you planning to leave your organization within the next year?</strong> [only asked if respondent’s current employment status was not “Unemployed” or “Freelance”] <img src="assets/output_files/figure-html-2018/unnamed-chunk-49-1.png" width="672" /></p>
+</div>
+<div id="expect-to-be-in-one-year" class="section level3">
+<h3>Expect to be in One Year</h3>
+<p><strong>Where do you want or expect to be working a year from now? Select all that apply.</strong> [only asked if respondents indicated (to the question about where they would be in one year) if they planned to actively look for new opportunities or if they might leave or if they indicated (to the question about next career steps) if they planned to move to another organization.]</p>
+<p><img src="assets/output_files/figure-html-2018/unnamed-chunk-50-1.png" width="864" /></p>
+</div>
+<div id="top-choice-organization" class="section level3">
+<h3>Top Choice Organization</h3>
+<p>Respondents could have selected more than one choice or not made a selection. Percentages shown are of all respondents regardless of whether they answered the question.</p>
+<p><img src="assets/output_files/figure-html-2018/unnamed-chunk-51-1.png" width="672" /></p>
+<p>The following organizations each had 2 votes: 18F, Action Network, AFSCME, Catalist, Empower Engine, Everytown for Gun Safety, FiveThirtyEight, Google, Hustle, NDRC, Obama Foundation, Salesforce, self-employment</p>
+<p>The following organizations each had 1 vote: 270 to Win, Actionkit, Airbnb, America Votes, Black Lives Matter, City government, Colorlines, CZI, DCCC, Democratic Socialists of America, Enigma Technologies, GiveWell, Human Rights Campaign, Integral, LCV, Mobilize America, NAACP, NEA, New America, NNU, Optoro, Our Revolution, PDI, Southern Poverty Law Center, Sum of Us, TakeAction MN, The Lab @ DC, The NBA, threespot, Urban Institute, White House (2021)</p>
+</div>
+</div>
+</div>
+<div id="notes" class="section level1 tabset">
+<h1>Notes</h1>
+<div id="eligibility" class="section level3">
+<h3>Eligibility</h3>
+<p>Respondents were only eligible to take this survey if (1) they worked in progressive politics AND (2) if their organization, role, or team focused on data, analytics, or technology.</p>
+<p>Respondents satisfied the first criteria if they answered “Yes” to one of the following two questions:</p>
+<ul>
+<li><p>Do you currently work at an organization that either works in progressive politics or has some clients who work in progressive politics? Or, if you freelance, do you have some clients that work in progressive politics?</p></li>
+<li><p>Within the last 12 months, have you worked at an organization that either works in progressive politics or has some clients who work in progressive politics? Or, if you freelanced, did you have some clients that worked in progressive politics?“</p></li>
+</ul>
+<p>If the answer to both was “No”, the respondent was not permitted to proceed with the survey.</p>
+<p>The second criteria was satisfied if the respondents answered “Yes” to one or more of the following questions:</p>
+<ul>
+<li><p>Is the primary focus (&gt;40% of resources) of your organization data, analytics, or technology?</p></li>
+<li><p>Is the primary focus (&gt;40% of resources) of your team data, analytics, or technology?</p></li>
+<li><p>Is the primary focus (&gt;40% of time) of your role data, analytics or technology?</p></li>
+</ul>
+</div>
+<div id="author-and-thanks" class="section level3">
+<h3>Author and Thanks</h3>
+<p>This year’s salary survey was written and analyzed by the 2018 Salary Survey team: Anna Cooper, Audra Grassia, Chelsea Harris, Lizzie Ellis, and Sandhya Anathamaran. Please reach out to Chelsea at <a href="mailto:chelsea.e.harris89@gmail.com">chelsea.e.harris89@gmail.com</a> if you have questions, comments, or concerns.</p>
+<p>We are grateful to the following people for reviewing and/or disseminating the survey (listed alphabetically): Brett Benson, Jenn Cervella, Kass Devorsey, Bridget Donnelly, Anna Gilbert, Rohan Grover, Dessa Gypalo, Katherine Haenschen, John Hagner, David Joseph, Madeleine Leader, Amit Mistry, Mark Morgioni, Matthew Phillips, Jim Pugh, Rebecca Ruechel, Cristina Sinclaire, Michael Schwam-Baird, David Shor, Lena Tom, Annie Wang, Mark White, Michael Wood, Nina Wornhoff.</p>
+<p>And the biggest thank you goes to everyone who took the survey!</p>
+</div>
+</div>
+
+
+
+</div>
+</div>
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

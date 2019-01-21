@@ -14,7 +14,7 @@ Project members have included the following:
 
 * INDEX MATCH (2018): Ameer Patel, Cindy Sui, and Cristina Sinclaire (with help from [Riki Conrey](https://rikiconrey.github.io/index_match_2018.html) on the matching)
 
-* Salary Survey (2018): Sandhya Anantharaman, Anna Cooper, Lizzie Ellis, Chelsea Harris, and Audra Grassia
+* Salary Survey (2018): Anna Cooper, Audra Grassia, Chelsea Harris, Lizzie Ellis, and Sandhya Anathamaran
 
 * Multi-City Happy Hour (2018): Dessa Gypalo (Chicago), Lena Tom (Chicago), Matthew Saniie (Chicago), Andrew Greenberg (Denver), Kate Duch (Denver), Garrett Fardon (Denver), Andy Perry (LA)
 
